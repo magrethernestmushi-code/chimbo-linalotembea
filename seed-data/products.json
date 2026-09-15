@@ -1,0 +1,1145 @@
+[
+  {
+    "id": 1,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Honor Bulb",
+    "variants": [
+      {
+        "label": "3W",
+        "price": 7500,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "5W",
+        "price": 9000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "7W",
+        "price": 12000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "9W",
+        "price": 13000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "12W",
+        "price": 15000,
+        "note": "(10pcs)"
+      }
+    ],
+    "priceMin": 7500,
+    "priceMax": 15000,
+    "image": "/images/products/1.jpg",
+    "active": true
+  },
+  {
+    "id": 2,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Ailyons Bulb",
+    "variants": [
+      {
+        "label": "28W",
+        "price": 4350,
+        "note": "/ pc"
+      },
+      {
+        "label": "38W",
+        "price": 5700,
+        "note": "/ pc"
+      },
+      {
+        "label": "48W",
+        "price": 6500,
+        "note": "/ pc"
+      }
+    ],
+    "priceMin": 4350,
+    "priceMax": 6500,
+    "image": "/images/products/2.jpg",
+    "active": true
+  },
+  {
+    "id": 3,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Mwangatop Bulb",
+    "variants": [
+      {
+        "label": "18W",
+        "price": 28000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "28W",
+        "price": 40000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "38W",
+        "price": 60000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "48W",
+        "price": 70000,
+        "note": "(10pcs)"
+      }
+    ],
+    "priceMin": 28000,
+    "priceMax": 70000,
+    "image": "/images/products/3.jpg",
+    "active": true
+  },
+  {
+    "id": 4,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Tronic Bulb",
+    "variants": [
+      {
+        "label": "5W",
+        "price": 17000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "7W",
+        "price": 18000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "9W",
+        "price": 19500,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "12W",
+        "price": 24000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "15W",
+        "price": 31000,
+        "note": "(10pcs)"
+      }
+    ],
+    "priceMin": 17000,
+    "priceMax": 31000,
+    "image": "/images/products/4.jpg",
+    "active": true
+  },
+  {
+    "id": 5,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "PIN / SCR Lighting",
+    "variants": [
+      {
+        "label": "8W",
+        "price": 21000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "15W",
+        "price": 35000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "18W",
+        "price": 39000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "24W",
+        "price": 57000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "35W",
+        "price": 43000,
+        "note": "(5pcs)"
+      }
+    ],
+    "priceMin": 21000,
+    "priceMax": 57000,
+    "image": "/images/products/5.jpg",
+    "active": true
+  },
+  {
+    "id": 6,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "White / Warm Lights",
+    "variants": [
+      {
+        "label": "18W WHITE/WARM",
+        "price": 49000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "35W WHITE",
+        "price": 37500,
+        "note": "(5pcs)"
+      },
+      {
+        "label": "45W WHITE",
+        "price": 48000,
+        "note": "(4pcs)"
+      }
+    ],
+    "priceMin": 37500,
+    "priceMax": 49000,
+    "image": "/images/products/6.jpg",
+    "active": true
+  },
+  {
+    "id": 7,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "Solar & Specialty Bulbs",
+    "variants": [
+      {
+        "label": "Solar bulb 3W",
+        "price": 20000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Honor change colour 7W",
+        "price": 28500,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Desert Storm 100W",
+        "price": 20000,
+        "note": "(10pcs)"
+      }
+    ],
+    "priceMin": 20000,
+    "priceMax": 28500,
+    "image": "/images/products/7.jpg",
+    "active": true
+  },
+  {
+    "id": 8,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "LED / Decorative Option",
+    "variants": [
+      {
+        "label": "G-well GL-931",
+        "price": 11000,
+        "note": ""
+      },
+      {
+        "label": "Additional LED item",
+        "price": 8500,
+        "note": ""
+      }
+    ],
+    "priceMin": 8500,
+    "priceMax": 11000,
+    "image": "/images/products/8.jpg",
+    "active": true
+  },
+  {
+    "id": 9,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Africab Switch Gang",
+    "variants": [
+      {
+        "label": "1 Gang 1 Way",
+        "price": 12000,
+        "note": ""
+      },
+      {
+        "label": "1 Gang 2 Way",
+        "price": 13000,
+        "note": ""
+      },
+      {
+        "label": "2 Gang 1 Way",
+        "price": 15000,
+        "note": ""
+      },
+      {
+        "label": "2 Gang 2 Way",
+        "price": 17000,
+        "note": ""
+      },
+      {
+        "label": "3 Gang 1 Way",
+        "price": 19000,
+        "note": ""
+      }
+    ],
+    "priceMin": 12000,
+    "priceMax": 19000,
+    "image": "/images/products/9.jpg",
+    "active": true
+  },
+  {
+    "id": 10,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Premium Switch Gang",
+    "variants": [
+      {
+        "label": "1 Gang 1 Way",
+        "price": 32000,
+        "note": ""
+      },
+      {
+        "label": "1 Gang 2 Way",
+        "price": 34500,
+        "note": ""
+      },
+      {
+        "label": "2 Gang 1 Way",
+        "price": 38000,
+        "note": ""
+      },
+      {
+        "label": "2 Gang 2 Way",
+        "price": 41500,
+        "note": ""
+      },
+      {
+        "label": "3 Gang 1 Way",
+        "price": 47000,
+        "note": ""
+      }
+    ],
+    "priceMin": 32000,
+    "priceMax": 47000,
+    "image": "/images/products/10.jpg",
+    "active": true
+  },
+  {
+    "id": 11,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Hippo Switch & Socket",
+    "variants": [
+      {
+        "label": "Socket Single",
+        "price": 18500,
+        "note": ""
+      },
+      {
+        "label": "Socket Double",
+        "price": 19000,
+        "note": ""
+      },
+      {
+        "label": "1 Gang",
+        "price": 10000,
+        "note": ""
+      },
+      {
+        "label": "2 Gang",
+        "price": 15000,
+        "note": ""
+      },
+      {
+        "label": "3 Gang",
+        "price": 17000,
+        "note": ""
+      }
+    ],
+    "priceMin": 10000,
+    "priceMax": 19000,
+    "image": "/images/products/11.jpg",
+    "active": true
+  },
+  {
+    "id": 12,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Tronic D.P. Switch",
+    "variants": [
+      {
+        "label": "D.P Switch Tronic",
+        "price": 54000,
+        "note": ""
+      }
+    ],
+    "priceMin": 54000,
+    "priceMax": 54000,
+    "image": "/images/products/12.jpg",
+    "active": true
+  },
+  {
+    "id": 13,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Africab Switch Socket",
+    "variants": [
+      {
+        "label": "Single",
+        "price": 18500,
+        "note": ""
+      },
+      {
+        "label": "Double",
+        "price": 18500,
+        "note": ""
+      }
+    ],
+    "priceMin": 18500,
+    "priceMax": 18500,
+    "image": "/images/products/13.jpg",
+    "active": true
+  },
+  {
+    "id": 14,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Switch Socket Premium",
+    "variants": [
+      {
+        "label": "Single",
+        "price": 49000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Double",
+        "price": 44000,
+        "note": "(5pcs)"
+      }
+    ],
+    "priceMin": 44000,
+    "priceMax": 49000,
+    "image": "/images/products/14.jpg",
+    "active": true
+  },
+  {
+    "id": 15,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Lamp Holders",
+    "variants": [
+      {
+        "label": "Ailyons Small",
+        "price": 6500,
+        "note": ""
+      },
+      {
+        "label": "Ailyons Big",
+        "price": 9000,
+        "note": ""
+      },
+      {
+        "label": "Africab Holder",
+        "price": 12000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Holder Big",
+        "price": 8500,
+        "note": ""
+      },
+      {
+        "label": "Holder Small",
+        "price": 6500,
+        "note": ""
+      }
+    ],
+    "priceMin": 6500,
+    "priceMax": 12000,
+    "image": "/images/products/15.jpg",
+    "active": true
+  },
+  {
+    "id": 16,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Tronic Straight & Angle",
+    "variants": [
+      {
+        "label": "Tronic Holder Straight/Angle",
+        "price": 24000,
+        "note": ""
+      }
+    ],
+    "priceMin": 24000,
+    "priceMax": 24000,
+    "image": "/images/products/16.jpg",
+    "active": true
+  },
+  {
+    "id": 17,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Single Wire",
+    "variants": [
+      {
+        "label": "1.5mm",
+        "price": 74000,
+        "note": ""
+      },
+      {
+        "label": "2.5mm",
+        "price": 118000,
+        "note": ""
+      },
+      {
+        "label": "4mm",
+        "price": 196000,
+        "note": ""
+      },
+      {
+        "label": "6mm",
+        "price": 300000,
+        "note": ""
+      },
+      {
+        "label": "10mm",
+        "price": 484000,
+        "note": ""
+      }
+    ],
+    "priceMin": 74000,
+    "priceMax": 484000,
+    "image": "/images/products/17.jpg",
+    "active": true
+  },
+  {
+    "id": 18,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "East Africa Cable",
+    "variants": [
+      {
+        "label": "1.5 Roller",
+        "price": 45000,
+        "note": ""
+      },
+      {
+        "label": "2.5 Roller",
+        "price": 65000,
+        "note": ""
+      }
+    ],
+    "priceMin": 45000,
+    "priceMax": 65000,
+    "image": "/images/products/18.jpg",
+    "active": true
+  },
+  {
+    "id": 19,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Single Cable Rollers",
+    "variants": [
+      {
+        "label": "Single 1.5",
+        "price": 65000,
+        "note": ""
+      },
+      {
+        "label": "Single 2.5",
+        "price": 108000,
+        "note": ""
+      },
+      {
+        "label": "Master Flexible 0.5 / 50m",
+        "price": 45000,
+        "note": ""
+      }
+    ],
+    "priceMin": 45000,
+    "priceMax": 108000,
+    "image": "/images/products/19.jpg",
+    "active": true
+  },
+  {
+    "id": 20,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Iron Wire & AV Cable",
+    "variants": [
+      {
+        "label": "Wire wa Pasi",
+        "price": 3000,
+        "note": ""
+      },
+      {
+        "label": "AV Cable 2-in-1",
+        "price": 1000,
+        "note": ""
+      }
+    ],
+    "priceMin": 1000,
+    "priceMax": 3000,
+    "image": "/images/products/20.jpg",
+    "active": true
+  },
+  {
+    "id": 21,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Bravo & Ailyons Extension",
+    "variants": [
+      {
+        "label": "Bravo 4-Way",
+        "price": 5000,
+        "note": ""
+      },
+      {
+        "label": "Ailyons 4-Way",
+        "price": 7000,
+        "note": ""
+      },
+      {
+        "label": "Bravo USB/Type Port",
+        "price": 6000,
+        "note": ""
+      }
+    ],
+    "priceMin": 5000,
+    "priceMax": 7000,
+    "image": "/images/products/21.jpg",
+    "active": true
+  },
+  {
+    "id": 22,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Power King Extension",
+    "variants": [
+      {
+        "label": "Carton",
+        "price": 201600,
+        "note": "(48pcs @4,200)"
+      },
+      {
+        "label": "Per piece",
+        "price": 4500,
+        "note": ""
+      }
+    ],
+    "priceMin": 4500,
+    "priceMax": 201600,
+    "image": "/images/products/22.jpg",
+    "active": true
+  },
+  {
+    "id": 23,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Tronic & Power Socket",
+    "variants": [
+      {
+        "label": "Tronic 6-Way",
+        "price": 27000,
+        "note": ""
+      },
+      {
+        "label": "Power Socket 10-Way",
+        "price": 18000,
+        "note": ""
+      },
+      {
+        "label": "Extension 12-Way",
+        "price": 20000,
+        "note": ""
+      },
+      {
+        "label": "Tronic Multipurpose",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 27000,
+    "image": "/images/products/23.jpg",
+    "active": true
+  },
+  {
+    "id": 24,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "High Atra Extension",
+    "variants": [
+      {
+        "label": "4-Way + USB Port",
+        "price": 8500,
+        "note": ""
+      },
+      {
+        "label": "Multplug Extension",
+        "price": 3000,
+        "note": ""
+      }
+    ],
+    "priceMin": 3000,
+    "priceMax": 8500,
+    "image": "/images/products/24.jpg",
+    "active": true
+  },
+  {
+    "id": 25,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Top Plugs",
+    "variants": [
+      {
+        "label": "Siroma Top Plug",
+        "price": 12000,
+        "note": "(12pcs)"
+      },
+      {
+        "label": "GRN UK Top Plug",
+        "price": 14000,
+        "note": "(12pcs)"
+      },
+      {
+        "label": "Tembo Top Plug",
+        "price": 15500,
+        "note": "(10pcs)"
+      }
+    ],
+    "priceMin": 12000,
+    "priceMax": 15500,
+    "image": "/images/products/25.jpg",
+    "active": true
+  },
+  {
+    "id": 26,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Multplugs",
+    "variants": [
+      {
+        "label": "Africab Multplug",
+        "price": 27000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Tronic Multplug",
+        "price": 5000,
+        "note": ""
+      },
+      {
+        "label": "Standard Multplug Extension",
+        "price": 3000,
+        "note": ""
+      }
+    ],
+    "priceMin": 3000,
+    "priceMax": 27000,
+    "image": "/images/products/26.jpg",
+    "active": true
+  },
+  {
+    "id": 27,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Tronic Main Switch",
+    "variants": [
+      {
+        "label": "4-Way Vertical",
+        "price": 65000,
+        "note": ""
+      },
+      {
+        "label": "4-Way",
+        "price": 80000,
+        "note": ""
+      },
+      {
+        "label": "6-Way",
+        "price": 93500,
+        "note": ""
+      },
+      {
+        "label": "8-Way",
+        "price": 110000,
+        "note": ""
+      }
+    ],
+    "priceMin": 65000,
+    "priceMax": 110000,
+    "image": "/images/products/27.jpg",
+    "active": true
+  },
+  {
+    "id": 28,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Eurotrix Main Switch",
+    "variants": [
+      {
+        "label": "4-Way IP",
+        "price": 46000,
+        "note": ""
+      },
+      {
+        "label": "4-Way G.I",
+        "price": 47000,
+        "note": ""
+      },
+      {
+        "label": "6-Way G.I",
+        "price": 50000,
+        "note": ""
+      }
+    ],
+    "priceMin": 46000,
+    "priceMax": 50000,
+    "image": "/images/products/28.jpg",
+    "active": true
+  },
+  {
+    "id": 29,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Fridge & TV Guards",
+    "variants": [
+      {
+        "label": "Tronic Guard",
+        "price": 23000,
+        "note": ""
+      },
+      {
+        "label": "Standard Fridge/TV Guard",
+        "price": 7500,
+        "note": ""
+      }
+    ],
+    "priceMin": 7500,
+    "priceMax": 23000,
+    "image": "/images/products/29.jpg",
+    "active": true
+  },
+  {
+    "id": 30,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Photocells",
+    "variants": [
+      {
+        "label": "Tronic Photocell",
+        "price": 18000,
+        "note": ""
+      },
+      {
+        "label": "Van Light 10A",
+        "price": 17000,
+        "note": ""
+      },
+      {
+        "label": "Van Light 20A",
+        "price": 19000,
+        "note": ""
+      }
+    ],
+    "priceMin": 17000,
+    "priceMax": 19000,
+    "image": "/images/products/30.jpg",
+    "active": true
+  },
+  {
+    "id": 31,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "MCB Tronic",
+    "variants": [
+      {
+        "label": "A6–A32",
+        "price": 60000,
+        "note": "(12pcs)"
+      },
+      {
+        "label": "A40",
+        "price": 75000,
+        "note": ""
+      },
+      {
+        "label": "A50 / A63",
+        "price": 85000,
+        "note": ""
+      }
+    ],
+    "priceMin": 60000,
+    "priceMax": 85000,
+    "image": "/images/products/31.jpg",
+    "active": true
+  },
+  {
+    "id": 32,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Submeter",
+    "variants": [
+      {
+        "label": "Bona Red East Submeter",
+        "price": 16000,
+        "note": ""
+      }
+    ],
+    "priceMin": 16000,
+    "priceMax": 16000,
+    "image": "/images/products/32.jpg",
+    "active": true
+  },
+  {
+    "id": 33,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "TV Accessories",
+    "variants": [
+      {
+        "label": "TV Socket Single",
+        "price": 40000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "TV Socket Double",
+        "price": 45000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "TV Bracket Rotating",
+        "price": 50000,
+        "note": ""
+      }
+    ],
+    "priceMin": 40000,
+    "priceMax": 50000,
+    "image": "/images/products/33.jpg",
+    "active": true
+  },
+  {
+    "id": 34,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "Smart Watch & USB",
+    "variants": [
+      {
+        "label": "Smart Watch",
+        "price": 9500,
+        "note": ""
+      },
+      {
+        "label": "USB Cable",
+        "price": 10000,
+        "note": "(10pcs)"
+      }
+    ],
+    "priceMin": 9500,
+    "priceMax": 10000,
+    "image": "/images/products/34.jpg",
+    "active": true
+  },
+  {
+    "id": 35,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "Video Doorbell",
+    "variants": [
+      {
+        "label": "Video Doorbell",
+        "price": 230000,
+        "note": ""
+      }
+    ],
+    "priceMin": 230000,
+    "priceMax": 230000,
+    "image": "/images/products/35.jpg",
+    "active": true
+  },
+  {
+    "id": 36,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "Remote Controls",
+    "variants": [
+      {
+        "label": "Azam TV Remote",
+        "price": 3500,
+        "note": ""
+      },
+      {
+        "label": "Universal Remote",
+        "price": 3500,
+        "note": ""
+      }
+    ],
+    "priceMin": 3500,
+    "priceMax": 3500,
+    "image": "/images/products/36.jpg",
+    "active": true
+  },
+  {
+    "id": 37,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Irons",
+    "variants": [
+      {
+        "label": "Ailyons Iron",
+        "price": 18000,
+        "note": ""
+      },
+      {
+        "label": "Philips Original",
+        "price": 32000,
+        "note": ""
+      },
+      {
+        "label": "Philips Fake",
+        "price": 25000,
+        "note": ""
+      },
+      {
+        "label": "Bravo Travel Iron",
+        "price": 15000,
+        "note": ""
+      }
+    ],
+    "priceMin": 15000,
+    "priceMax": 32000,
+    "image": "/images/products/37.jpg",
+    "active": true
+  },
+  {
+    "id": 38,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "More Iron Options",
+    "variants": [
+      {
+        "label": "Royal Iron",
+        "price": 15000,
+        "note": ""
+      },
+      {
+        "label": "Bliss Iron",
+        "price": 14000,
+        "note": ""
+      },
+      {
+        "label": "Bliss (alternative listing)",
+        "price": 16000,
+        "note": ""
+      }
+    ],
+    "priceMin": 14000,
+    "priceMax": 16000,
+    "image": "/images/products/38.jpg",
+    "active": true
+  },
+  {
+    "id": 39,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Hair & Electric Appliances",
+    "variants": [
+      {
+        "label": "Hair Straightener",
+        "price": 15000,
+        "note": ""
+      },
+      {
+        "label": "Electric Blower",
+        "price": 25000,
+        "note": ""
+      }
+    ],
+    "priceMin": 15000,
+    "priceMax": 25000,
+    "image": "/images/products/39.jpg",
+    "active": true
+  },
+  {
+    "id": 40,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Mini Fan",
+    "variants": [
+      {
+        "label": "Mini Fan",
+        "price": 9000,
+        "note": ""
+      }
+    ],
+    "priceMin": 9000,
+    "priceMax": 9000,
+    "image": "/images/products/40.jpg",
+    "active": true
+  },
+  {
+    "id": 41,
+    "category": "Tech & Home",
+    "subcategory": "Special Items",
+    "name": "Rechargeable Bamboo Light",
+    "variants": [
+      {
+        "label": "Bravo Taa ya Mwanzi",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 18000,
+    "image": "/images/products/41.jpg",
+    "active": true
+  },
+  {
+    "id": 42,
+    "category": "Tech & Home",
+    "subcategory": "Special Items",
+    "name": "Solar / Outdoor",
+    "variants": [
+      {
+        "label": "Solar Light",
+        "price": 42500,
+        "note": "(5pcs @8,500)"
+      }
+    ],
+    "priceMin": 42500,
+    "priceMax": 42500,
+    "image": "/images/products/42.jpg",
+    "active": true
+  },
+  {
+    "id": 43,
+    "category": "Tech & Home",
+    "subcategory": "Special Items",
+    "name": "Pressure Cooker",
+    "variants": [
+      {
+        "label": "Pressure Cooker 6L",
+        "price": 90000,
+        "note": ""
+      }
+    ],
+    "priceMin": 90000,
+    "priceMax": 90000,
+    "image": "/images/products/43.jpg",
+    "active": true
+  },
+  {
+    "id": 44,
+    "category": "Tech & Home",
+    "subcategory": "Special Items",
+    "name": "Ceramic Cooker",
+    "variants": [
+      {
+        "label": "Ceramic Cooker",
+        "price": 58000,
+        "note": ""
+      }
+    ],
+    "priceMin": 58000,
+    "priceMax": 58000,
+    "image": "/images/products/44.jpg",
+    "active": true
+  }
+]

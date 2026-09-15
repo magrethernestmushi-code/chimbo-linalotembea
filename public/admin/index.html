@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chimbo Linalotembea — Admin</title>
+<link rel="icon" href="/images/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/admin/admin.css">
+</head>
+<body>
+
+<div id="loginScreen" class="login-screen">
+  <div class="login-card">
+    <img src="/images/logo.png" alt="Chimbo Linalotembea" class="login-logo">
+    <h1>Admin Login</h1>
+    <form id="loginForm">
+      <label>Username
+        <input type="text" name="username" autocomplete="username" required>
+      </label>
+      <label>Password
+        <input type="password" name="password" autocomplete="current-password" required>
+      </label>
+      <button type="submit" class="btn-primary">Log In</button>
+      <p class="login-error" id="loginError" hidden></p>
+    </form>
+  </div>
+</div>
+
+<div id="dashboard" class="dashboard" hidden>
+  <header class="admin-header">
+    <div class="admin-brand">
+      <img src="/images/logo.png" alt="">
+      <span>Chimbo Linalotembea — Admin</span>
+    </div>
+    <div class="admin-header-actions">
+      <a href="/" target="_blank" class="link-btn">View Store ↗</a>
+      <button id="logoutBtn" class="link-btn">Log Out</button>
+    </div>
+  </header>
+
+  <nav class="admin-tabs">
+    <button class="tab-btn active" data-tab="products">Products</button>
+    <button class="tab-btn" data-tab="orders">Orders <span id="newOrdersBadge" class="badge" hidden></span></button>
+  </nav>
+
+  <main class="admin-main">
+    <section id="tab-products" class="tab-panel active">
+      <div class="panel-toolbar">
+        <input type="search" id="productSearch" placeholder="Search products…">
+        <select id="categoryFilter"><option value="All">All categories</option></select>
+        <button id="addProductBtn" class="btn-primary small">+ Add Product</button>
+      </div>
+      <div class="product-table-wrap">
+        <table class="product-table">
+          <thead>
+            <tr><th></th><th>Name</th><th>Category</th><th>Price range</th><th>Variants</th><th>Status</th><th></th></tr>
+          </thead>
+          <tbody id="productTableBody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="tab-orders" class="tab-panel">
+      <div class="panel-toolbar">
+        <select id="orderStatusFilter">
+          <option value="All">All statuses</option>
+          <option value="new">New</option>
+          <option value="contacted">Contacted</option>
+          <option value="fulfilled">Fulfilled</option>
+          <option value="cancelled">Cancelled</option>
+        </select>
+      </div>
+      <div id="ordersList" class="orders-list"></div>
+    </section>
+  </main>
+</div>
+
+<!-- Product edit/add modal -->
+<div class="modal-overlay" id="productModalOverlay">
+  <div class="modal">
+    <div class="modal-head">
+      <h2 id="productModalTitle">Add Product</h2>
+      <button id="closeProductModal">&times;</button>
+    </div>
+    <form id="productForm">
+      <input type="hidden" name="id">
+      <label>Photo
+        <input type="file" name="image" accept="image/*">
+        <img id="productImgPreview" class="img-preview" hidden>
+      </label>
+      <label>Name
+        <input type="text" name="name" required placeholder="e.g. Honor Bulb">
+      </label>
+      <label>Category
+        <input type="text" name="category" required list="categoryOptions" placeholder="e.g. MWANGA (Lighting)">
+        <datalist id="categoryOptions"></datalist>
+      </label>
+      <label>Subcategory (optional)
+        <input type="text" name="subcategory" placeholder="e.g. Balbu & Mwanga">
+      </label>
+      <label>Price options (at least one)
+        <div class="variant-col-labels"><span>Variant / size</span><span>Price (TZS)</span><span>Note (optional)</span><span></span></div>
+        <div class="variant-editor" id="variantEditor"></div>
+        <button type="button" class="add-variant-btn" id="addVariantBtn">+ Add price option</button>
+      </label>
+      <label class="checkbox-row">
+        <input type="checkbox" name="active" checked>
+        Visible on store
+      </label>
+      <button type="submit" class="btn-primary">Save Product</button>
+      <p class="form-error" id="productFormError" hidden></p>
+    </form>
+  </div>
+</div>
+
+<script src="/admin/admin.js"></script>
+</body>
+</html>

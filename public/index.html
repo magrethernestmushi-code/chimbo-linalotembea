@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="sw">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chimbo Linalotembea — Vifaa vya Umeme, Mwanga & Tech</title>
+<meta name="description" content="Chimbo Linalotembea — balbu, switches, extension, ulinzi wa vifaa na vifaa vya tech. Agiza mtandaoni.">
+<link rel="icon" href="/images/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-top">
+    <div class="brand">
+      <img src="/images/logo.png" alt="Chimbo Linalotembea" class="brand-logo">
+      <div class="brand-text">
+        <span class="brand-name">Chimbo Linalotembea</span>
+        <span class="brand-tag">Vifaa vya Umeme · Mwanga · Tech</span>
+      </div>
+    </div>
+    <button class="cart-btn" id="cartBtn" aria-label="Oda yangu">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none"><path d="M3 4h2l1.6 9.6A2 2 0 0 0 8.57 15.4h8.86a2 2 0 0 0 1.97-1.68L21 8H6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="9" cy="20" r="1.4" fill="currentColor"/><circle cx="17" cy="20" r="1.4" fill="currentColor"/></svg>
+      <span class="cart-count" id="cartCount">0</span>
+    </button>
+  </div>
+  <div class="search-row">
+    <input type="search" id="searchInput" placeholder="Tafuta bidhaa — mf. balbu, switch, extension…">
+  </div>
+  <nav class="cat-nav" id="catNav"></nav>
+</header>
+
+<main>
+  <div class="results-bar">
+    <span id="resultsCount"></span>
+  </div>
+  <div class="grid" id="productGrid"></div>
+  <p class="empty-state" id="emptyState" hidden>Hakuna bidhaa iliyopatikana. Jaribu neno lingine la utafutaji.</p>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <img src="/images/logo.png" alt="" class="footer-logo">
+    <div class="footer-info">
+      <strong>Chimbo Linalotembea</strong>
+      <span id="footerLocation" hidden></span>
+      <a id="footerPhone" href="#" hidden></a>
+    </div>
+  </div>
+  <a href="/admin" class="admin-link">Admin</a>
+</footer>
+
+<!-- Cart drawer -->
+<div class="drawer-overlay" id="drawerOverlay"></div>
+<aside class="cart-drawer" id="cartDrawer">
+  <div class="drawer-head">
+    <h2>Oda Yangu</h2>
+    <button id="closeCart" aria-label="Funga">&times;</button>
+  </div>
+  <div class="cart-items" id="cartItems"></div>
+  <div class="cart-summary">
+    <div class="cart-total-row">
+      <span>Jumla</span>
+      <strong id="cartTotal">Tsh 0</strong>
+    </div>
+    <button class="btn-primary" id="checkoutBtn" disabled>Weka Oda</button>
+  </div>
+</aside>
+
+<!-- Checkout modal -->
+<div class="modal-overlay" id="checkoutOverlay">
+  <div class="modal">
+    <div class="modal-head">
+      <h2>Kamilisha Oda</h2>
+      <button id="closeCheckout" aria-label="Funga">&times;</button>
+    </div>
+    <form id="checkoutForm">
+      <label>Jina lako
+        <input type="text" name="customerName" required placeholder="mf. Juma Mwakalindile">
+      </label>
+      <label>Namba ya simu (WhatsApp/Simu)
+        <input type="tel" name="phone" required placeholder="mf. 07XX XXX XXX">
+      </label>
+      <label>Mahali pa kufikisha (hiari)
+        <input type="text" name="address" placeholder="mf. Kinondoni, Dar es Salaam">
+      </label>
+      <label>Maelezo ya ziada (hiari)
+        <textarea name="notes" rows="2" placeholder="mf. wingi, muda wa kuchukua"></textarea>
+      </label>
+      <button type="submit" class="btn-primary">Wasilisha Oda</button>
+      <p class="modal-hint">Hatuchukui malipo hapa. Tutawasiliana nawe kuthibitisha bei na njia ya malipo/kufikisha.</p>
+    </form>
+  </div>
+</div>
+
+<!-- Order confirmation modal -->
+<div class="modal-overlay" id="confirmOverlay">
+  <div class="modal confirm-modal">
+    <div class="confirm-icon">✓</div>
+    <h2>Oda Imepokelewa</h2>
+    <p>Namba ya oda yako: <strong id="confirmOrderId"></strong></p>
+    <p>Tutakupigia simu kuthibitisha bidhaa na malipo hivi karibuni.</p>
+    <button class="btn-primary" id="confirmClose">Sawa, Endelea Kununua</button>
+  </div>
+</div>
+
+<!-- Quick view modal -->
+<div class="modal-overlay" id="quickViewOverlay">
+  <div class="modal quick-view-modal" id="quickViewContent"></div>
+</div>
+
+<script src="/js/main.js"></script>
+</body>
+</html>
