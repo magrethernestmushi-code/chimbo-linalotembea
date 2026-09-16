@@ -213,6 +213,11 @@
           <a href="tel:${o.phone}">${escapeHTML(o.customerName)} — ${escapeHTML(o.phone)}</a>
           ${o.address ? ' · ' + escapeHTML(o.address) : ''}
         </div>
+        ${o.location ? `
+        <div class="order-map">
+          <iframe loading="lazy" src="https://www.openstreetmap.org/export/embed.html?bbox=${o.location.lng - 0.004}%2C${o.location.lat - 0.004}%2C${o.location.lng + 0.004}%2C${o.location.lat + 0.004}&layer=mapnik&marker=${o.location.lat}%2C${o.location.lng}"></iframe>
+          <a class="directions-btn" href="https://www.google.com/maps/dir/?api=1&destination=${o.location.lat},${o.location.lng}" target="_blank" rel="noopener">📍 Fungua Njia kwenye Google Maps</a>
+        </div>` : '<div class="order-no-location">Mteja hakushiriki mahali (GPS) — tumia namba ya simu.</div>'}
         <div class="order-items">
           ${o.items.map(it => `
             <div class="order-item-row">

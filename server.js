@@ -79,6 +79,46 @@ function priceRange(variants) {
   return { priceMin: Math.min(...prices), priceMax: Math.max(...prices) };
 }
 
+// ---------- Optional: email a notification for every new order ----------
+// Set NOTIFY_EMAIL_USER + NOTIFY_EMAIL_PASS (a Gmail address + App Password
+// work well) as environment variables on Render to turn this on. Orders still
+// save fine even if this isn't configured or a send fails.
+let mailTransporter = null;
+if (process.env.NOTIFY_EMAIL_USER && process.env.NOTIFY_EMAIL_PASS) {
+  const nodemailer = require('nodemailer');
+  mailTransporter = nodemailer.createTransport({
+    host: process.env.SMTP_HOST || 'smtp.gmail.com',
+    port: Number(process.env.SMTP_PORT) || 465,
+    secure: true,
+    auth: { user: process.env.NOTIFY_EMAIL_USER, pass: process.env.NOTIFY_EMAIL_PASS }
+  });
+}
+
+async function notifyNewOrder(order) {
+  if (!mailTransporter) return;
+  const to = process.env.NOTIFY_EMAIL_TO || process.env.NOTIFY_EMAIL_USER;
+  const itemLines = order.items.map(it => `  • ${it.name} (${it.variantLabel}) x${it.qty} — Tsh ${it.lineTotal.toLocaleString('en-US')}`).join('\n');
+  const mapsLink = order.location ? `https://www.google.com/maps/dir/?api=1&destination=${order.location.lat},${order.location.lng}` : null;
+  const text = [
+    `Oda mpya: ${order.id}`,
+    `Mteja: ${order.customerName} — ${order.phone}`,
+    order.address ? `Eneo (maneno): ${order.address}` : null,
+    mapsLink ? `Mahali (GPS): ${mapsLink}` : 'Mteja hakushiriki mahali (GPS).',
+    order.notes ? `Maelezo: ${order.notes}` : null,
+    '',
+    'Bidhaa:',
+    itemLines,
+    '',
+    `Jumla: Tsh ${order.total.toLocaleString('en-US')}`
+  ].filter(Boolean).join('\n');
+  await mailTransporter.sendMail({
+    from: `"Chimbo Linalotembea" <${process.env.NOTIFY_EMAIL_USER}>`,
+    to,
+    subject: `Oda Mpya ${order.id} — Tsh ${order.total.toLocaleString('en-US')}`,
+    text
+  });
+}
+
 // =====================================================================
 // PUBLIC API
 // =====================================================================
@@ -125,7 +165,7 @@ app.get('/api/products/:id', (req, res) => {
 });
 
 app.post('/api/orders', (req, res) => {
-  const { customerName, phone, address, notes, items } = req.body || {};
+  const { customerName, phone, address, notes, items, location } = req.body || {};
   if (!customerName || !phone || !Array.isArray(items) || items.length === 0) {
     return res.status(400).json({ error: 'Jina, namba ya simu na angalau bidhaa moja zinahitajika.' });
   }
@@ -153,6 +193,10 @@ app.post('/api/orders', (req, res) => {
   if (orderItems.length === 0) {
     return res.status(400).json({ error: 'Bidhaa zilizochaguliwa hazikupatikana.' });
   }
+  let cleanLocation = null;
+  if (location && typeof location.lat === 'number' && typeof location.lng === 'number') {
+    cleanLocation = { lat: location.lat, lng: location.lng };
+  }
   const orders = readJSON('orders.json');
   const order = {
     id: 'CL' + Date.now().toString(36).toUpperCase(),
@@ -161,12 +205,14 @@ app.post('/api/orders', (req, res) => {
     phone,
     address: address || '',
     notes: notes || '',
+    location: cleanLocation,
     items: orderItems,
     total,
     status: 'new'
   };
   orders.unshift(order);
   writeJSON('orders.json', orders);
+  notifyNewOrder(order).catch(err => console.error('Order notification failed:', err.message));
   res.json({ ok: true, order });
 });
 

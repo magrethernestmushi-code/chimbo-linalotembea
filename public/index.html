@@ -48,6 +48,7 @@
       <strong>Chimbo Linalotembea</strong>
       <span id="footerLocation" hidden></span>
       <a id="footerPhone" href="#" hidden></a>
+      <a id="footerPhone2" href="#" hidden></a>
     </div>
   </div>
   <a href="/admin" class="admin-link">Admin</a>
@@ -84,8 +85,13 @@
       <label>Namba ya simu (WhatsApp/Simu)
         <input type="tel" name="phone" required placeholder="mf. 07XX XXX XXX">
       </label>
-      <label>Mahali pa kufikisha (hiari)
-        <input type="text" name="address" placeholder="mf. Kinondoni, Dar es Salaam">
+      <label>Mahali pa kufikisha
+        <button type="button" class="location-btn" id="shareLocationBtn">📍 Tumia Mahali Nilipo Sasa (GPS)</button>
+        <div class="location-status" id="locationStatus" hidden></div>
+        <div class="location-preview" id="locationPreview" hidden></div>
+      </label>
+      <label>Mtaa/eneo kwa maneno (hiari — msaada wa ziada)
+        <input type="text" name="address" placeholder="mf. Kigamboni, karibu na shule ya msingi">
       </label>
       <label>Maelezo ya ziada (hiari)
         <textarea name="notes" rows="2" placeholder="mf. wingi, muda wa kuchukua"></textarea>

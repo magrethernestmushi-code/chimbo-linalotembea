@@ -71,6 +71,10 @@ img { max-width: 100%; display: block; }
 .order-item-row { display: flex; justify-content: space-between; padding: 3px 0; border-bottom: 1px dashed var(--line); }
 .order-total-row { display: flex; justify-content: space-between; font-weight: 700; margin-top: 6px; font-size: 14px; color: var(--navy); }
 .order-notes { font-size: 12.5px; color: var(--muted); margin-top: 6px; font-style: italic; }
+.order-map { margin: 8px 0; }
+.order-map iframe { width: 100%; height: 150px; border: 1px solid var(--line); border-radius: 5px; display: block; }
+.directions-btn { display: block; text-align: center; background: #2f8fe0; color: #fff; text-decoration: none; font-size: 12.5px; font-weight: 700; padding: 8px; border-radius: 0 0 5px 5px; margin-top: -1px; }
+.order-no-location { font-size: 12px; color: var(--muted); background: var(--cream); padding: 6px 10px; border-radius: 4px; margin: 8px 0; }
 .order-status-select { margin-top: 10px; border: 1px solid var(--line); border-radius: 5px; padding: 6px 10px; font-size: 12.5px; font-weight: 600; }
 
 /* Modal (shared with product form) */

@@ -4,7 +4,8 @@
     categories: [],
     activeCategory: 'All',
     query: '',
-    cart: [] // { id, name, image, variantIndex, variantLabel, price, qty }
+    cart: [], // { id, name, image, variantIndex, variantLabel, price, qty }
+    sharedLocation: null // { lat, lng }
   };
 
   const fmt = (n) => 'Tsh ' + Number(n).toLocaleString('en-US');
@@ -24,6 +25,11 @@
         el('#footerPhone').hidden = false;
         el('#footerPhone').textContent = s.phone;
         el('#footerPhone').href = 'tel:' + s.phone.replace(/\s+/g, '');
+      }
+      if (s.phone2) {
+        el('#footerPhone2').hidden = false;
+        el('#footerPhone2').textContent = s.phone2;
+        el('#footerPhone2').href = 'tel:' + s.phone2.replace(/\s+/g, '');
       }
     } catch (e) { /* ignore */ }
   }
@@ -204,6 +210,37 @@
   el('#closeCheckout').addEventListener('click', () => el('#checkoutOverlay').classList.remove('open'));
   el('#checkoutOverlay').addEventListener('click', (e) => { if (e.target === e.currentTarget) el('#checkoutOverlay').classList.remove('open'); });
 
+  // ---------- Share live location (like a ride-hailing pickup pin) ----------
+  el('#shareLocationBtn').addEventListener('click', () => {
+    const statusEl = el('#locationStatus');
+    const previewEl = el('#locationPreview');
+    if (!navigator.geolocation) {
+      statusEl.hidden = false;
+      statusEl.className = 'location-status error';
+      statusEl.textContent = 'Simu/kivinjari chako hakiwezi kutuma mahali ulipo. Andika mtaa/eneo hapo chini.';
+      return;
+    }
+    statusEl.hidden = false;
+    statusEl.className = 'location-status loading';
+    statusEl.textContent = 'Inatafuta mahali ulipo…';
+    navigator.geolocation.getCurrentPosition(
+      (pos) => {
+        state.sharedLocation = { lat: pos.coords.latitude, lng: pos.coords.longitude };
+        statusEl.className = 'location-status ok';
+        statusEl.textContent = '✓ Mahali pameshirikiwa. Tutakufuata hapo kikamilifu.';
+        const { lat, lng } = state.sharedLocation;
+        const d = 0.004;
+        previewEl.hidden = false;
+        previewEl.innerHTML = `<iframe loading="lazy" src="https://www.openstreetmap.org/export/embed.html?bbox=${lng - d}%2C${lat - d}%2C${lng + d}%2C${lat + d}&layer=mapnik&marker=${lat}%2C${lng}"></iframe>`;
+      },
+      (err) => {
+        statusEl.className = 'location-status error';
+        statusEl.textContent = 'Imeshindikana kupata mahali ulipo (' + (err.message || 'ruhusa imekataliwa') + '). Andika mtaa/eneo hapo chini.';
+      },
+      { enableHighAccuracy: true, timeout: 12000 }
+    );
+  });
+
   el('#checkoutForm').addEventListener('submit', async (e) => {
     e.preventDefault();
     const fd = new FormData(e.target);
@@ -212,6 +249,7 @@
       phone: fd.get('phone'),
       address: fd.get('address'),
       notes: fd.get('notes'),
+      location: state.sharedLocation,
       items: state.cart.map(c => ({ id: c.id, variantIndex: c.variantIndex, qty: c.qty }))
     };
     const submitBtn = e.target.querySelector('button[type="submit"]');
@@ -228,6 +266,10 @@
       el('#checkoutOverlay').classList.remove('open');
       closeCart();
       state.cart = [];
+      state.sharedLocation = null;
+      el('#locationStatus').hidden = true;
+      el('#locationPreview').hidden = true;
+      el('#locationPreview').innerHTML = '';
       renderCart();
       e.target.reset();
       el('#confirmOrderId').textContent = data.order.id;
