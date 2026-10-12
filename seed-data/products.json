@@ -29,10 +29,15 @@
         "label": "12W",
         "price": 15000,
         "note": "(10pcs)"
+      },
+      {
+        "label": "18W",
+        "price": 30000,
+        "note": "(10pcs)"
       }
     ],
     "priceMin": 7500,
-    "priceMax": 15000,
+    "priceMax": 30000,
     "image": "/images/products/1.jpg",
     "active": true
   },
@@ -70,6 +75,36 @@
     "name": "Mwangatop Bulb",
     "variants": [
       {
+        "label": "3W",
+        "price": 9500,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "5W",
+        "price": 11000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "7W",
+        "price": 13000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "9W",
+        "price": 15000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "12W",
+        "price": 19000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "15W",
+        "price": 21000,
+        "note": "(10pcs)"
+      },
+      {
         "label": "18W",
         "price": 28000,
         "note": "(10pcs)"
@@ -88,9 +123,14 @@
         "label": "48W",
         "price": 70000,
         "note": "(10pcs)"
+      },
+      {
+        "label": "Change colour + remote",
+        "price": 31000,
+        "note": "(10pcs)"
       }
     ],
-    "priceMin": 28000,
+    "priceMin": 9500,
     "priceMax": 70000,
     "image": "/images/products/3.jpg",
     "active": true
@@ -125,10 +165,25 @@
         "label": "15W",
         "price": 31000,
         "note": "(10pcs)"
+      },
+      {
+        "label": "20W",
+        "price": 45000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "30W",
+        "price": 68600,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "40W",
+        "price": 57500,
+        "note": "(5pcs)"
       }
     ],
     "priceMin": 17000,
-    "priceMax": 31000,
+    "priceMax": 68600,
     "image": "/images/products/4.jpg",
     "active": true
   },
@@ -139,29 +194,39 @@
     "name": "PIN / SCR Lighting",
     "variants": [
       {
-        "label": "8W",
+        "label": "8W PIN/SCR",
         "price": 21000,
-        "note": "(10pcs)"
+        "note": "(10pcs @2,100)"
       },
       {
-        "label": "15W",
+        "label": "15W PIN/SCR",
         "price": 35000,
-        "note": "(10pcs)"
+        "note": "(10pcs @3,500)"
       },
       {
-        "label": "18W",
+        "label": "18W PIN/SCR",
         "price": 39000,
-        "note": "(10pcs)"
+        "note": "(10pcs @3,900)"
       },
       {
-        "label": "24W",
+        "label": "24W PIN",
         "price": 57000,
-        "note": "(10pcs)"
+        "note": "(10pcs @5,700)"
       },
       {
-        "label": "35W",
+        "label": "35W PIN/SCR",
         "price": 43000,
-        "note": "(5pcs)"
+        "note": "(5pcs @8,600)"
+      },
+      {
+        "label": "45W PIN",
+        "price": 46000,
+        "note": "(4pcs @11,500)"
+      },
+      {
+        "label": "55W SCR",
+        "price": 30000,
+        "note": "(2pcs @15,000)"
       }
     ],
     "priceMin": 21000,
@@ -213,12 +278,12 @@
         "note": "(10pcs)"
       },
       {
-        "label": "Desert Storm 100W",
-        "price": 20000,
-        "note": "(10pcs)"
+        "label": "Desert Storm 100W / 60W",
+        "price": 10000,
+        "note": "(10pcs, bulb za kuku)"
       }
     ],
-    "priceMin": 20000,
+    "priceMin": 10000,
     "priceMax": 28500,
     "image": "/images/products/7.jpg",
     "active": true
@@ -969,9 +1034,14 @@
         "label": "Universal Remote",
         "price": 3500,
         "note": ""
+      },
+      {
+        "label": "Hisense TV Remote",
+        "price": 3000,
+        "note": ""
       }
     ],
-    "priceMin": 3500,
+    "priceMin": 3000,
     "priceMax": 3500,
     "image": "/images/products/36.jpg",
     "active": true
@@ -1141,5 +1211,772 @@
     "priceMax": 58000,
     "image": "/images/products/44.jpg",
     "active": true
+  },
+  {
+    "id": 45,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb",
+    "variants": [
+      {
+        "label": "3W",
+        "price": 8000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "5W",
+        "price": 10000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "7W",
+        "price": 11500,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "9W",
+        "price": 18000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "13W",
+        "price": 19000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "18W",
+        "price": 28000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "28W",
+        "price": 22500,
+        "note": "(5pcs @4,500)"
+      },
+      {
+        "label": "38W",
+        "price": 30000,
+        "note": "(5pcs @6,000)"
+      },
+      {
+        "label": "48W",
+        "price": 35000,
+        "note": "(5pcs @7,000)"
+      },
+      {
+        "label": "3W – bulk",
+        "price": 65000,
+        "note": "(100pcs) BEI MPYA PUNGUZO"
+      },
+      {
+        "label": "5W – bulk",
+        "price": 90000,
+        "note": "(100pcs) BEI MPYA PUNGUZO"
+      },
+      {
+        "label": "7W – bulk",
+        "price": 110000,
+        "note": "(100pcs) BEI MPYA PUNGUZO"
+      },
+      {
+        "label": "9W – bulk",
+        "price": 140000,
+        "note": "(100pcs) BEI MPYA PUNGUZO"
+      },
+      {
+        "label": "13W – bulk",
+        "price": 160000,
+        "note": "(100pcs) BEI MPYA PUNGUZO"
+      },
+      {
+        "label": "18W – bulk",
+        "price": 215000,
+        "note": "(100pcs) BEI MPYA PUNGUZO"
+      },
+      {
+        "label": "28W – bulk",
+        "price": 126000,
+        "note": "(30pcs @4,200) BEI MPYA PUNGUZO"
+      },
+      {
+        "label": "38W – bulk",
+        "price": 168000,
+        "note": "(30pcs @5,600) BEI MPYA PUNGUZO"
+      },
+      {
+        "label": "48W – bulk",
+        "price": 156000,
+        "note": "(24pcs @6,500) BEI MPYA PUNGUZO"
+      }
+    ],
+    "image": "/images/products/45.jpg",
+    "active": true,
+    "priceMin": 8000,
+    "priceMax": 215000
+  },
+  {
+    "id": 46,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Fibit Bulb",
+    "variants": [
+      {
+        "label": "3W",
+        "price": 6500,
+        "note": ""
+      },
+      {
+        "label": "5W",
+        "price": 8500,
+        "note": ""
+      },
+      {
+        "label": "7W",
+        "price": 9500,
+        "note": ""
+      },
+      {
+        "label": "9W",
+        "price": 10500,
+        "note": ""
+      },
+      {
+        "label": "12W",
+        "price": 13000,
+        "note": ""
+      },
+      {
+        "label": "15W",
+        "price": 17000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/46.jpg",
+    "active": true,
+    "priceMin": 6500,
+    "priceMax": 17000
+  },
+  {
+    "id": 47,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "LED Bulb PIN / SCR",
+    "variants": [
+      {
+        "label": "3W",
+        "price": 18000,
+        "note": "(10pcs @1,800)"
+      },
+      {
+        "label": "5W",
+        "price": 20500,
+        "note": "(10pcs @2,050)"
+      },
+      {
+        "label": "7W",
+        "price": 23000,
+        "note": "(10pcs @2,300)"
+      },
+      {
+        "label": "10W",
+        "price": 28000,
+        "note": "(10pcs @2,800)"
+      },
+      {
+        "label": "12W",
+        "price": 37000,
+        "note": "(10pcs @3,700)"
+      },
+      {
+        "label": "15W",
+        "price": 23500,
+        "note": "(5pcs @4,700)"
+      },
+      {
+        "label": "25W",
+        "price": 41250,
+        "note": "(5pcs @8,250)"
+      },
+      {
+        "label": "28W",
+        "price": 65000,
+        "note": "(5pcs @13,000)"
+      }
+    ],
+    "image": "/images/products/47.jpg",
+    "active": true,
+    "priceMin": 18000,
+    "priceMax": 65000
+  },
+  {
+    "id": 48,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "Torch & Rechargeable Lights",
+    "variants": [
+      {
+        "label": "High power zoom torch (rechargeable)",
+        "price": 17000,
+        "note": ""
+      },
+      {
+        "label": "X-181 battery torch",
+        "price": 3000,
+        "note": ""
+      },
+      {
+        "label": "Rechargeable LED light",
+        "price": 11000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/48.jpg",
+    "active": true,
+    "priceMin": 3000,
+    "priceMax": 17000
+  },
+  {
+    "id": 49,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "Camping Light + Power Bank",
+    "variants": [
+      {
+        "label": "Size kubwa",
+        "price": 16000,
+        "note": ""
+      },
+      {
+        "label": "Size ndogo",
+        "price": 14000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/49.jpg",
+    "active": true,
+    "priceMin": 14000,
+    "priceMax": 16000
+  },
+  {
+    "id": 50,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "Solar LED Light",
+    "variants": [
+      {
+        "label": "Solar LED Light",
+        "price": 15000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/50.jpg",
+    "active": true,
+    "priceMin": 15000,
+    "priceMax": 15000
+  },
+  {
+    "id": 51,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "BADA Extension",
+    "variants": [
+      {
+        "label": "4-Way",
+        "price": 6000,
+        "note": "(miezi 6 warranty)"
+      },
+      {
+        "label": "6-Way",
+        "price": 7000,
+        "note": "(miezi 6 warranty)"
+      },
+      {
+        "label": "4-Way carton",
+        "price": 168000,
+        "note": "(28pcs)"
+      },
+      {
+        "label": "6-Way carton",
+        "price": 196000,
+        "note": "(28pcs)"
+      }
+    ],
+    "image": "/images/products/51.jpg",
+    "active": true,
+    "priceMin": 6000,
+    "priceMax": 196000
+  },
+  {
+    "id": 52,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Tronic Extension 4-Way",
+    "variants": [
+      {
+        "label": "Carton",
+        "price": 492000,
+        "note": "(24pcs @20,500)"
+      },
+      {
+        "label": "Per piece",
+        "price": 22000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/52.jpg",
+    "active": true,
+    "priceMin": 22000,
+    "priceMax": 492000
+  },
+  {
+    "id": 53,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Tronic Extension Reel",
+    "variants": [
+      {
+        "label": "1.5mm / 25m",
+        "price": 188000,
+        "note": ""
+      },
+      {
+        "label": "2.5mm / 25m",
+        "price": 240000,
+        "note": ""
+      },
+      {
+        "label": "1.5mm / 50m",
+        "price": 260000,
+        "note": ""
+      },
+      {
+        "label": "2.5mm / 50m",
+        "price": 360000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/53.jpg",
+    "active": true,
+    "priceMin": 188000,
+    "priceMax": 360000
+  },
+  {
+    "id": 54,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Africab Extension Reel",
+    "variants": [
+      {
+        "label": "1.5mm / 25m",
+        "price": 125000,
+        "note": ""
+      },
+      {
+        "label": "2.5mm / 25m",
+        "price": 205000,
+        "note": ""
+      },
+      {
+        "label": "1.5mm / 50m",
+        "price": 160000,
+        "note": ""
+      },
+      {
+        "label": "2.5mm / 50m",
+        "price": 280000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/54.jpg",
+    "active": true,
+    "priceMin": 125000,
+    "priceMax": 280000
+  },
+  {
+    "id": 55,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Torch Extension 5-Way",
+    "variants": [
+      {
+        "label": "5-Way",
+        "price": 12000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/55.jpg",
+    "active": true,
+    "priceMin": 12000,
+    "priceMax": 12000
+  },
+  {
+    "id": 56,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Mnara Extension 10-Way",
+    "variants": [
+      {
+        "label": "10-Way",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/56.jpg",
+    "active": true,
+    "priceMin": 18000,
+    "priceMax": 18000
+  },
+  {
+    "id": 57,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "BADA Lamp Holders",
+    "variants": [
+      {
+        "label": "Straight holders",
+        "price": 6500,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Angle holders",
+        "price": 6500,
+        "note": "(10pcs)"
+      }
+    ],
+    "image": "/images/products/57.jpg",
+    "active": true,
+    "priceMin": 6500,
+    "priceMax": 6500
+  },
+  {
+    "id": 58,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "BADA Switch Socket",
+    "variants": [
+      {
+        "label": "Single with light",
+        "price": 17500,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Double with light",
+        "price": 16500,
+        "note": "(5pcs)"
+      },
+      {
+        "label": "Single",
+        "price": 16500,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Double",
+        "price": 16000,
+        "note": "(5pcs)"
+      }
+    ],
+    "image": "/images/products/58.jpg",
+    "active": true,
+    "priceMin": 16000,
+    "priceMax": 17500
+  },
+  {
+    "id": 59,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "BADA Switch",
+    "variants": [
+      {
+        "label": "1 Gang",
+        "price": 10000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "2 Gang",
+        "price": 13500,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "3 Gang",
+        "price": 17500,
+        "note": "(10pcs)"
+      }
+    ],
+    "image": "/images/products/59.jpg",
+    "active": true,
+    "priceMin": 10000,
+    "priceMax": 17500
+  },
+  {
+    "id": 60,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "BADA Boxes",
+    "variants": [
+      {
+        "label": "Metal box single",
+        "price": 13000,
+        "note": "(20pcs) ngumu sana"
+      },
+      {
+        "label": "Metal box double",
+        "price": 13000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Surface box single",
+        "price": 9000,
+        "note": "(20pcs)"
+      },
+      {
+        "label": "Surface box double",
+        "price": 9000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Round junction box 4-way",
+        "price": 8500,
+        "note": "(20pcs, with round cover)"
+      }
+    ],
+    "image": "/images/products/60.jpg",
+    "active": true,
+    "priceMin": 8500,
+    "priceMax": 13000
+  },
+  {
+    "id": 61,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Africab Special Fine Screws",
+    "variants": [
+      {
+        "label": "1 inch",
+        "price": 5000,
+        "note": "(100pcs)"
+      },
+      {
+        "label": "2 inch",
+        "price": 6000,
+        "note": "(100pcs)"
+      }
+    ],
+    "image": "/images/products/61.jpg",
+    "active": true,
+    "priceMin": 5000,
+    "priceMax": 6000
+  },
+  {
+    "id": 62,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "HDMI Cable (High Quality)",
+    "variants": [
+      {
+        "label": "1.5m",
+        "price": 3000,
+        "note": ""
+      },
+      {
+        "label": "2m",
+        "price": 3500,
+        "note": ""
+      },
+      {
+        "label": "3m",
+        "price": 4000,
+        "note": ""
+      },
+      {
+        "label": "5m",
+        "price": 6000,
+        "note": ""
+      },
+      {
+        "label": "10m",
+        "price": 10000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/62.jpg",
+    "active": true,
+    "priceMin": 3000,
+    "priceMax": 10000
+  },
+  {
+    "id": 63,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "4K HDMI Cable",
+    "variants": [
+      {
+        "label": "1.5m",
+        "price": 4500,
+        "note": ""
+      },
+      {
+        "label": "3m",
+        "price": 6000,
+        "note": ""
+      },
+      {
+        "label": "5m",
+        "price": 9000,
+        "note": ""
+      },
+      {
+        "label": "10m",
+        "price": 17000,
+        "note": ""
+      },
+      {
+        "label": "15m",
+        "price": 22000,
+        "note": ""
+      },
+      {
+        "label": "20m",
+        "price": 27000,
+        "note": ""
+      },
+      {
+        "label": "30m",
+        "price": 62000,
+        "note": ""
+      },
+      {
+        "label": "50m",
+        "price": 82000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/63.jpg",
+    "active": true,
+    "priceMin": 4500,
+    "priceMax": 82000
+  },
+  {
+    "id": 64,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "TV Wall Mount 14–55 inch",
+    "variants": [
+      {
+        "label": "TV Wall Mount (max 50kg)",
+        "price": 14000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/64.jpg",
+    "active": true,
+    "priceMin": 14000,
+    "priceMax": 14000
+  },
+  {
+    "id": 65,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "BADA TV Bracket",
+    "variants": [
+      {
+        "label": "TV Bracket",
+        "price": 4000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/65.jpg",
+    "active": true,
+    "priceMin": 4000,
+    "priceMax": 4000
+  },
+  {
+    "id": 66,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Kemei Hair Clipper",
+    "variants": [
+      {
+        "label": "Kemei KM8845",
+        "price": 22000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/66.jpg",
+    "active": true,
+    "priceMin": 22000,
+    "priceMax": 22000
+  },
+  {
+    "id": 67,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Electric Kettle 2.2L",
+    "variants": [
+      {
+        "label": "Qiudes 2.2L",
+        "price": 20000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/67.jpg",
+    "active": true,
+    "priceMin": 20000,
+    "priceMax": 20000
+  },
+  {
+    "id": 68,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Ailyons Blender 2-in-1",
+    "variants": [
+      {
+        "label": "Ailyons Blender",
+        "price": 40000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/68.jpg",
+    "active": true,
+    "priceMin": 40000,
+    "priceMax": 40000
+  },
+  {
+    "id": 69,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Kenwood Commercial Blender",
+    "variants": [
+      {
+        "label": "Per piece",
+        "price": 55000,
+        "note": ""
+      },
+      {
+        "label": "Carton",
+        "price": 51000,
+        "note": "(6pcs, price per piece)"
+      }
+    ],
+    "image": "/images/products/69.jpg",
+    "active": true,
+    "priceMin": 51000,
+    "priceMax": 55000
+  },
+  {
+    "id": 70,
+    "category": "Tech & Home",
+    "subcategory": "Special Items",
+    "name": "Border Cattle Jag",
+    "variants": [
+      {
+        "label": "Border Cattle Jag",
+        "price": 12000,
+        "note": ""
+      }
+    ],
+    "image": "/images/products/70.jpg",
+    "active": true,
+    "priceMin": 12000,
+    "priceMax": 12000
   }
 ]

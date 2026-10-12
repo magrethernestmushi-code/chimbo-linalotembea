@@ -1,6 +1,6 @@
 # Chimbo Linalotembea — Online Catalog & Ordering
 
-Browsable online catalog with 44 products (each with multiple price/size
+Browsable online catalog with 70 products (each with multiple price/size
 options) across 5 categories, a customer ordering flow (no online payment —
 orders are confirmed by phone), and an admin panel for managing products and
 viewing orders.
