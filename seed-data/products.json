@@ -340,10 +340,20 @@
         "label": "3 Gang 1 Way",
         "price": 19000,
         "note": ""
+      },
+      {
+        "label": "3 Gang 2 Way",
+        "price": 21000,
+        "note": ""
+      },
+      {
+        "label": "4 Gang 2 Way",
+        "price": 36000,
+        "note": ""
       }
     ],
     "priceMin": 12000,
-    "priceMax": 19000,
+    "priceMax": 36000,
     "image": "/images/products/9.jpg",
     "active": true
   },
@@ -377,10 +387,15 @@
         "label": "3 Gang 1 Way",
         "price": 47000,
         "note": ""
+      },
+      {
+        "label": "4 Gang 2 Way",
+        "price": 69500,
+        "note": ""
       }
     ],
     "priceMin": 32000,
-    "priceMax": 47000,
+    "priceMax": 69500,
     "image": "/images/products/10.jpg",
     "active": true
   },
@@ -431,10 +446,15 @@
         "label": "D.P Switch Tronic",
         "price": 54000,
         "note": ""
+      },
+      {
+        "label": "D.P Switch 45A",
+        "price": 114000,
+        "note": "(10pcs)"
       }
     ],
     "priceMin": 54000,
-    "priceMax": 54000,
+    "priceMax": 114000,
     "image": "/images/products/12.jpg",
     "active": true
   },
@@ -512,10 +532,25 @@
         "label": "Holder Small",
         "price": 6500,
         "note": ""
+      },
+      {
+        "label": "Voltrix Big",
+        "price": 9000,
+        "note": ""
+      },
+      {
+        "label": "Voltrix Small",
+        "price": 7500,
+        "note": ""
+      },
+      {
+        "label": "Africab 2-in-1 pin & screw (straight/angle)",
+        "price": 15000,
+        "note": ""
       }
     ],
     "priceMin": 6500,
-    "priceMax": 12000,
+    "priceMax": 15000,
     "image": "/images/products/15.jpg",
     "active": true
   },
@@ -544,32 +579,37 @@
     "variants": [
       {
         "label": "1.5mm",
-        "price": 74000,
+        "price": 72000,
         "note": ""
       },
       {
         "label": "2.5mm",
-        "price": 118000,
+        "price": 120000,
         "note": ""
       },
       {
         "label": "4mm",
-        "price": 196000,
+        "price": 199000,
         "note": ""
       },
       {
         "label": "6mm",
-        "price": 300000,
+        "price": 293000,
         "note": ""
       },
       {
         "label": "10mm",
         "price": 484000,
         "note": ""
+      },
+      {
+        "label": "16mm",
+        "price": 755000,
+        "note": ""
       }
     ],
-    "priceMin": 74000,
-    "priceMax": 484000,
+    "priceMin": 72000,
+    "priceMax": 755000,
     "image": "/images/products/17.jpg",
     "active": true
   },
@@ -588,10 +628,20 @@
         "label": "2.5 Roller",
         "price": 65000,
         "note": ""
+      },
+      {
+        "label": "1.5mm Twin",
+        "price": 125000,
+        "note": ""
+      },
+      {
+        "label": "2.5mm Twin",
+        "price": 165000,
+        "note": ""
       }
     ],
     "priceMin": 45000,
-    "priceMax": 65000,
+    "priceMax": 165000,
     "image": "/images/products/18.jpg",
     "active": true
   },
@@ -599,26 +649,41 @@
     "id": 19,
     "category": "Vifaa vya Umeme (Electrical)",
     "subcategory": "Wires & Cables",
-    "name": "Single Cable Rollers",
+    "name": "Master Single Cable",
     "variants": [
       {
-        "label": "Single 1.5",
-        "price": 65000,
+        "label": "1.5mm",
+        "price": 70000,
         "note": ""
       },
       {
-        "label": "Single 2.5",
-        "price": 108000,
+        "label": "2.5mm",
+        "price": 115000,
         "note": ""
       },
       {
-        "label": "Master Flexible 0.5 / 50m",
-        "price": 45000,
+        "label": "4mm",
+        "price": 190000,
+        "note": ""
+      },
+      {
+        "label": "6mm",
+        "price": 280000,
+        "note": ""
+      },
+      {
+        "label": "10mm",
+        "price": 460000,
+        "note": ""
+      },
+      {
+        "label": "16mm",
+        "price": 710000,
         "note": ""
       }
     ],
-    "priceMin": 45000,
-    "priceMax": 108000,
+    "priceMin": 70000,
+    "priceMax": 710000,
     "image": "/images/products/19.jpg",
     "active": true
   },
@@ -637,10 +702,25 @@
         "label": "AV Cable 2-in-1",
         "price": 1000,
         "note": ""
+      },
+      {
+        "label": "Flexible wire (red & yellow)",
+        "price": 20000,
+        "note": ""
+      },
+      {
+        "label": "Radio charger",
+        "price": 1500,
+        "note": ""
+      },
+      {
+        "label": "Power cable",
+        "price": 2500,
+        "note": ""
       }
     ],
     "priceMin": 1000,
-    "priceMax": 3000,
+    "priceMax": 20000,
     "image": "/images/products/20.jpg",
     "active": true
   },
@@ -767,10 +847,25 @@
         "label": "Tembo Top Plug",
         "price": 15500,
         "note": "(10pcs)"
+      },
+      {
+        "label": "Hippo plug with light",
+        "price": 16000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Tronic A13 Top Plug",
+        "price": 30000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Africab Top Plug",
+        "price": 30000,
+        "note": "(20pcs)"
       }
     ],
     "priceMin": 12000,
-    "priceMax": 15500,
+    "priceMax": 30000,
     "image": "/images/products/25.jpg",
     "active": true
   },
@@ -896,15 +991,25 @@
       {
         "label": "Van Light 10A",
         "price": 17000,
-        "note": ""
+        "note": "(tunauza kuanzia pc 5)"
       },
       {
         "label": "Van Light 20A",
         "price": 19000,
+        "note": "(tunauza kuanzia pc 5)"
+      },
+      {
+        "label": "Africab Photocell",
+        "price": 15500,
+        "note": ""
+      },
+      {
+        "label": "Eurotrix Photocell",
+        "price": 14000,
         "note": ""
       }
     ],
-    "priceMin": 17000,
+    "priceMin": 14000,
     "priceMax": 19000,
     "image": "/images/products/30.jpg",
     "active": true
@@ -971,12 +1076,12 @@
       },
       {
         "label": "TV Bracket Rotating",
-        "price": 50000,
+        "price": 45000,
         "note": ""
       }
     ],
     "priceMin": 40000,
-    "priceMax": 50000,
+    "priceMax": 45000,
     "image": "/images/products/33.jpg",
     "active": true
   },
@@ -1071,6 +1176,11 @@
         "label": "Bravo Travel Iron",
         "price": 15000,
         "note": ""
+      },
+      {
+        "label": "Access Small Travel Iron",
+        "price": 15000,
+        "note": ""
       }
     ],
     "priceMin": 15000,
@@ -1098,10 +1208,15 @@
         "label": "Bliss (alternative listing)",
         "price": 16000,
         "note": ""
+      },
+      {
+        "label": "Tronic Iron",
+        "price": 44000,
+        "note": ""
       }
     ],
     "priceMin": 14000,
-    "priceMax": 16000,
+    "priceMax": 44000,
     "image": "/images/products/38.jpg",
     "active": true
   },
@@ -1284,8 +1399,18 @@
         "note": "(100pcs) BEI MPYA PUNGUZO"
       },
       {
+        "label": "12W – bulk",
+        "price": 200000,
+        "note": "(100pcs) BEI MPYA PUNGUZO"
+      },
+      {
         "label": "13W – bulk",
         "price": 160000,
+        "note": "(100pcs) BEI MPYA PUNGUZO"
+      },
+      {
+        "label": "15W – bulk",
+        "price": 250000,
         "note": "(100pcs) BEI MPYA PUNGUZO"
       },
       {
@@ -1312,7 +1437,7 @@
     "image": "/images/products/45.jpg",
     "active": true,
     "priceMin": 8000,
-    "priceMax": 215000
+    "priceMax": 250000
   },
   {
     "id": 46,
@@ -1978,5 +2103,658 @@
     "active": true,
     "priceMin": 12000,
     "priceMax": 12000
+  },
+  {
+    "id": 71,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Ailyons Switch & Socket",
+    "variants": [
+      {
+        "label": "Socket Single",
+        "price": 18000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Socket Double",
+        "price": 18000,
+        "note": "(5pcs)"
+      },
+      {
+        "label": "1 Gang 1 Way",
+        "price": 11000,
+        "note": ""
+      },
+      {
+        "label": "1 Gang 2 Way",
+        "price": 12000,
+        "note": ""
+      },
+      {
+        "label": "2 Gang 1 Way",
+        "price": 15000,
+        "note": ""
+      },
+      {
+        "label": "2 Gang 2 Way",
+        "price": 16000,
+        "note": ""
+      },
+      {
+        "label": "3 Gang 1 Way",
+        "price": 18000,
+        "note": ""
+      },
+      {
+        "label": "3 Gang 2 Way",
+        "price": 19000,
+        "note": ""
+      }
+    ],
+    "priceMin": 11000,
+    "priceMax": 19000,
+    "image": "/images/products/71.jpg",
+    "active": true
+  },
+  {
+    "id": 72,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Circuit Breakers",
+    "variants": [
+      {
+        "label": "Sunpower",
+        "price": 10000,
+        "note": ""
+      },
+      {
+        "label": "Euronics",
+        "price": 16000,
+        "note": ""
+      },
+      {
+        "label": "Asakiz (inayotrip)",
+        "price": 20000,
+        "note": ""
+      },
+      {
+        "label": "Africab",
+        "price": 30000,
+        "note": ""
+      },
+      {
+        "label": "Havells",
+        "price": 30000,
+        "note": ""
+      },
+      {
+        "label": "Tronic",
+        "price": 44000,
+        "note": ""
+      }
+    ],
+    "priceMin": 10000,
+    "priceMax": 44000,
+    "image": "/images/products/72.jpg",
+    "active": true
+  },
+  {
+    "id": 73,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Africab Main Switch",
+    "variants": [
+      {
+        "label": "PVC 2-Way",
+        "price": 25000,
+        "note": ""
+      },
+      {
+        "label": "PVC 3-Way",
+        "price": 29000,
+        "note": ""
+      },
+      {
+        "label": "PVC 4-Way",
+        "price": 31000,
+        "note": ""
+      },
+      {
+        "label": "Metal 4-Way",
+        "price": 65000,
+        "note": ""
+      },
+      {
+        "label": "Metal 6-Way",
+        "price": 75000,
+        "note": ""
+      },
+      {
+        "label": "Metal 8-Way",
+        "price": 95000,
+        "note": ""
+      },
+      {
+        "label": "Metal 12-Way",
+        "price": 130000,
+        "note": ""
+      }
+    ],
+    "priceMin": 25000,
+    "priceMax": 130000,
+    "image": "/images/products/73.jpg",
+    "active": true
+  },
+  {
+    "id": 74,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Ailyons PVC Main Switch",
+    "variants": [
+      {
+        "label": "2-Way",
+        "price": 22000,
+        "note": ""
+      },
+      {
+        "label": "3-Way",
+        "price": 25000,
+        "note": ""
+      },
+      {
+        "label": "4-Way",
+        "price": 27000,
+        "note": ""
+      }
+    ],
+    "priceMin": 22000,
+    "priceMax": 27000,
+    "image": "/images/products/74.jpg",
+    "active": true
+  },
+  {
+    "id": 75,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Metal Boxes (Euronics, Fibit, Tronic, Africab, Alyons, Eurotrix)",
+    "variants": [
+      {
+        "label": "Fibit single",
+        "price": 5000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Fibit double",
+        "price": 5000,
+        "note": "(5pcs)"
+      },
+      {
+        "label": "Alyons single",
+        "price": 5500,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Alyons double",
+        "price": 5500,
+        "note": "(5pcs)"
+      },
+      {
+        "label": "Euronics single",
+        "price": 12000,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Euronics double",
+        "price": 8500,
+        "note": "(5pcs)"
+      },
+      {
+        "label": "Eurotrix single",
+        "price": 13000,
+        "note": "(10pcs) ngumu kabisa"
+      },
+      {
+        "label": "Eurotrix double",
+        "price": 10500,
+        "note": "(5pcs) ngumu kabisa"
+      },
+      {
+        "label": "Africab single",
+        "price": 13500,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Africab double",
+        "price": 10500,
+        "note": "(5pcs)"
+      },
+      {
+        "label": "Tronic single",
+        "price": 17500,
+        "note": "(10pcs)"
+      },
+      {
+        "label": "Tronic double",
+        "price": 12000,
+        "note": "(5pcs)"
+      }
+    ],
+    "priceMin": 5000,
+    "priceMax": 17500,
+    "image": "/images/products/75.jpg",
+    "active": true
+  },
+  {
+    "id": 76,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Fibit Surface Box",
+    "variants": [
+      {
+        "label": "Surface box single",
+        "price": 8500,
+        "note": "(20pcs)"
+      },
+      {
+        "label": "Surface box double",
+        "price": 8500,
+        "note": "(10pcs)"
+      }
+    ],
+    "priceMin": 8500,
+    "priceMax": 8500,
+    "image": "/images/products/76.jpg",
+    "active": true
+  },
+  {
+    "id": 77,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Insulation Tape",
+    "variants": [
+      {
+        "label": "Viin Tape (kawaida)",
+        "price": 4500,
+        "note": ""
+      },
+      {
+        "label": "Hippo Tape",
+        "price": 7000,
+        "note": ""
+      },
+      {
+        "label": "Africab Tape",
+        "price": 8000,
+        "note": ""
+      },
+      {
+        "label": "Tronic Tape",
+        "price": 11500,
+        "note": "(10pcs)"
+      }
+    ],
+    "priceMin": 4500,
+    "priceMax": 11500,
+    "image": "/images/products/77.jpg",
+    "active": true
+  },
+  {
+    "id": 78,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Cable Clips",
+    "variants": [
+      {
+        "label": "8mm",
+        "price": 1300,
+        "note": ""
+      },
+      {
+        "label": "9mm",
+        "price": 1400,
+        "note": ""
+      },
+      {
+        "label": "10mm",
+        "price": 1450,
+        "note": ""
+      },
+      {
+        "label": "12mm",
+        "price": 1550,
+        "note": ""
+      },
+      {
+        "label": "22mm",
+        "price": 3000,
+        "note": ""
+      }
+    ],
+    "priceMin": 1300,
+    "priceMax": 3000,
+    "image": "/images/products/78.jpg",
+    "active": true
+  },
+  {
+    "id": 79,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Flexible Wire",
+    "variants": [
+      {
+        "label": "0.5mm 2core / 50m",
+        "price": 48000,
+        "note": ""
+      },
+      {
+        "label": "0.5mm 2core / 100m",
+        "price": 94000,
+        "note": ""
+      },
+      {
+        "label": "0.75mm 2core",
+        "price": 116000,
+        "note": ""
+      },
+      {
+        "label": "1.5mm 3core",
+        "price": 272000,
+        "note": ""
+      },
+      {
+        "label": "1.5mm 4core",
+        "price": 353000,
+        "note": ""
+      },
+      {
+        "label": "2.5mm 3core",
+        "price": 450000,
+        "note": ""
+      },
+      {
+        "label": "2.5mm 4core",
+        "price": 560000,
+        "note": ""
+      },
+      {
+        "label": "4mm 3core",
+        "price": 730000,
+        "note": ""
+      },
+      {
+        "label": "4mm 4core",
+        "price": 980000,
+        "note": ""
+      }
+    ],
+    "priceMin": 48000,
+    "priceMax": 980000,
+    "image": "/images/products/79.jpg",
+    "active": true
+  },
+  {
+    "id": 80,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Flexible Wire",
+    "variants": [
+      {
+        "label": "0.5mm 2core",
+        "price": 45000,
+        "note": ""
+      },
+      {
+        "label": "1mm 3core",
+        "price": 200000,
+        "note": ""
+      },
+      {
+        "label": "1.5mm 4core",
+        "price": 350000,
+        "note": ""
+      },
+      {
+        "label": "2.5mm 3core",
+        "price": 410000,
+        "note": ""
+      },
+      {
+        "label": "2.5mm 4core",
+        "price": 550000,
+        "note": ""
+      },
+      {
+        "label": "4mm 3core",
+        "price": 665000,
+        "note": ""
+      },
+      {
+        "label": "4mm 4core",
+        "price": 850000,
+        "note": ""
+      },
+      {
+        "label": "6mm 3core",
+        "price": 950000,
+        "note": ""
+      },
+      {
+        "label": "6mm 4core",
+        "price": 1255000,
+        "note": ""
+      }
+    ],
+    "priceMin": 45000,
+    "priceMax": 1255000,
+    "image": "/images/products/80.jpg",
+    "active": true
+  },
+  {
+    "id": 81,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Twin Cable (Tronic & Master)",
+    "variants": [
+      {
+        "label": "Tronic 1.5mm",
+        "price": 214000,
+        "note": ""
+      },
+      {
+        "label": "Tronic 2.5mm",
+        "price": 330000,
+        "note": ""
+      },
+      {
+        "label": "Tronic 4mm",
+        "price": 488000,
+        "note": ""
+      },
+      {
+        "label": "Tronic 6mm",
+        "price": 728000,
+        "note": ""
+      },
+      {
+        "label": "Tronic 10mm",
+        "price": 1195000,
+        "note": ""
+      },
+      {
+        "label": "Tronic 16mm",
+        "price": 1890000,
+        "note": ""
+      },
+      {
+        "label": "Master 1.5mm",
+        "price": 202000,
+        "note": ""
+      },
+      {
+        "label": "Master 2.5mm",
+        "price": 312000,
+        "note": ""
+      },
+      {
+        "label": "Master 4mm",
+        "price": 465000,
+        "note": ""
+      },
+      {
+        "label": "Master 6mm",
+        "price": 688000,
+        "note": ""
+      },
+      {
+        "label": "Master 10mm",
+        "price": 1125000,
+        "note": ""
+      },
+      {
+        "label": "Master 16mm",
+        "price": 1780000,
+        "note": ""
+      }
+    ],
+    "priceMin": 202000,
+    "priceMax": 1890000,
+    "image": "/images/products/81.jpg",
+    "active": true
+  },
+  {
+    "id": 82,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Padlocks by Dozen / Pack (Kufuli)",
+    "variants": [
+      {
+        "label": "Padlock dozen",
+        "price": 7000,
+        "note": "(12pcs)"
+      },
+      {
+        "label": "Solix Star",
+        "price": 12000,
+        "note": "(dozen 12pcs)"
+      },
+      {
+        "label": "Kai Hong",
+        "price": 13000,
+        "note": "(dozen 12pcs)"
+      },
+      {
+        "label": "Solix VIP",
+        "price": 16000,
+        "note": "(dozen 12pcs)"
+      },
+      {
+        "label": "AUTO",
+        "price": 18000,
+        "note": "(dozen 12pcs)"
+      },
+      {
+        "label": "Solda pack",
+        "price": 20000,
+        "note": "(9pcs)"
+      }
+    ],
+    "priceMin": 7000,
+    "priceMax": 20000,
+    "image": "/images/products/82.jpg",
+    "active": true
+  },
+  {
+    "id": 83,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Padlocks Single (Kufuli)",
+    "variants": [
+      {
+        "label": "Solit No. 40",
+        "price": 2500,
+        "note": ""
+      },
+      {
+        "label": "Solit No. 50",
+        "price": 3000,
+        "note": ""
+      },
+      {
+        "label": "Solit No. 60",
+        "price": 3500,
+        "note": ""
+      },
+      {
+        "label": "Solit No. 70",
+        "price": 4000,
+        "note": ""
+      },
+      {
+        "label": "Robson 70mm",
+        "price": 6000,
+        "note": ""
+      },
+      {
+        "label": "Aware 70mm",
+        "price": 6500,
+        "note": ""
+      },
+      {
+        "label": "Mindy 70mm",
+        "price": 7000,
+        "note": ""
+      },
+      {
+        "label": "Aglow 94mm",
+        "price": 10500,
+        "note": ""
+      },
+      {
+        "label": "Buckler H70",
+        "price": 12500,
+        "note": ""
+      }
+    ],
+    "priceMin": 2500,
+    "priceMax": 12500,
+    "image": "/images/products/83.jpg",
+    "active": true
+  },
+  {
+    "id": 84,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Hair Clippers (Mashine za Kunyolea)",
+    "variants": [
+      {
+        "label": "Wear",
+        "price": 16000,
+        "note": ""
+      },
+      {
+        "label": "Homecut",
+        "price": 16000,
+        "note": ""
+      },
+      {
+        "label": "Sunder (waya)",
+        "price": 18000,
+        "note": ""
+      },
+      {
+        "label": "Sunder (kuchaji)",
+        "price": 18000,
+        "note": ""
+      },
+      {
+        "label": "Kemei",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "priceMin": 16000,
+    "priceMax": 18000,
+    "image": "/images/products/84.jpg",
+    "active": true
   }
 ]
