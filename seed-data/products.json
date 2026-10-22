@@ -3,1118 +3,2531 @@
     "id": 1,
     "category": "MWANGA (Lighting)",
     "subcategory": "Balbu & Mwanga",
-    "name": "Honor Bulb",
+    "name": "Honor Bulb – 3W",
+    "family": "Honor Bulb",
     "variants": [
       {
-        "label": "3W",
+        "label": "10pcs",
         "price": 7500,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "5W",
-        "price": 9000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "7W",
-        "price": 12000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "9W",
-        "price": 13000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "12W",
-        "price": 15000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "18W",
-        "price": 30000,
-        "note": "(10pcs)"
+        "note": ""
       }
     ],
     "priceMin": 7500,
-    "priceMax": 30000,
-    "image": "/images/products/1.jpg",
+    "priceMax": 7500,
+    "image": "/images/products/ph153.jpg",
     "active": true
   },
   {
     "id": 2,
     "category": "MWANGA (Lighting)",
     "subcategory": "Balbu & Mwanga",
-    "name": "Ailyons Bulb",
+    "name": "Honor Bulb – 5W",
+    "family": "Honor Bulb",
     "variants": [
       {
-        "label": "28W",
-        "price": 4350,
-        "note": "/ pc"
-      },
-      {
-        "label": "38W",
-        "price": 5700,
-        "note": "/ pc"
-      },
-      {
-        "label": "48W",
-        "price": 6500,
-        "note": "/ pc"
+        "label": "10pcs",
+        "price": 9000,
+        "note": ""
       }
     ],
-    "priceMin": 4350,
-    "priceMax": 6500,
-    "image": "/images/products/2.jpg",
+    "priceMin": 9000,
+    "priceMax": 9000,
+    "image": "/images/products/ph153.jpg",
     "active": true
   },
   {
     "id": 3,
     "category": "MWANGA (Lighting)",
     "subcategory": "Balbu & Mwanga",
-    "name": "Mwangatop Bulb",
+    "name": "Honor Bulb – 7W",
+    "family": "Honor Bulb",
     "variants": [
       {
-        "label": "3W",
-        "price": 9500,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "5W",
-        "price": 11000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "7W",
-        "price": 13000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "9W",
-        "price": 15000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "12W",
-        "price": 19000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "15W",
-        "price": 21000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "18W",
-        "price": 28000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "28W",
-        "price": 40000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "38W",
-        "price": 60000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "48W",
-        "price": 70000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Change colour + remote",
-        "price": 31000,
-        "note": "(10pcs)"
+        "label": "10pcs",
+        "price": 12000,
+        "note": ""
       }
     ],
-    "priceMin": 9500,
-    "priceMax": 70000,
-    "image": "/images/products/3.jpg",
+    "priceMin": 12000,
+    "priceMax": 12000,
+    "image": "/images/products/ph153.jpg",
     "active": true
   },
   {
     "id": 4,
     "category": "MWANGA (Lighting)",
     "subcategory": "Balbu & Mwanga",
-    "name": "Tronic Bulb",
+    "name": "Honor Bulb – 9W",
+    "family": "Honor Bulb",
     "variants": [
       {
-        "label": "5W",
-        "price": 17000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "7W",
-        "price": 18000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "9W",
-        "price": 19500,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "12W",
-        "price": 24000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "15W",
-        "price": 31000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "20W",
-        "price": 45000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "30W",
-        "price": 68600,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "40W",
-        "price": 57500,
-        "note": "(5pcs)"
+        "label": "10pcs",
+        "price": 13000,
+        "note": ""
       }
     ],
-    "priceMin": 17000,
-    "priceMax": 68600,
-    "image": "/images/products/4.jpg",
+    "priceMin": 13000,
+    "priceMax": 13000,
+    "image": "/images/products/ph153.jpg",
     "active": true
   },
   {
     "id": 5,
     "category": "MWANGA (Lighting)",
-    "subcategory": "Special Lighting",
-    "name": "PIN / SCR Lighting",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Honor Bulb – 12W",
+    "family": "Honor Bulb",
     "variants": [
       {
-        "label": "8W PIN/SCR",
-        "price": 21000,
-        "note": "(10pcs @2,100)"
-      },
-      {
-        "label": "15W PIN/SCR",
-        "price": 35000,
-        "note": "(10pcs @3,500)"
-      },
-      {
-        "label": "18W PIN/SCR",
-        "price": 39000,
-        "note": "(10pcs @3,900)"
-      },
-      {
-        "label": "24W PIN",
-        "price": 57000,
-        "note": "(10pcs @5,700)"
-      },
-      {
-        "label": "35W PIN/SCR",
-        "price": 43000,
-        "note": "(5pcs @8,600)"
-      },
-      {
-        "label": "45W PIN",
-        "price": 46000,
-        "note": "(4pcs @11,500)"
-      },
-      {
-        "label": "55W SCR",
-        "price": 30000,
-        "note": "(2pcs @15,000)"
+        "label": "10pcs",
+        "price": 15000,
+        "note": ""
       }
     ],
-    "priceMin": 21000,
-    "priceMax": 57000,
-    "image": "/images/products/5.jpg",
+    "priceMin": 15000,
+    "priceMax": 15000,
+    "image": "/images/products/ph153.jpg",
     "active": true
   },
   {
     "id": 6,
     "category": "MWANGA (Lighting)",
-    "subcategory": "Special Lighting",
-    "name": "White / Warm Lights",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Honor Bulb – 18W",
+    "family": "Honor Bulb",
     "variants": [
       {
-        "label": "18W WHITE/WARM",
-        "price": 49000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "35W WHITE",
-        "price": 37500,
-        "note": "(5pcs)"
-      },
-      {
-        "label": "45W WHITE",
-        "price": 48000,
-        "note": "(4pcs)"
+        "label": "10pcs",
+        "price": 30000,
+        "note": ""
       }
     ],
-    "priceMin": 37500,
-    "priceMax": 49000,
-    "image": "/images/products/6.jpg",
+    "priceMin": 30000,
+    "priceMax": 30000,
+    "image": "/images/products/ph153.jpg",
     "active": true
   },
   {
     "id": 7,
     "category": "MWANGA (Lighting)",
-    "subcategory": "Special Lighting",
-    "name": "Solar & Specialty Bulbs",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Ailyons Bulb – 28W",
+    "family": "Ailyons Bulb",
     "variants": [
       {
-        "label": "Solar bulb 3W",
-        "price": 20000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Honor change colour 7W",
-        "price": 28500,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Desert Storm 100W / 60W",
-        "price": 10000,
-        "note": "(10pcs, bulb za kuku)"
+        "label": "/ pc",
+        "price": 4350,
+        "note": ""
       }
     ],
-    "priceMin": 10000,
-    "priceMax": 28500,
-    "image": "/images/products/7.jpg",
+    "priceMin": 4350,
+    "priceMax": 4350,
+    "image": "/images/products/ph132.jpg",
     "active": true
   },
   {
     "id": 8,
     "category": "MWANGA (Lighting)",
-    "subcategory": "Special Lighting",
-    "name": "LED / Decorative Option",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Ailyons Bulb – 38W",
+    "family": "Ailyons Bulb",
     "variants": [
       {
-        "label": "G-well GL-931",
-        "price": 11000,
-        "note": ""
-      },
-      {
-        "label": "Additional LED item",
-        "price": 8500,
+        "label": "/ pc",
+        "price": 5700,
         "note": ""
       }
     ],
-    "priceMin": 8500,
-    "priceMax": 11000,
-    "image": "/images/products/8.jpg",
+    "priceMin": 5700,
+    "priceMax": 5700,
+    "image": "/images/products/ph132.jpg",
     "active": true
   },
   {
     "id": 9,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Switches",
-    "name": "Africab Switch Gang",
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Ailyons Bulb – 48W",
+    "family": "Ailyons Bulb",
     "variants": [
       {
-        "label": "1 Gang 1 Way",
-        "price": 12000,
-        "note": ""
-      },
-      {
-        "label": "1 Gang 2 Way",
-        "price": 13000,
-        "note": ""
-      },
-      {
-        "label": "2 Gang 1 Way",
-        "price": 15000,
-        "note": ""
-      },
-      {
-        "label": "2 Gang 2 Way",
-        "price": 17000,
-        "note": ""
-      },
-      {
-        "label": "3 Gang 1 Way",
-        "price": 19000,
-        "note": ""
-      },
-      {
-        "label": "3 Gang 2 Way",
-        "price": 21000,
-        "note": ""
-      },
-      {
-        "label": "4 Gang 2 Way",
-        "price": 36000,
-        "note": ""
-      }
-    ],
-    "priceMin": 12000,
-    "priceMax": 36000,
-    "image": "/images/products/9.jpg",
-    "active": true
-  },
-  {
-    "id": 10,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Switches",
-    "name": "Premium Switch Gang",
-    "variants": [
-      {
-        "label": "1 Gang 1 Way",
-        "price": 32000,
-        "note": ""
-      },
-      {
-        "label": "1 Gang 2 Way",
-        "price": 34500,
-        "note": ""
-      },
-      {
-        "label": "2 Gang 1 Way",
-        "price": 38000,
-        "note": ""
-      },
-      {
-        "label": "2 Gang 2 Way",
-        "price": 41500,
-        "note": ""
-      },
-      {
-        "label": "3 Gang 1 Way",
-        "price": 47000,
-        "note": ""
-      },
-      {
-        "label": "4 Gang 2 Way",
-        "price": 69500,
-        "note": ""
-      }
-    ],
-    "priceMin": 32000,
-    "priceMax": 69500,
-    "image": "/images/products/10.jpg",
-    "active": true
-  },
-  {
-    "id": 11,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Switches",
-    "name": "Hippo Switch & Socket",
-    "variants": [
-      {
-        "label": "Socket Single",
-        "price": 18500,
-        "note": ""
-      },
-      {
-        "label": "Socket Double",
-        "price": 19000,
-        "note": ""
-      },
-      {
-        "label": "1 Gang",
-        "price": 10000,
-        "note": ""
-      },
-      {
-        "label": "2 Gang",
-        "price": 15000,
-        "note": ""
-      },
-      {
-        "label": "3 Gang",
-        "price": 17000,
-        "note": ""
-      }
-    ],
-    "priceMin": 10000,
-    "priceMax": 19000,
-    "image": "/images/products/11.jpg",
-    "active": true
-  },
-  {
-    "id": 12,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Switches",
-    "name": "Tronic D.P. Switch",
-    "variants": [
-      {
-        "label": "D.P Switch Tronic",
-        "price": 54000,
-        "note": ""
-      },
-      {
-        "label": "D.P Switch 45A",
-        "price": 114000,
-        "note": "(10pcs)"
-      }
-    ],
-    "priceMin": 54000,
-    "priceMax": 114000,
-    "image": "/images/products/12.jpg",
-    "active": true
-  },
-  {
-    "id": 13,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Sockets & Holders",
-    "name": "Africab Switch Socket",
-    "variants": [
-      {
-        "label": "Single",
-        "price": 18500,
-        "note": ""
-      },
-      {
-        "label": "Double",
-        "price": 18500,
-        "note": ""
-      }
-    ],
-    "priceMin": 18500,
-    "priceMax": 18500,
-    "image": "/images/products/13.jpg",
-    "active": true
-  },
-  {
-    "id": 14,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Sockets & Holders",
-    "name": "Switch Socket Premium",
-    "variants": [
-      {
-        "label": "Single",
-        "price": 49000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Double",
-        "price": 44000,
-        "note": "(5pcs)"
-      }
-    ],
-    "priceMin": 44000,
-    "priceMax": 49000,
-    "image": "/images/products/14.jpg",
-    "active": true
-  },
-  {
-    "id": 15,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Sockets & Holders",
-    "name": "Lamp Holders",
-    "variants": [
-      {
-        "label": "Ailyons Small",
+        "label": "/ pc",
         "price": 6500,
-        "note": ""
-      },
-      {
-        "label": "Ailyons Big",
-        "price": 9000,
-        "note": ""
-      },
-      {
-        "label": "Africab Holder",
-        "price": 12000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Holder Big",
-        "price": 8500,
-        "note": ""
-      },
-      {
-        "label": "Holder Small",
-        "price": 6500,
-        "note": ""
-      },
-      {
-        "label": "Voltrix Big",
-        "price": 9000,
-        "note": ""
-      },
-      {
-        "label": "Voltrix Small",
-        "price": 7500,
-        "note": ""
-      },
-      {
-        "label": "Africab 2-in-1 pin & screw (straight/angle)",
-        "price": 15000,
         "note": ""
       }
     ],
     "priceMin": 6500,
+    "priceMax": 6500,
+    "image": "/images/products/ph132.jpg",
+    "active": true
+  },
+  {
+    "id": 10,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Mwangatop Bulb – 3W",
+    "family": "Mwangatop Bulb",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 9500,
+        "note": ""
+      }
+    ],
+    "priceMin": 9500,
+    "priceMax": 9500,
+    "image": "/images/products/ph144.jpg",
+    "active": true
+  },
+  {
+    "id": 11,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Mwangatop Bulb – 5W",
+    "family": "Mwangatop Bulb",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 11000,
+        "note": ""
+      }
+    ],
+    "priceMin": 11000,
+    "priceMax": 11000,
+    "image": "/images/products/ph144.jpg",
+    "active": true
+  },
+  {
+    "id": 12,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Mwangatop Bulb – 7W",
+    "family": "Mwangatop Bulb",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 13000,
+        "note": ""
+      }
+    ],
+    "priceMin": 13000,
+    "priceMax": 13000,
+    "image": "/images/products/ph144.jpg",
+    "active": true
+  },
+  {
+    "id": 13,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Mwangatop Bulb – 9W",
+    "family": "Mwangatop Bulb",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 15000,
+        "note": ""
+      }
+    ],
+    "priceMin": 15000,
     "priceMax": 15000,
-    "image": "/images/products/15.jpg",
+    "image": "/images/products/ph144.jpg",
+    "active": true
+  },
+  {
+    "id": 14,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Mwangatop Bulb – 12W",
+    "family": "Mwangatop Bulb",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 19000,
+        "note": ""
+      }
+    ],
+    "priceMin": 19000,
+    "priceMax": 19000,
+    "image": "/images/products/ph144.jpg",
+    "active": true
+  },
+  {
+    "id": 15,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Mwangatop Bulb – 15W",
+    "family": "Mwangatop Bulb",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 21000,
+        "note": ""
+      }
+    ],
+    "priceMin": 21000,
+    "priceMax": 21000,
+    "image": "/images/products/ph144.jpg",
     "active": true
   },
   {
     "id": 16,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Sockets & Holders",
-    "name": "Tronic Straight & Angle",
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Mwangatop Bulb – 18W",
+    "family": "Mwangatop Bulb",
     "variants": [
       {
-        "label": "Tronic Holder Straight/Angle",
+        "label": "10pcs",
+        "price": 28000,
+        "note": ""
+      }
+    ],
+    "priceMin": 28000,
+    "priceMax": 28000,
+    "image": "/images/products/ph144.jpg",
+    "active": true
+  },
+  {
+    "id": 17,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Mwangatop Bulb – 28W",
+    "family": "Mwangatop Bulb",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 40000,
+        "note": ""
+      }
+    ],
+    "priceMin": 40000,
+    "priceMax": 40000,
+    "image": "/images/products/ph144.jpg",
+    "active": true
+  },
+  {
+    "id": 18,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Mwangatop Bulb – 38W",
+    "family": "Mwangatop Bulb",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 60000,
+        "note": ""
+      }
+    ],
+    "priceMin": 60000,
+    "priceMax": 60000,
+    "image": "/images/products/ph144.jpg",
+    "active": true
+  },
+  {
+    "id": 19,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Mwangatop Bulb – 48W",
+    "family": "Mwangatop Bulb",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 70000,
+        "note": ""
+      }
+    ],
+    "priceMin": 70000,
+    "priceMax": 70000,
+    "image": "/images/products/ph144.jpg",
+    "active": true
+  },
+  {
+    "id": 20,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Mwangatop Bulb – Change colour + remote",
+    "family": "Mwangatop Bulb",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 31000,
+        "note": ""
+      }
+    ],
+    "priceMin": 31000,
+    "priceMax": 31000,
+    "image": "/images/products/ph146.jpg",
+    "active": true
+  },
+  {
+    "id": 21,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Tronic Bulb – 5W",
+    "family": "Tronic Bulb",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 17000,
+        "note": ""
+      }
+    ],
+    "priceMin": 17000,
+    "priceMax": 17000,
+    "image": "/images/products/ph133.jpg",
+    "active": true
+  },
+  {
+    "id": 22,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Tronic Bulb – 7W",
+    "family": "Tronic Bulb",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 18000,
+    "image": "/images/products/ph133.jpg",
+    "active": true
+  },
+  {
+    "id": 23,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Tronic Bulb – 9W",
+    "family": "Tronic Bulb",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 19500,
+        "note": ""
+      }
+    ],
+    "priceMin": 19500,
+    "priceMax": 19500,
+    "image": "/images/products/ph133.jpg",
+    "active": true
+  },
+  {
+    "id": 24,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Tronic Bulb – 12W",
+    "family": "Tronic Bulb",
+    "variants": [
+      {
+        "label": "10pcs",
         "price": 24000,
         "note": ""
       }
     ],
     "priceMin": 24000,
     "priceMax": 24000,
-    "image": "/images/products/16.jpg",
-    "active": true
-  },
-  {
-    "id": 17,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Wires & Cables",
-    "name": "Tronic Single Wire",
-    "variants": [
-      {
-        "label": "1.5mm",
-        "price": 72000,
-        "note": ""
-      },
-      {
-        "label": "2.5mm",
-        "price": 120000,
-        "note": ""
-      },
-      {
-        "label": "4mm",
-        "price": 199000,
-        "note": ""
-      },
-      {
-        "label": "6mm",
-        "price": 293000,
-        "note": ""
-      },
-      {
-        "label": "10mm",
-        "price": 484000,
-        "note": ""
-      },
-      {
-        "label": "16mm",
-        "price": 755000,
-        "note": ""
-      }
-    ],
-    "priceMin": 72000,
-    "priceMax": 755000,
-    "image": "/images/products/17.jpg",
-    "active": true
-  },
-  {
-    "id": 18,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Wires & Cables",
-    "name": "East Africa Cable",
-    "variants": [
-      {
-        "label": "1.5 Roller",
-        "price": 45000,
-        "note": ""
-      },
-      {
-        "label": "2.5 Roller",
-        "price": 65000,
-        "note": ""
-      },
-      {
-        "label": "1.5mm Twin",
-        "price": 125000,
-        "note": ""
-      },
-      {
-        "label": "2.5mm Twin",
-        "price": 165000,
-        "note": ""
-      }
-    ],
-    "priceMin": 45000,
-    "priceMax": 165000,
-    "image": "/images/products/18.jpg",
-    "active": true
-  },
-  {
-    "id": 19,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Wires & Cables",
-    "name": "Master Single Cable",
-    "variants": [
-      {
-        "label": "1.5mm",
-        "price": 70000,
-        "note": ""
-      },
-      {
-        "label": "2.5mm",
-        "price": 115000,
-        "note": ""
-      },
-      {
-        "label": "4mm",
-        "price": 190000,
-        "note": ""
-      },
-      {
-        "label": "6mm",
-        "price": 280000,
-        "note": ""
-      },
-      {
-        "label": "10mm",
-        "price": 460000,
-        "note": ""
-      },
-      {
-        "label": "16mm",
-        "price": 710000,
-        "note": ""
-      }
-    ],
-    "priceMin": 70000,
-    "priceMax": 710000,
-    "image": "/images/products/19.jpg",
-    "active": true
-  },
-  {
-    "id": 20,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Wires & Cables",
-    "name": "Iron Wire & AV Cable",
-    "variants": [
-      {
-        "label": "Wire wa Pasi",
-        "price": 3000,
-        "note": ""
-      },
-      {
-        "label": "AV Cable 2-in-1",
-        "price": 1000,
-        "note": ""
-      },
-      {
-        "label": "Flexible wire (red & yellow)",
-        "price": 20000,
-        "note": ""
-      },
-      {
-        "label": "Radio charger",
-        "price": 1500,
-        "note": ""
-      },
-      {
-        "label": "Power cable",
-        "price": 2500,
-        "note": ""
-      }
-    ],
-    "priceMin": 1000,
-    "priceMax": 20000,
-    "image": "/images/products/20.jpg",
-    "active": true
-  },
-  {
-    "id": 21,
-    "category": "Power & Extensions",
-    "subcategory": "Extensions",
-    "name": "Bravo & Ailyons Extension",
-    "variants": [
-      {
-        "label": "Bravo 4-Way",
-        "price": 5000,
-        "note": ""
-      },
-      {
-        "label": "Ailyons 4-Way",
-        "price": 7000,
-        "note": ""
-      },
-      {
-        "label": "Bravo USB/Type Port",
-        "price": 6000,
-        "note": ""
-      }
-    ],
-    "priceMin": 5000,
-    "priceMax": 7000,
-    "image": "/images/products/21.jpg",
-    "active": true
-  },
-  {
-    "id": 22,
-    "category": "Power & Extensions",
-    "subcategory": "Extensions",
-    "name": "Power King Extension",
-    "variants": [
-      {
-        "label": "Carton",
-        "price": 201600,
-        "note": "(48pcs @4,200)"
-      },
-      {
-        "label": "Per piece",
-        "price": 4500,
-        "note": ""
-      }
-    ],
-    "priceMin": 4500,
-    "priceMax": 201600,
-    "image": "/images/products/22.jpg",
-    "active": true
-  },
-  {
-    "id": 23,
-    "category": "Power & Extensions",
-    "subcategory": "Extensions",
-    "name": "Tronic & Power Socket",
-    "variants": [
-      {
-        "label": "Tronic 6-Way",
-        "price": 27000,
-        "note": ""
-      },
-      {
-        "label": "Power Socket 10-Way",
-        "price": 18000,
-        "note": ""
-      },
-      {
-        "label": "Extension 12-Way",
-        "price": 20000,
-        "note": ""
-      },
-      {
-        "label": "Tronic Multipurpose",
-        "price": 18000,
-        "note": ""
-      }
-    ],
-    "priceMin": 18000,
-    "priceMax": 27000,
-    "image": "/images/products/23.jpg",
-    "active": true
-  },
-  {
-    "id": 24,
-    "category": "Power & Extensions",
-    "subcategory": "Extensions",
-    "name": "High Atra Extension",
-    "variants": [
-      {
-        "label": "4-Way + USB Port",
-        "price": 8500,
-        "note": ""
-      },
-      {
-        "label": "Multplug Extension",
-        "price": 3000,
-        "note": ""
-      }
-    ],
-    "priceMin": 3000,
-    "priceMax": 8500,
-    "image": "/images/products/24.jpg",
+    "image": "/images/products/ph133.jpg",
     "active": true
   },
   {
     "id": 25,
-    "category": "Power & Extensions",
-    "subcategory": "Power & Plugs",
-    "name": "Top Plugs",
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Tronic Bulb – 15W",
+    "family": "Tronic Bulb",
     "variants": [
       {
-        "label": "Siroma Top Plug",
-        "price": 12000,
-        "note": "(12pcs)"
-      },
-      {
-        "label": "GRN UK Top Plug",
-        "price": 14000,
-        "note": "(12pcs)"
-      },
-      {
-        "label": "Tembo Top Plug",
-        "price": 15500,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Hippo plug with light",
-        "price": 16000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Tronic A13 Top Plug",
-        "price": 30000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Africab Top Plug",
-        "price": 30000,
-        "note": "(20pcs)"
+        "label": "10pcs",
+        "price": 31000,
+        "note": ""
       }
     ],
-    "priceMin": 12000,
-    "priceMax": 30000,
-    "image": "/images/products/25.jpg",
+    "priceMin": 31000,
+    "priceMax": 31000,
+    "image": "/images/products/ph133.jpg",
     "active": true
   },
   {
     "id": 26,
-    "category": "Power & Extensions",
-    "subcategory": "Power & Plugs",
-    "name": "Multplugs",
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Tronic Bulb – 20W",
+    "family": "Tronic Bulb",
     "variants": [
       {
-        "label": "Africab Multplug",
-        "price": 27000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Tronic Multplug",
-        "price": 5000,
-        "note": ""
-      },
-      {
-        "label": "Standard Multplug Extension",
-        "price": 3000,
+        "label": "10pcs",
+        "price": 45000,
         "note": ""
       }
     ],
-    "priceMin": 3000,
-    "priceMax": 27000,
-    "image": "/images/products/26.jpg",
+    "priceMin": 45000,
+    "priceMax": 45000,
+    "image": "/images/products/ph133.jpg",
     "active": true
   },
   {
     "id": 27,
-    "category": "Power & Extensions",
-    "subcategory": "Power & Plugs",
-    "name": "Tronic Main Switch",
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Tronic Bulb – 30W",
+    "family": "Tronic Bulb",
     "variants": [
       {
-        "label": "4-Way Vertical",
-        "price": 65000,
-        "note": ""
-      },
-      {
-        "label": "4-Way",
-        "price": 80000,
-        "note": ""
-      },
-      {
-        "label": "6-Way",
-        "price": 93500,
-        "note": ""
-      },
-      {
-        "label": "8-Way",
-        "price": 110000,
+        "label": "10pcs",
+        "price": 68600,
         "note": ""
       }
     ],
-    "priceMin": 65000,
-    "priceMax": 110000,
-    "image": "/images/products/27.jpg",
+    "priceMin": 68600,
+    "priceMax": 68600,
+    "image": "/images/products/ph133.jpg",
     "active": true
   },
   {
     "id": 28,
-    "category": "Power & Extensions",
-    "subcategory": "Power & Plugs",
-    "name": "Eurotrix Main Switch",
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Tronic Bulb – 40W",
+    "family": "Tronic Bulb",
     "variants": [
       {
-        "label": "4-Way IP",
-        "price": 46000,
-        "note": ""
-      },
-      {
-        "label": "4-Way G.I",
-        "price": 47000,
-        "note": ""
-      },
-      {
-        "label": "6-Way G.I",
-        "price": 50000,
+        "label": "5pcs",
+        "price": 57500,
         "note": ""
       }
     ],
-    "priceMin": 46000,
-    "priceMax": 50000,
-    "image": "/images/products/28.jpg",
+    "priceMin": 57500,
+    "priceMax": 57500,
+    "image": "/images/products/ph133.jpg",
     "active": true
   },
   {
     "id": 29,
-    "category": "Ulinzi wa Vifaa (Safety)",
-    "subcategory": "Protection & Control",
-    "name": "Fridge & TV Guards",
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "PIN / SCR Lighting – 8W PIN/SCR",
+    "family": "PIN / SCR Lighting",
     "variants": [
       {
-        "label": "Tronic Guard",
-        "price": 23000,
+        "label": "10pcs @2,100",
+        "price": 21000,
         "note": ""
-      },
+      }
+    ],
+    "priceMin": 21000,
+    "priceMax": 21000,
+    "image": "/images/products/ph136.jpg",
+    "active": true
+  },
+  {
+    "id": 30,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "PIN / SCR Lighting – 15W PIN/SCR",
+    "family": "PIN / SCR Lighting",
+    "variants": [
       {
-        "label": "Standard Fridge/TV Guard",
+        "label": "10pcs @3,500",
+        "price": 35000,
+        "note": ""
+      }
+    ],
+    "priceMin": 35000,
+    "priceMax": 35000,
+    "image": "/images/products/ph136.jpg",
+    "active": true
+  },
+  {
+    "id": 31,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "PIN / SCR Lighting – 18W PIN/SCR",
+    "family": "PIN / SCR Lighting",
+    "variants": [
+      {
+        "label": "10pcs @3,900",
+        "price": 39000,
+        "note": ""
+      }
+    ],
+    "priceMin": 39000,
+    "priceMax": 39000,
+    "image": "/images/products/ph136.jpg",
+    "active": true
+  },
+  {
+    "id": 32,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "PIN / SCR Lighting – 24W PIN",
+    "family": "PIN / SCR Lighting",
+    "variants": [
+      {
+        "label": "10pcs @5,700",
+        "price": 57000,
+        "note": ""
+      }
+    ],
+    "priceMin": 57000,
+    "priceMax": 57000,
+    "image": "/images/products/ph136.jpg",
+    "active": true
+  },
+  {
+    "id": 33,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "PIN / SCR Lighting – 35W PIN/SCR",
+    "family": "PIN / SCR Lighting",
+    "variants": [
+      {
+        "label": "5pcs @8,600",
+        "price": 43000,
+        "note": ""
+      }
+    ],
+    "priceMin": 43000,
+    "priceMax": 43000,
+    "image": "/images/products/ph136.jpg",
+    "active": true
+  },
+  {
+    "id": 34,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "PIN / SCR Lighting – 45W PIN",
+    "family": "PIN / SCR Lighting",
+    "variants": [
+      {
+        "label": "4pcs @11,500",
+        "price": 46000,
+        "note": ""
+      }
+    ],
+    "priceMin": 46000,
+    "priceMax": 46000,
+    "image": "/images/products/ph136.jpg",
+    "active": true
+  },
+  {
+    "id": 35,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "PIN / SCR Lighting – 55W SCR",
+    "family": "PIN / SCR Lighting",
+    "variants": [
+      {
+        "label": "2pcs @15,000",
+        "price": 30000,
+        "note": ""
+      }
+    ],
+    "priceMin": 30000,
+    "priceMax": 30000,
+    "image": "/images/products/ph136.jpg",
+    "active": true
+  },
+  {
+    "id": 36,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "White / Warm Lights – 18W WHITE/WARM",
+    "family": "White / Warm Lights",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 49000,
+        "note": ""
+      }
+    ],
+    "priceMin": 49000,
+    "priceMax": 49000,
+    "image": "/images/products/ph137.jpg",
+    "active": true
+  },
+  {
+    "id": 37,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "White / Warm Lights – 35W WHITE",
+    "family": "White / Warm Lights",
+    "variants": [
+      {
+        "label": "5pcs",
+        "price": 37500,
+        "note": ""
+      }
+    ],
+    "priceMin": 37500,
+    "priceMax": 37500,
+    "image": "/images/products/ph137.jpg",
+    "active": true
+  },
+  {
+    "id": 38,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "White / Warm Lights – 45W WHITE",
+    "family": "White / Warm Lights",
+    "variants": [
+      {
+        "label": "4pcs",
+        "price": 48000,
+        "note": ""
+      }
+    ],
+    "priceMin": 48000,
+    "priceMax": 48000,
+    "image": "/images/products/ph137.jpg",
+    "active": true
+  },
+  {
+    "id": 39,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "Solar & Specialty Bulbs – Solar bulb 3W",
+    "family": "Solar & Specialty Bulbs",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 20000,
+        "note": ""
+      }
+    ],
+    "priceMin": 20000,
+    "priceMax": 20000,
+    "image": "/images/products/ph140.jpg",
+    "active": true
+  },
+  {
+    "id": 40,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "Solar & Specialty Bulbs – Honor change colour 7W",
+    "family": "Solar & Specialty Bulbs",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 28500,
+        "note": ""
+      }
+    ],
+    "priceMin": 28500,
+    "priceMax": 28500,
+    "image": "/images/products/ph135.jpg",
+    "active": true
+  },
+  {
+    "id": 41,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "Solar & Specialty Bulbs – Desert Storm 100W / 60W",
+    "family": "Solar & Specialty Bulbs",
+    "variants": [
+      {
+        "label": "10pcs, bulb za kuku",
+        "price": 10000,
+        "note": ""
+      }
+    ],
+    "priceMin": 10000,
+    "priceMax": 10000,
+    "image": "/images/products/ph142.jpg",
+    "active": true
+  },
+  {
+    "id": 42,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "LED / Decorative Option – G-well GL-931",
+    "family": "LED / Decorative Option",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 11000,
+        "note": ""
+      }
+    ],
+    "priceMin": 11000,
+    "priceMax": 11000,
+    "image": "/images/products/ph138.jpg",
+    "active": true
+  },
+  {
+    "id": 43,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "LED / Decorative Option – Additional LED item",
+    "family": "LED / Decorative Option",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 8500,
+        "note": ""
+      }
+    ],
+    "priceMin": 8500,
+    "priceMax": 8500,
+    "image": "/images/products/8.jpg",
+    "active": true
+  },
+  {
+    "id": 44,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Africab Switch Gang – 1 Gang 1 Way",
+    "family": "Africab Switch Gang",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 12000,
+        "note": ""
+      }
+    ],
+    "priceMin": 12000,
+    "priceMax": 12000,
+    "image": "/images/products/ph102.jpg",
+    "active": true
+  },
+  {
+    "id": 45,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Africab Switch Gang – 1 Gang 2 Way",
+    "family": "Africab Switch Gang",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 13000,
+        "note": ""
+      }
+    ],
+    "priceMin": 13000,
+    "priceMax": 13000,
+    "image": "/images/products/ph102.jpg",
+    "active": true
+  },
+  {
+    "id": 46,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Africab Switch Gang – 2 Gang 1 Way",
+    "family": "Africab Switch Gang",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 15000,
+        "note": ""
+      }
+    ],
+    "priceMin": 15000,
+    "priceMax": 15000,
+    "image": "/images/products/ph102.jpg",
+    "active": true
+  },
+  {
+    "id": 47,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Africab Switch Gang – 2 Gang 2 Way",
+    "family": "Africab Switch Gang",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 17000,
+        "note": ""
+      }
+    ],
+    "priceMin": 17000,
+    "priceMax": 17000,
+    "image": "/images/products/ph102.jpg",
+    "active": true
+  },
+  {
+    "id": 48,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Africab Switch Gang – 3 Gang 1 Way",
+    "family": "Africab Switch Gang",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 19000,
+        "note": ""
+      }
+    ],
+    "priceMin": 19000,
+    "priceMax": 19000,
+    "image": "/images/products/ph102.jpg",
+    "active": true
+  },
+  {
+    "id": 49,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Africab Switch Gang – 3 Gang 2 Way",
+    "family": "Africab Switch Gang",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 21000,
+        "note": ""
+      }
+    ],
+    "priceMin": 21000,
+    "priceMax": 21000,
+    "image": "/images/products/ph102.jpg",
+    "active": true
+  },
+  {
+    "id": 50,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Africab Switch Gang – 4 Gang 2 Way",
+    "family": "Africab Switch Gang",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 36000,
+        "note": ""
+      }
+    ],
+    "priceMin": 36000,
+    "priceMax": 36000,
+    "image": "/images/products/ph102.jpg",
+    "active": true
+  },
+  {
+    "id": 51,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Premium Switch Gang – 1 Gang 1 Way",
+    "family": "Premium Switch Gang",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 32000,
+        "note": ""
+      }
+    ],
+    "priceMin": 32000,
+    "priceMax": 32000,
+    "image": "/images/products/ph99.jpg",
+    "active": true
+  },
+  {
+    "id": 52,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Premium Switch Gang – 1 Gang 2 Way",
+    "family": "Premium Switch Gang",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 34500,
+        "note": ""
+      }
+    ],
+    "priceMin": 34500,
+    "priceMax": 34500,
+    "image": "/images/products/ph99.jpg",
+    "active": true
+  },
+  {
+    "id": 53,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Premium Switch Gang – 2 Gang 1 Way",
+    "family": "Premium Switch Gang",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 38000,
+        "note": ""
+      }
+    ],
+    "priceMin": 38000,
+    "priceMax": 38000,
+    "image": "/images/products/ph99.jpg",
+    "active": true
+  },
+  {
+    "id": 54,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Premium Switch Gang – 2 Gang 2 Way",
+    "family": "Premium Switch Gang",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 41500,
+        "note": ""
+      }
+    ],
+    "priceMin": 41500,
+    "priceMax": 41500,
+    "image": "/images/products/ph99.jpg",
+    "active": true
+  },
+  {
+    "id": 55,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Premium Switch Gang – 3 Gang 1 Way",
+    "family": "Premium Switch Gang",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 47000,
+        "note": ""
+      }
+    ],
+    "priceMin": 47000,
+    "priceMax": 47000,
+    "image": "/images/products/ph99.jpg",
+    "active": true
+  },
+  {
+    "id": 56,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Premium Switch Gang – 4 Gang 2 Way",
+    "family": "Premium Switch Gang",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 69500,
+        "note": ""
+      }
+    ],
+    "priceMin": 69500,
+    "priceMax": 69500,
+    "image": "/images/products/ph99.jpg",
+    "active": true
+  },
+  {
+    "id": 57,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Hippo Switch & Socket – Socket Single",
+    "family": "Hippo Switch & Socket",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 18500,
+        "note": ""
+      }
+    ],
+    "priceMin": 18500,
+    "priceMax": 18500,
+    "image": "/images/products/ph104.jpg",
+    "active": true
+  },
+  {
+    "id": 58,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Hippo Switch & Socket – Socket Double",
+    "family": "Hippo Switch & Socket",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 19000,
+        "note": ""
+      }
+    ],
+    "priceMin": 19000,
+    "priceMax": 19000,
+    "image": "/images/products/ph104.jpg",
+    "active": true
+  },
+  {
+    "id": 59,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Hippo Switch & Socket – 1 Gang",
+    "family": "Hippo Switch & Socket",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 10000,
+        "note": ""
+      }
+    ],
+    "priceMin": 10000,
+    "priceMax": 10000,
+    "image": "/images/products/ph104.jpg",
+    "active": true
+  },
+  {
+    "id": 60,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Hippo Switch & Socket – 2 Gang",
+    "family": "Hippo Switch & Socket",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 15000,
+        "note": ""
+      }
+    ],
+    "priceMin": 15000,
+    "priceMax": 15000,
+    "image": "/images/products/ph104.jpg",
+    "active": true
+  },
+  {
+    "id": 61,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Hippo Switch & Socket – 3 Gang",
+    "family": "Hippo Switch & Socket",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 17000,
+        "note": ""
+      }
+    ],
+    "priceMin": 17000,
+    "priceMax": 17000,
+    "image": "/images/products/ph104.jpg",
+    "active": true
+  },
+  {
+    "id": 62,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Tronic D.P. Switch – D.P Switch Tronic",
+    "family": "Tronic D.P. Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 54000,
+        "note": ""
+      }
+    ],
+    "priceMin": 54000,
+    "priceMax": 54000,
+    "image": "/images/products/ph100.jpg",
+    "active": true
+  },
+  {
+    "id": 63,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Tronic D.P. Switch – D.P Switch 45A",
+    "family": "Tronic D.P. Switch",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 114000,
+        "note": ""
+      }
+    ],
+    "priceMin": 114000,
+    "priceMax": 114000,
+    "image": "/images/products/ph101.jpg",
+    "active": true
+  },
+  {
+    "id": 64,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Africab Switch Socket – Single",
+    "family": "Africab Switch Socket",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 18500,
+        "note": ""
+      }
+    ],
+    "priceMin": 18500,
+    "priceMax": 18500,
+    "image": "/images/products/ph103.jpg",
+    "active": true
+  },
+  {
+    "id": 65,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Africab Switch Socket – Double",
+    "family": "Africab Switch Socket",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 18500,
+        "note": ""
+      }
+    ],
+    "priceMin": 18500,
+    "priceMax": 18500,
+    "image": "/images/products/ph103.jpg",
+    "active": true
+  },
+  {
+    "id": 66,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Switch Socket Premium – Single",
+    "family": "Switch Socket Premium",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 49000,
+        "note": ""
+      }
+    ],
+    "priceMin": 49000,
+    "priceMax": 49000,
+    "image": "/images/products/ph98.jpg",
+    "active": true
+  },
+  {
+    "id": 67,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Switch Socket Premium – Double",
+    "family": "Switch Socket Premium",
+    "variants": [
+      {
+        "label": "5pcs",
+        "price": 44000,
+        "note": ""
+      }
+    ],
+    "priceMin": 44000,
+    "priceMax": 44000,
+    "image": "/images/products/ph98.jpg",
+    "active": true
+  },
+  {
+    "id": 68,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Lamp Holders – Ailyons Small",
+    "family": "Lamp Holders",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 6500,
+        "note": ""
+      }
+    ],
+    "priceMin": 6500,
+    "priceMax": 6500,
+    "image": "/images/products/ph122.jpg",
+    "active": true
+  },
+  {
+    "id": 69,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Lamp Holders – Ailyons Big",
+    "family": "Lamp Holders",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 9000,
+        "note": ""
+      }
+    ],
+    "priceMin": 9000,
+    "priceMax": 9000,
+    "image": "/images/products/ph122.jpg",
+    "active": true
+  },
+  {
+    "id": 70,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Lamp Holders – Africab Holder",
+    "family": "Lamp Holders",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 12000,
+        "note": ""
+      }
+    ],
+    "priceMin": 12000,
+    "priceMax": 12000,
+    "image": "/images/products/ph123.jpg",
+    "active": true
+  },
+  {
+    "id": 71,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Lamp Holders – Holder Big",
+    "family": "Lamp Holders",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 8500,
+        "note": ""
+      }
+    ],
+    "priceMin": 8500,
+    "priceMax": 8500,
+    "image": "/images/products/ph124.jpg",
+    "active": true
+  },
+  {
+    "id": 72,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Lamp Holders – Holder Small",
+    "family": "Lamp Holders",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 6500,
+        "note": ""
+      }
+    ],
+    "priceMin": 6500,
+    "priceMax": 6500,
+    "image": "/images/products/ph124.jpg",
+    "active": true
+  },
+  {
+    "id": 73,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Lamp Holders – Voltrix Big",
+    "family": "Lamp Holders",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 9000,
+        "note": ""
+      }
+    ],
+    "priceMin": 9000,
+    "priceMax": 9000,
+    "image": "/images/products/ph126.jpg",
+    "active": true
+  },
+  {
+    "id": 74,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Lamp Holders – Voltrix Small",
+    "family": "Lamp Holders",
+    "variants": [
+      {
+        "label": "Kipande 1",
         "price": 7500,
         "note": ""
       }
     ],
     "priceMin": 7500,
-    "priceMax": 23000,
-    "image": "/images/products/29.jpg",
+    "priceMax": 7500,
+    "image": "/images/products/ph126.jpg",
     "active": true
   },
   {
-    "id": 30,
-    "category": "Ulinzi wa Vifaa (Safety)",
-    "subcategory": "Protection & Control",
-    "name": "Photocells",
+    "id": 75,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Lamp Holders – Africab 2-in-1 pin & screw (straight/angle)",
+    "family": "Lamp Holders",
     "variants": [
       {
-        "label": "Tronic Photocell",
+        "label": "Kipande 1",
+        "price": 15000,
+        "note": ""
+      }
+    ],
+    "priceMin": 15000,
+    "priceMax": 15000,
+    "image": "/images/products/ph125.jpg",
+    "active": true
+  },
+  {
+    "id": 76,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Tronic Straight & Angle – Tronic Holder Straight/Angle",
+    "family": "Tronic Straight & Angle",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 24000,
+        "note": ""
+      }
+    ],
+    "priceMin": 24000,
+    "priceMax": 24000,
+    "image": "/images/products/ph121.jpg",
+    "active": true
+  },
+  {
+    "id": 77,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Single Wire – 1.5mm",
+    "family": "Tronic Single Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 72000,
+        "note": ""
+      }
+    ],
+    "priceMin": 72000,
+    "priceMax": 72000,
+    "image": "/images/products/ph202.jpg",
+    "active": true
+  },
+  {
+    "id": 78,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Single Wire – 2.5mm",
+    "family": "Tronic Single Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 120000,
+        "note": ""
+      }
+    ],
+    "priceMin": 120000,
+    "priceMax": 120000,
+    "image": "/images/products/ph202.jpg",
+    "active": true
+  },
+  {
+    "id": 79,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Single Wire – 4mm",
+    "family": "Tronic Single Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 199000,
+        "note": ""
+      }
+    ],
+    "priceMin": 199000,
+    "priceMax": 199000,
+    "image": "/images/products/ph202.jpg",
+    "active": true
+  },
+  {
+    "id": 80,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Single Wire – 6mm",
+    "family": "Tronic Single Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 293000,
+        "note": ""
+      }
+    ],
+    "priceMin": 293000,
+    "priceMax": 293000,
+    "image": "/images/products/ph202.jpg",
+    "active": true
+  },
+  {
+    "id": 81,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Single Wire – 10mm",
+    "family": "Tronic Single Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 484000,
+        "note": ""
+      }
+    ],
+    "priceMin": 484000,
+    "priceMax": 484000,
+    "image": "/images/products/ph202.jpg",
+    "active": true
+  },
+  {
+    "id": 82,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Single Wire – 16mm",
+    "family": "Tronic Single Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 755000,
+        "note": ""
+      }
+    ],
+    "priceMin": 755000,
+    "priceMax": 755000,
+    "image": "/images/products/ph202.jpg",
+    "active": true
+  },
+  {
+    "id": 83,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "East Africa Cable – 1.5 Roller",
+    "family": "East Africa Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 45000,
+        "note": ""
+      }
+    ],
+    "priceMin": 45000,
+    "priceMax": 45000,
+    "image": "/images/products/ph205.jpg",
+    "active": true
+  },
+  {
+    "id": 84,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "East Africa Cable – 2.5 Roller",
+    "family": "East Africa Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 65000,
+        "note": ""
+      }
+    ],
+    "priceMin": 65000,
+    "priceMax": 65000,
+    "image": "/images/products/ph205.jpg",
+    "active": true
+  },
+  {
+    "id": 85,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "East Africa Cable – 1.5mm Twin",
+    "family": "East Africa Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 125000,
+        "note": ""
+      }
+    ],
+    "priceMin": 125000,
+    "priceMax": 125000,
+    "image": "/images/products/ph206.jpg",
+    "active": true
+  },
+  {
+    "id": 86,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "East Africa Cable – 2.5mm Twin",
+    "family": "East Africa Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 165000,
+        "note": ""
+      }
+    ],
+    "priceMin": 165000,
+    "priceMax": 165000,
+    "image": "/images/products/ph206.jpg",
+    "active": true
+  },
+  {
+    "id": 87,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Single Cable – 1.5mm",
+    "family": "Master Single Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 70000,
+        "note": ""
+      }
+    ],
+    "priceMin": 70000,
+    "priceMax": 70000,
+    "image": "/images/products/ph201.jpg",
+    "active": true
+  },
+  {
+    "id": 88,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Single Cable – 2.5mm",
+    "family": "Master Single Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 115000,
+        "note": ""
+      }
+    ],
+    "priceMin": 115000,
+    "priceMax": 115000,
+    "image": "/images/products/ph201.jpg",
+    "active": true
+  },
+  {
+    "id": 89,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Single Cable – 4mm",
+    "family": "Master Single Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 190000,
+        "note": ""
+      }
+    ],
+    "priceMin": 190000,
+    "priceMax": 190000,
+    "image": "/images/products/ph201.jpg",
+    "active": true
+  },
+  {
+    "id": 90,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Single Cable – 6mm",
+    "family": "Master Single Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 280000,
+        "note": ""
+      }
+    ],
+    "priceMin": 280000,
+    "priceMax": 280000,
+    "image": "/images/products/ph201.jpg",
+    "active": true
+  },
+  {
+    "id": 91,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Single Cable – 10mm",
+    "family": "Master Single Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 460000,
+        "note": ""
+      }
+    ],
+    "priceMin": 460000,
+    "priceMax": 460000,
+    "image": "/images/products/ph201.jpg",
+    "active": true
+  },
+  {
+    "id": 92,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Single Cable – 16mm",
+    "family": "Master Single Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 710000,
+        "note": ""
+      }
+    ],
+    "priceMin": 710000,
+    "priceMax": 710000,
+    "image": "/images/products/ph201.jpg",
+    "active": true
+  },
+  {
+    "id": 93,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Iron Wire & AV Cable – Wire wa Pasi",
+    "family": "Iron Wire & AV Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 3000,
+        "note": ""
+      }
+    ],
+    "priceMin": 3000,
+    "priceMax": 3000,
+    "image": "/images/products/ph211.jpg",
+    "active": true
+  },
+  {
+    "id": 94,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Iron Wire & AV Cable – AV Cable 2-in-1",
+    "family": "Iron Wire & AV Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 1000,
+        "note": ""
+      }
+    ],
+    "priceMin": 1000,
+    "priceMax": 1000,
+    "image": "/images/products/ph210.jpg",
+    "active": true
+  },
+  {
+    "id": 95,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Iron Wire & AV Cable – Flexible wire (red & yellow)",
+    "family": "Iron Wire & AV Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 20000,
+        "note": ""
+      }
+    ],
+    "priceMin": 20000,
+    "priceMax": 20000,
+    "image": "/images/products/ph198.jpg",
+    "active": true
+  },
+  {
+    "id": 96,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Iron Wire & AV Cable – Radio charger",
+    "family": "Iron Wire & AV Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 1500,
+        "note": ""
+      }
+    ],
+    "priceMin": 1500,
+    "priceMax": 1500,
+    "image": "/images/products/ph207.jpg",
+    "active": true
+  },
+  {
+    "id": 97,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Iron Wire & AV Cable – Power cable",
+    "family": "Iron Wire & AV Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 2500,
+        "note": ""
+      }
+    ],
+    "priceMin": 2500,
+    "priceMax": 2500,
+    "image": "/images/products/ph208.jpg",
+    "active": true
+  },
+  {
+    "id": 98,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Bravo & Ailyons Extension – Bravo 4-Way",
+    "family": "Bravo & Ailyons Extension",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 5000,
+        "note": ""
+      }
+    ],
+    "priceMin": 5000,
+    "priceMax": 5000,
+    "image": "/images/products/ph214.jpg",
+    "active": true
+  },
+  {
+    "id": 99,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Bravo & Ailyons Extension – Ailyons 4-Way",
+    "family": "Bravo & Ailyons Extension",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 7000,
+        "note": ""
+      }
+    ],
+    "priceMin": 7000,
+    "priceMax": 7000,
+    "image": "/images/products/ph215.jpg",
+    "active": true
+  },
+  {
+    "id": 100,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Bravo & Ailyons Extension – Bravo USB/Type Port",
+    "family": "Bravo & Ailyons Extension",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 6000,
+        "note": ""
+      }
+    ],
+    "priceMin": 6000,
+    "priceMax": 6000,
+    "image": "/images/products/ph216.jpg",
+    "active": true
+  },
+  {
+    "id": 101,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Power King Extension – Carton",
+    "family": "Power King Extension",
+    "variants": [
+      {
+        "label": "48pcs @4,200",
+        "price": 201600,
+        "note": ""
+      }
+    ],
+    "priceMin": 201600,
+    "priceMax": 201600,
+    "image": "/images/products/ph217.jpg",
+    "active": true
+  },
+  {
+    "id": 102,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Power King Extension – Per piece",
+    "family": "Power King Extension",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 4500,
+        "note": ""
+      }
+    ],
+    "priceMin": 4500,
+    "priceMax": 4500,
+    "image": "/images/products/ph217.jpg",
+    "active": true
+  },
+  {
+    "id": 103,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Tronic & Power Socket – Tronic 6-Way",
+    "family": "Tronic & Power Socket",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 27000,
+        "note": ""
+      }
+    ],
+    "priceMin": 27000,
+    "priceMax": 27000,
+    "image": "/images/products/ph219.jpg",
+    "active": true
+  },
+  {
+    "id": 104,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Tronic & Power Socket – Power Socket 10-Way",
+    "family": "Tronic & Power Socket",
+    "variants": [
+      {
+        "label": "Kipande 1",
         "price": 18000,
         "note": ""
-      },
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 18000,
+    "image": "/images/products/ph222.jpg",
+    "active": true
+  },
+  {
+    "id": 105,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Tronic & Power Socket – Extension 12-Way",
+    "family": "Tronic & Power Socket",
+    "variants": [
       {
-        "label": "Van Light 10A",
-        "price": 17000,
-        "note": "(tunauza kuanzia pc 5)"
-      },
-      {
-        "label": "Van Light 20A",
-        "price": 19000,
-        "note": "(tunauza kuanzia pc 5)"
-      },
-      {
-        "label": "Africab Photocell",
-        "price": 15500,
+        "label": "Kipande 1",
+        "price": 20000,
         "note": ""
-      },
+      }
+    ],
+    "priceMin": 20000,
+    "priceMax": 20000,
+    "image": "/images/products/ph223.jpg",
+    "active": true
+  },
+  {
+    "id": 106,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Tronic & Power Socket – Tronic Multipurpose",
+    "family": "Tronic & Power Socket",
+    "variants": [
       {
-        "label": "Eurotrix Photocell",
+        "label": "Kipande 1",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 18000,
+    "image": "/images/products/23.jpg",
+    "active": true
+  },
+  {
+    "id": 107,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "High Atra Extension – 4-Way + USB Port",
+    "family": "High Atra Extension",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 8500,
+        "note": ""
+      }
+    ],
+    "priceMin": 8500,
+    "priceMax": 8500,
+    "image": "/images/products/ph224.jpg",
+    "active": true
+  },
+  {
+    "id": 108,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "High Atra Extension – Multplug Extension",
+    "family": "High Atra Extension",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 3000,
+        "note": ""
+      }
+    ],
+    "priceMin": 3000,
+    "priceMax": 3000,
+    "image": "/images/products/ph225.jpg",
+    "active": true
+  },
+  {
+    "id": 109,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Top Plugs – Siroma Top Plug",
+    "family": "Top Plugs",
+    "variants": [
+      {
+        "label": "12pcs",
+        "price": 12000,
+        "note": ""
+      }
+    ],
+    "priceMin": 12000,
+    "priceMax": 12000,
+    "image": "/images/products/ph170.jpg",
+    "active": true
+  },
+  {
+    "id": 110,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Top Plugs – GRN UK Top Plug",
+    "family": "Top Plugs",
+    "variants": [
+      {
+        "label": "12pcs",
         "price": 14000,
         "note": ""
       }
     ],
     "priceMin": 14000,
-    "priceMax": 19000,
-    "image": "/images/products/30.jpg",
+    "priceMax": 14000,
+    "image": "/images/products/ph171.jpg",
     "active": true
   },
   {
-    "id": 31,
-    "category": "Ulinzi wa Vifaa (Safety)",
-    "subcategory": "Protection & Control",
-    "name": "MCB Tronic",
+    "id": 111,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Top Plugs – Tembo Top Plug",
+    "family": "Top Plugs",
     "variants": [
       {
-        "label": "A6–A32",
-        "price": 60000,
-        "note": "(12pcs)"
-      },
-      {
-        "label": "A40",
-        "price": 75000,
-        "note": ""
-      },
-      {
-        "label": "A50 / A63",
-        "price": 85000,
+        "label": "10pcs",
+        "price": 15500,
         "note": ""
       }
     ],
-    "priceMin": 60000,
-    "priceMax": 85000,
-    "image": "/images/products/31.jpg",
+    "priceMin": 15500,
+    "priceMax": 15500,
+    "image": "/images/products/ph172.jpg",
     "active": true
   },
   {
-    "id": 32,
-    "category": "Ulinzi wa Vifaa (Safety)",
-    "subcategory": "Protection & Control",
-    "name": "Submeter",
+    "id": 112,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Top Plugs – Hippo plug with light",
+    "family": "Top Plugs",
     "variants": [
       {
-        "label": "Bona Red East Submeter",
+        "label": "10pcs",
         "price": 16000,
         "note": ""
       }
     ],
     "priceMin": 16000,
     "priceMax": 16000,
-    "image": "/images/products/32.jpg",
+    "image": "/images/products/ph173.jpg",
     "active": true
   },
   {
-    "id": 33,
-    "category": "Tech & Home",
-    "subcategory": "Tech & Accessories",
-    "name": "TV Accessories",
+    "id": 113,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Top Plugs – Tronic A13 Top Plug",
+    "family": "Top Plugs",
     "variants": [
       {
-        "label": "TV Socket Single",
+        "label": "10pcs",
+        "price": 30000,
+        "note": ""
+      }
+    ],
+    "priceMin": 30000,
+    "priceMax": 30000,
+    "image": "/images/products/ph174.jpg",
+    "active": true
+  },
+  {
+    "id": 114,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Top Plugs – Africab Top Plug",
+    "family": "Top Plugs",
+    "variants": [
+      {
+        "label": "20pcs",
+        "price": 30000,
+        "note": ""
+      }
+    ],
+    "priceMin": 30000,
+    "priceMax": 30000,
+    "image": "/images/products/ph175.jpg",
+    "active": true
+  },
+  {
+    "id": 115,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Multplugs – Africab Multplug",
+    "family": "Multplugs",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 27000,
+        "note": ""
+      }
+    ],
+    "priceMin": 27000,
+    "priceMax": 27000,
+    "image": "/images/products/26.jpg",
+    "active": true
+  },
+  {
+    "id": 116,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Multplugs – Tronic Multplug",
+    "family": "Multplugs",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 5000,
+        "note": ""
+      }
+    ],
+    "priceMin": 5000,
+    "priceMax": 5000,
+    "image": "/images/products/26.jpg",
+    "active": true
+  },
+  {
+    "id": 117,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Multplugs – Standard Multplug Extension",
+    "family": "Multplugs",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 3000,
+        "note": ""
+      }
+    ],
+    "priceMin": 3000,
+    "priceMax": 3000,
+    "image": "/images/products/ph225.jpg",
+    "active": true
+  },
+  {
+    "id": 118,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Tronic Main Switch – 4-Way Vertical",
+    "family": "Tronic Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 65000,
+        "note": ""
+      }
+    ],
+    "priceMin": 65000,
+    "priceMax": 65000,
+    "image": "/images/products/ph116.jpg",
+    "active": true
+  },
+  {
+    "id": 119,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Tronic Main Switch – 4-Way",
+    "family": "Tronic Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 80000,
+        "note": ""
+      }
+    ],
+    "priceMin": 80000,
+    "priceMax": 80000,
+    "image": "/images/products/ph116.jpg",
+    "active": true
+  },
+  {
+    "id": 120,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Tronic Main Switch – 6-Way",
+    "family": "Tronic Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 93500,
+        "note": ""
+      }
+    ],
+    "priceMin": 93500,
+    "priceMax": 93500,
+    "image": "/images/products/ph116.jpg",
+    "active": true
+  },
+  {
+    "id": 121,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Tronic Main Switch – 8-Way",
+    "family": "Tronic Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 110000,
+        "note": ""
+      }
+    ],
+    "priceMin": 110000,
+    "priceMax": 110000,
+    "image": "/images/products/ph116.jpg",
+    "active": true
+  },
+  {
+    "id": 122,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Eurotrix Main Switch – 4-Way IP",
+    "family": "Eurotrix Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 46000,
+        "note": ""
+      }
+    ],
+    "priceMin": 46000,
+    "priceMax": 46000,
+    "image": "/images/products/ph117.jpg",
+    "active": true
+  },
+  {
+    "id": 123,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Eurotrix Main Switch – 4-Way G.I",
+    "family": "Eurotrix Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 47000,
+        "note": ""
+      }
+    ],
+    "priceMin": 47000,
+    "priceMax": 47000,
+    "image": "/images/products/ph117.jpg",
+    "active": true
+  },
+  {
+    "id": 124,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Eurotrix Main Switch – 6-Way G.I",
+    "family": "Eurotrix Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 50000,
+        "note": ""
+      }
+    ],
+    "priceMin": 50000,
+    "priceMax": 50000,
+    "image": "/images/products/ph117.jpg",
+    "active": true
+  },
+  {
+    "id": 125,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Fridge & TV Guards – Tronic Guard",
+    "family": "Fridge & TV Guards",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 23000,
+        "note": ""
+      }
+    ],
+    "priceMin": 23000,
+    "priceMax": 23000,
+    "image": "/images/products/ph227.jpg",
+    "active": true
+  },
+  {
+    "id": 126,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Fridge & TV Guards – Standard Fridge/TV Guard",
+    "family": "Fridge & TV Guards",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 7500,
+        "note": ""
+      }
+    ],
+    "priceMin": 7500,
+    "priceMax": 7500,
+    "image": "/images/products/ph228.jpg",
+    "active": true
+  },
+  {
+    "id": 127,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Photocells – Tronic Photocell",
+    "family": "Photocells",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 18000,
+    "image": "/images/products/ph129.jpg",
+    "active": true
+  },
+  {
+    "id": 128,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Photocells – Van Light 10A",
+    "family": "Photocells",
+    "variants": [
+      {
+        "label": "tunauza kuanzia pc 5",
+        "price": 17000,
+        "note": ""
+      }
+    ],
+    "priceMin": 17000,
+    "priceMax": 17000,
+    "image": "/images/products/ph128.jpg",
+    "active": true
+  },
+  {
+    "id": 129,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Photocells – Van Light 20A",
+    "family": "Photocells",
+    "variants": [
+      {
+        "label": "tunauza kuanzia pc 5",
+        "price": 19000,
+        "note": ""
+      }
+    ],
+    "priceMin": 19000,
+    "priceMax": 19000,
+    "image": "/images/products/ph128.jpg",
+    "active": true
+  },
+  {
+    "id": 130,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Photocells – Africab Photocell",
+    "family": "Photocells",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 15500,
+        "note": ""
+      }
+    ],
+    "priceMin": 15500,
+    "priceMax": 15500,
+    "image": "/images/products/ph130.jpg",
+    "active": true
+  },
+  {
+    "id": 131,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Photocells – Eurotrix Photocell",
+    "family": "Photocells",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 14000,
+        "note": ""
+      }
+    ],
+    "priceMin": 14000,
+    "priceMax": 14000,
+    "image": "/images/products/ph131.jpg",
+    "active": true
+  },
+  {
+    "id": 132,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "MCB Tronic – A6–A32",
+    "family": "MCB Tronic",
+    "variants": [
+      {
+        "label": "12pcs",
+        "price": 60000,
+        "note": ""
+      }
+    ],
+    "priceMin": 60000,
+    "priceMax": 60000,
+    "image": "/images/products/ph196.jpg",
+    "active": true
+  },
+  {
+    "id": 133,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "MCB Tronic – A40",
+    "family": "MCB Tronic",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 75000,
+        "note": ""
+      }
+    ],
+    "priceMin": 75000,
+    "priceMax": 75000,
+    "image": "/images/products/ph196.jpg",
+    "active": true
+  },
+  {
+    "id": 134,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "MCB Tronic – A50 / A63",
+    "family": "MCB Tronic",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 85000,
+        "note": ""
+      }
+    ],
+    "priceMin": 85000,
+    "priceMax": 85000,
+    "image": "/images/products/ph196.jpg",
+    "active": true
+  },
+  {
+    "id": 135,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Bona Red East Submeter",
+    "family": "Submeter",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 16000,
+        "note": ""
+      }
+    ],
+    "priceMin": 16000,
+    "priceMax": 16000,
+    "image": "/images/products/ph197.jpg",
+    "active": true
+  },
+  {
+    "id": 136,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "TV Accessories – TV Socket Single",
+    "family": "TV Accessories",
+    "variants": [
+      {
+        "label": "10pcs",
         "price": 40000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "TV Socket Double",
-        "price": 45000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "TV Bracket Rotating",
-        "price": 45000,
         "note": ""
       }
     ],
     "priceMin": 40000,
-    "priceMax": 45000,
-    "image": "/images/products/33.jpg",
+    "priceMax": 40000,
+    "image": "/images/products/ph97.jpg",
     "active": true
   },
   {
-    "id": 34,
+    "id": 137,
     "category": "Tech & Home",
     "subcategory": "Tech & Accessories",
-    "name": "Smart Watch & USB",
+    "name": "TV Accessories – TV Socket Double",
+    "family": "TV Accessories",
     "variants": [
       {
-        "label": "Smart Watch",
+        "label": "10pcs",
+        "price": 45000,
+        "note": ""
+      }
+    ],
+    "priceMin": 45000,
+    "priceMax": 45000,
+    "image": "/images/products/ph97.jpg",
+    "active": true
+  },
+  {
+    "id": 138,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "TV Accessories – TV Bracket Rotating",
+    "family": "TV Accessories",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 45000,
+        "note": ""
+      }
+    ],
+    "priceMin": 45000,
+    "priceMax": 45000,
+    "image": "/images/products/ph246.jpg",
+    "active": true
+  },
+  {
+    "id": 139,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "Smart Watch & USB – Smart Watch",
+    "family": "Smart Watch & USB",
+    "variants": [
+      {
+        "label": "Kipande 1",
         "price": 9500,
         "note": ""
-      },
-      {
-        "label": "USB Cable",
-        "price": 10000,
-        "note": "(10pcs)"
       }
     ],
     "priceMin": 9500,
+    "priceMax": 9500,
+    "image": "/images/products/34.jpg",
+    "active": true
+  },
+  {
+    "id": 140,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "Smart Watch & USB – USB Cable",
+    "family": "Smart Watch & USB",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 10000,
+        "note": ""
+      }
+    ],
+    "priceMin": 10000,
     "priceMax": 10000,
     "image": "/images/products/34.jpg",
     "active": true
   },
   {
-    "id": 35,
+    "id": 141,
     "category": "Tech & Home",
     "subcategory": "Tech & Accessories",
     "name": "Video Doorbell",
+    "family": "Video Doorbell",
     "variants": [
       {
-        "label": "Video Doorbell",
+        "label": "Kipande 1",
         "price": 230000,
         "note": ""
       }
@@ -1125,131 +2538,266 @@
     "active": true
   },
   {
-    "id": 36,
+    "id": 142,
     "category": "Tech & Home",
     "subcategory": "Tech & Accessories",
-    "name": "Remote Controls",
+    "name": "Remote Controls – Azam TV Remote",
+    "family": "Remote Controls",
     "variants": [
       {
-        "label": "Azam TV Remote",
+        "label": "Kipande 1",
         "price": 3500,
-        "note": ""
-      },
-      {
-        "label": "Universal Remote",
-        "price": 3500,
-        "note": ""
-      },
-      {
-        "label": "Hisense TV Remote",
-        "price": 3000,
         "note": ""
       }
     ],
-    "priceMin": 3000,
+    "priceMin": 3500,
     "priceMax": 3500,
     "image": "/images/products/36.jpg",
     "active": true
   },
   {
-    "id": 37,
+    "id": 143,
     "category": "Tech & Home",
-    "subcategory": "Home & Appliances",
-    "name": "Irons",
+    "subcategory": "Tech & Accessories",
+    "name": "Remote Controls – Universal Remote",
+    "family": "Remote Controls",
     "variants": [
       {
-        "label": "Ailyons Iron",
+        "label": "Kipande 1",
+        "price": 3500,
+        "note": ""
+      }
+    ],
+    "priceMin": 3500,
+    "priceMax": 3500,
+    "image": "/images/products/36.jpg",
+    "active": true
+  },
+  {
+    "id": 144,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "Remote Controls – Hisense TV Remote",
+    "family": "Remote Controls",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 3000,
+        "note": ""
+      }
+    ],
+    "priceMin": 3000,
+    "priceMax": 3000,
+    "image": "/images/products/36.jpg",
+    "active": true
+  },
+  {
+    "id": 145,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Irons – Ailyons Iron",
+    "family": "Irons",
+    "variants": [
+      {
+        "label": "Kipande 1",
         "price": 18000,
         "note": ""
-      },
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 18000,
+    "image": "/images/products/ph230.jpg",
+    "active": true
+  },
+  {
+    "id": 146,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Irons – Philips Original",
+    "family": "Irons",
+    "variants": [
       {
-        "label": "Philips Original",
+        "label": "Kipande 1",
         "price": 32000,
         "note": ""
-      },
+      }
+    ],
+    "priceMin": 32000,
+    "priceMax": 32000,
+    "image": "/images/products/ph231.jpg",
+    "active": true
+  },
+  {
+    "id": 147,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Irons – Philips Fake",
+    "family": "Irons",
+    "variants": [
       {
-        "label": "Philips Fake",
+        "label": "Kipande 1",
         "price": 25000,
         "note": ""
-      },
+      }
+    ],
+    "priceMin": 25000,
+    "priceMax": 25000,
+    "image": "/images/products/ph231.jpg",
+    "active": true
+  },
+  {
+    "id": 148,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Irons – Bravo Travel Iron",
+    "family": "Irons",
+    "variants": [
       {
-        "label": "Bravo Travel Iron",
-        "price": 15000,
-        "note": ""
-      },
-      {
-        "label": "Access Small Travel Iron",
+        "label": "Kipande 1",
         "price": 15000,
         "note": ""
       }
     ],
     "priceMin": 15000,
-    "priceMax": 32000,
-    "image": "/images/products/37.jpg",
+    "priceMax": 15000,
+    "image": "/images/products/ph232.jpg",
     "active": true
   },
   {
-    "id": 38,
+    "id": 149,
     "category": "Tech & Home",
     "subcategory": "Home & Appliances",
-    "name": "More Iron Options",
+    "name": "Irons – Access Small Travel Iron",
+    "family": "Irons",
     "variants": [
       {
-        "label": "Royal Iron",
+        "label": "Kipande 1",
         "price": 15000,
         "note": ""
-      },
+      }
+    ],
+    "priceMin": 15000,
+    "priceMax": 15000,
+    "image": "/images/products/ph237.jpg",
+    "active": true
+  },
+  {
+    "id": 150,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "More Iron Options – Royal Iron",
+    "family": "More Iron Options",
+    "variants": [
       {
-        "label": "Bliss Iron",
+        "label": "Kipande 1",
+        "price": 15000,
+        "note": ""
+      }
+    ],
+    "priceMin": 15000,
+    "priceMax": 15000,
+    "image": "/images/products/ph233.jpg",
+    "active": true
+  },
+  {
+    "id": 151,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "More Iron Options – Bliss Iron",
+    "family": "More Iron Options",
+    "variants": [
+      {
+        "label": "Kipande 1",
         "price": 14000,
-        "note": ""
-      },
-      {
-        "label": "Bliss (alternative listing)",
-        "price": 16000,
-        "note": ""
-      },
-      {
-        "label": "Tronic Iron",
-        "price": 44000,
         "note": ""
       }
     ],
     "priceMin": 14000,
-    "priceMax": 44000,
-    "image": "/images/products/38.jpg",
+    "priceMax": 14000,
+    "image": "/images/products/ph234.jpg",
     "active": true
   },
   {
-    "id": 39,
+    "id": 152,
     "category": "Tech & Home",
     "subcategory": "Home & Appliances",
-    "name": "Hair & Electric Appliances",
+    "name": "More Iron Options – Bliss (alternative listing)",
+    "family": "More Iron Options",
     "variants": [
       {
-        "label": "Hair Straightener",
-        "price": 15000,
+        "label": "Kipande 1",
+        "price": 16000,
         "note": ""
-      },
+      }
+    ],
+    "priceMin": 16000,
+    "priceMax": 16000,
+    "image": "/images/products/ph235.jpg",
+    "active": true
+  },
+  {
+    "id": 153,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "More Iron Options – Tronic Iron",
+    "family": "More Iron Options",
+    "variants": [
       {
-        "label": "Electric Blower",
-        "price": 25000,
+        "label": "Kipande 1",
+        "price": 44000,
+        "note": ""
+      }
+    ],
+    "priceMin": 44000,
+    "priceMax": 44000,
+    "image": "/images/products/ph236.jpg",
+    "active": true
+  },
+  {
+    "id": 154,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Hair & Electric Appliances – Hair Straightener",
+    "family": "Hair & Electric Appliances",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 15000,
         "note": ""
       }
     ],
     "priceMin": 15000,
-    "priceMax": 25000,
+    "priceMax": 15000,
     "image": "/images/products/39.jpg",
     "active": true
   },
   {
-    "id": 40,
+    "id": 155,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Hair & Electric Appliances – Electric Blower",
+    "family": "Hair & Electric Appliances",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 25000,
+        "note": ""
+      }
+    ],
+    "priceMin": 25000,
+    "priceMax": 25000,
+    "image": "/images/products/ph195.jpg",
+    "active": true
+  },
+  {
+    "id": 156,
     "category": "Tech & Home",
     "subcategory": "Home & Appliances",
     "name": "Mini Fan",
+    "family": "Mini Fan",
     "variants": [
       {
-        "label": "Mini Fan",
+        "label": "Kipande 1",
         "price": 9000,
         "note": ""
       }
@@ -1260,32 +2808,34 @@
     "active": true
   },
   {
-    "id": 41,
+    "id": 157,
     "category": "Tech & Home",
     "subcategory": "Special Items",
-    "name": "Rechargeable Bamboo Light",
+    "name": "Rechargeable Bamboo Light – Bravo Taa ya Mwanzi",
+    "family": "Rechargeable Bamboo Light",
     "variants": [
       {
-        "label": "Bravo Taa ya Mwanzi",
+        "label": "Kipande 1",
         "price": 18000,
         "note": ""
       }
     ],
     "priceMin": 18000,
     "priceMax": 18000,
-    "image": "/images/products/41.jpg",
+    "image": "/images/products/ph141.jpg",
     "active": true
   },
   {
-    "id": 42,
+    "id": 158,
     "category": "Tech & Home",
     "subcategory": "Special Items",
-    "name": "Solar / Outdoor",
+    "name": "Solar / Outdoor – Solar Light",
+    "family": "Solar / Outdoor",
     "variants": [
       {
-        "label": "Solar Light",
+        "label": "5pcs @8,500",
         "price": 42500,
-        "note": "(5pcs @8,500)"
+        "note": ""
       }
     ],
     "priceMin": 42500,
@@ -1294,13 +2844,14 @@
     "active": true
   },
   {
-    "id": 43,
+    "id": 159,
     "category": "Tech & Home",
     "subcategory": "Special Items",
-    "name": "Pressure Cooker",
+    "name": "Pressure Cooker 6L",
+    "family": "Pressure Cooker",
     "variants": [
       {
-        "label": "Pressure Cooker 6L",
+        "label": "Kipande 1",
         "price": 90000,
         "note": ""
       }
@@ -1311,13 +2862,14 @@
     "active": true
   },
   {
-    "id": 44,
+    "id": 160,
     "category": "Tech & Home",
     "subcategory": "Special Items",
     "name": "Ceramic Cooker",
+    "family": "Ceramic Cooker",
     "variants": [
       {
-        "label": "Ceramic Cooker",
+        "label": "Kipande 1",
         "price": 58000,
         "note": ""
       }
@@ -1328,1433 +2880,3423 @@
     "active": true
   },
   {
-    "id": 45,
+    "id": 161,
     "category": "MWANGA (Lighting)",
     "subcategory": "Balbu & Mwanga",
-    "name": "Kilimanjaro Bulb",
+    "name": "Kilimanjaro Bulb – 3W",
+    "family": "Kilimanjaro Bulb",
     "variants": [
       {
-        "label": "3W",
+        "label": "10pcs",
         "price": 8000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "5W",
-        "price": 10000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "7W",
-        "price": 11500,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "9W",
-        "price": 18000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "13W",
-        "price": 19000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "18W",
-        "price": 28000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "28W",
-        "price": 22500,
-        "note": "(5pcs @4,500)"
-      },
-      {
-        "label": "38W",
-        "price": 30000,
-        "note": "(5pcs @6,000)"
-      },
-      {
-        "label": "48W",
-        "price": 35000,
-        "note": "(5pcs @7,000)"
-      },
-      {
-        "label": "3W – bulk",
-        "price": 65000,
-        "note": "(100pcs) BEI MPYA PUNGUZO"
-      },
-      {
-        "label": "5W – bulk",
-        "price": 90000,
-        "note": "(100pcs) BEI MPYA PUNGUZO"
-      },
-      {
-        "label": "7W – bulk",
-        "price": 110000,
-        "note": "(100pcs) BEI MPYA PUNGUZO"
-      },
-      {
-        "label": "9W – bulk",
-        "price": 140000,
-        "note": "(100pcs) BEI MPYA PUNGUZO"
-      },
-      {
-        "label": "12W – bulk",
-        "price": 200000,
-        "note": "(100pcs) BEI MPYA PUNGUZO"
-      },
-      {
-        "label": "13W – bulk",
-        "price": 160000,
-        "note": "(100pcs) BEI MPYA PUNGUZO"
-      },
-      {
-        "label": "15W – bulk",
-        "price": 250000,
-        "note": "(100pcs) BEI MPYA PUNGUZO"
-      },
-      {
-        "label": "18W – bulk",
-        "price": 215000,
-        "note": "(100pcs) BEI MPYA PUNGUZO"
-      },
-      {
-        "label": "28W – bulk",
-        "price": 126000,
-        "note": "(30pcs @4,200) BEI MPYA PUNGUZO"
-      },
-      {
-        "label": "38W – bulk",
-        "price": 168000,
-        "note": "(30pcs @5,600) BEI MPYA PUNGUZO"
-      },
-      {
-        "label": "48W – bulk",
-        "price": 156000,
-        "note": "(24pcs @6,500) BEI MPYA PUNGUZO"
+        "note": ""
       }
     ],
-    "image": "/images/products/45.jpg",
-    "active": true,
     "priceMin": 8000,
-    "priceMax": 250000
+    "priceMax": 8000,
+    "image": "/images/products/ph152.jpg",
+    "active": true
   },
   {
-    "id": 46,
+    "id": 162,
     "category": "MWANGA (Lighting)",
     "subcategory": "Balbu & Mwanga",
-    "name": "Fibit Bulb",
+    "name": "Kilimanjaro Bulb – 5W",
+    "family": "Kilimanjaro Bulb",
     "variants": [
       {
-        "label": "3W",
-        "price": 6500,
-        "note": ""
-      },
-      {
-        "label": "5W",
-        "price": 8500,
-        "note": ""
-      },
-      {
-        "label": "7W",
-        "price": 9500,
-        "note": ""
-      },
-      {
-        "label": "9W",
-        "price": 10500,
-        "note": ""
-      },
-      {
-        "label": "12W",
-        "price": 13000,
-        "note": ""
-      },
-      {
-        "label": "15W",
-        "price": 17000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/46.jpg",
-    "active": true,
-    "priceMin": 6500,
-    "priceMax": 17000
-  },
-  {
-    "id": 47,
-    "category": "MWANGA (Lighting)",
-    "subcategory": "Balbu & Mwanga",
-    "name": "LED Bulb PIN / SCR",
-    "variants": [
-      {
-        "label": "3W",
-        "price": 18000,
-        "note": "(10pcs @1,800)"
-      },
-      {
-        "label": "5W",
-        "price": 20500,
-        "note": "(10pcs @2,050)"
-      },
-      {
-        "label": "7W",
-        "price": 23000,
-        "note": "(10pcs @2,300)"
-      },
-      {
-        "label": "10W",
-        "price": 28000,
-        "note": "(10pcs @2,800)"
-      },
-      {
-        "label": "12W",
-        "price": 37000,
-        "note": "(10pcs @3,700)"
-      },
-      {
-        "label": "15W",
-        "price": 23500,
-        "note": "(5pcs @4,700)"
-      },
-      {
-        "label": "25W",
-        "price": 41250,
-        "note": "(5pcs @8,250)"
-      },
-      {
-        "label": "28W",
-        "price": 65000,
-        "note": "(5pcs @13,000)"
-      }
-    ],
-    "image": "/images/products/47.jpg",
-    "active": true,
-    "priceMin": 18000,
-    "priceMax": 65000
-  },
-  {
-    "id": 48,
-    "category": "MWANGA (Lighting)",
-    "subcategory": "Special Lighting",
-    "name": "Torch & Rechargeable Lights",
-    "variants": [
-      {
-        "label": "High power zoom torch (rechargeable)",
-        "price": 17000,
-        "note": ""
-      },
-      {
-        "label": "X-181 battery torch",
-        "price": 3000,
-        "note": ""
-      },
-      {
-        "label": "Rechargeable LED light",
-        "price": 11000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/48.jpg",
-    "active": true,
-    "priceMin": 3000,
-    "priceMax": 17000
-  },
-  {
-    "id": 49,
-    "category": "MWANGA (Lighting)",
-    "subcategory": "Special Lighting",
-    "name": "Camping Light + Power Bank",
-    "variants": [
-      {
-        "label": "Size kubwa",
-        "price": 16000,
-        "note": ""
-      },
-      {
-        "label": "Size ndogo",
-        "price": 14000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/49.jpg",
-    "active": true,
-    "priceMin": 14000,
-    "priceMax": 16000
-  },
-  {
-    "id": 50,
-    "category": "MWANGA (Lighting)",
-    "subcategory": "Special Lighting",
-    "name": "Solar LED Light",
-    "variants": [
-      {
-        "label": "Solar LED Light",
-        "price": 15000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/50.jpg",
-    "active": true,
-    "priceMin": 15000,
-    "priceMax": 15000
-  },
-  {
-    "id": 51,
-    "category": "Power & Extensions",
-    "subcategory": "Extensions",
-    "name": "BADA Extension",
-    "variants": [
-      {
-        "label": "4-Way",
-        "price": 6000,
-        "note": "(miezi 6 warranty)"
-      },
-      {
-        "label": "6-Way",
-        "price": 7000,
-        "note": "(miezi 6 warranty)"
-      },
-      {
-        "label": "4-Way carton",
-        "price": 168000,
-        "note": "(28pcs)"
-      },
-      {
-        "label": "6-Way carton",
-        "price": 196000,
-        "note": "(28pcs)"
-      }
-    ],
-    "image": "/images/products/51.jpg",
-    "active": true,
-    "priceMin": 6000,
-    "priceMax": 196000
-  },
-  {
-    "id": 52,
-    "category": "Power & Extensions",
-    "subcategory": "Extensions",
-    "name": "Tronic Extension 4-Way",
-    "variants": [
-      {
-        "label": "Carton",
-        "price": 492000,
-        "note": "(24pcs @20,500)"
-      },
-      {
-        "label": "Per piece",
-        "price": 22000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/52.jpg",
-    "active": true,
-    "priceMin": 22000,
-    "priceMax": 492000
-  },
-  {
-    "id": 53,
-    "category": "Power & Extensions",
-    "subcategory": "Extensions",
-    "name": "Tronic Extension Reel",
-    "variants": [
-      {
-        "label": "1.5mm / 25m",
-        "price": 188000,
-        "note": ""
-      },
-      {
-        "label": "2.5mm / 25m",
-        "price": 240000,
-        "note": ""
-      },
-      {
-        "label": "1.5mm / 50m",
-        "price": 260000,
-        "note": ""
-      },
-      {
-        "label": "2.5mm / 50m",
-        "price": 360000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/53.jpg",
-    "active": true,
-    "priceMin": 188000,
-    "priceMax": 360000
-  },
-  {
-    "id": 54,
-    "category": "Power & Extensions",
-    "subcategory": "Extensions",
-    "name": "Africab Extension Reel",
-    "variants": [
-      {
-        "label": "1.5mm / 25m",
-        "price": 125000,
-        "note": ""
-      },
-      {
-        "label": "2.5mm / 25m",
-        "price": 205000,
-        "note": ""
-      },
-      {
-        "label": "1.5mm / 50m",
-        "price": 160000,
-        "note": ""
-      },
-      {
-        "label": "2.5mm / 50m",
-        "price": 280000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/54.jpg",
-    "active": true,
-    "priceMin": 125000,
-    "priceMax": 280000
-  },
-  {
-    "id": 55,
-    "category": "Power & Extensions",
-    "subcategory": "Extensions",
-    "name": "Torch Extension 5-Way",
-    "variants": [
-      {
-        "label": "5-Way",
-        "price": 12000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/55.jpg",
-    "active": true,
-    "priceMin": 12000,
-    "priceMax": 12000
-  },
-  {
-    "id": 56,
-    "category": "Power & Extensions",
-    "subcategory": "Extensions",
-    "name": "Mnara Extension 10-Way",
-    "variants": [
-      {
-        "label": "10-Way",
-        "price": 18000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/56.jpg",
-    "active": true,
-    "priceMin": 18000,
-    "priceMax": 18000
-  },
-  {
-    "id": 57,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Sockets & Holders",
-    "name": "BADA Lamp Holders",
-    "variants": [
-      {
-        "label": "Straight holders",
-        "price": 6500,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Angle holders",
-        "price": 6500,
-        "note": "(10pcs)"
-      }
-    ],
-    "image": "/images/products/57.jpg",
-    "active": true,
-    "priceMin": 6500,
-    "priceMax": 6500
-  },
-  {
-    "id": 58,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Switches",
-    "name": "BADA Switch Socket",
-    "variants": [
-      {
-        "label": "Single with light",
-        "price": 17500,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Double with light",
-        "price": 16500,
-        "note": "(5pcs)"
-      },
-      {
-        "label": "Single",
-        "price": 16500,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Double",
-        "price": 16000,
-        "note": "(5pcs)"
-      }
-    ],
-    "image": "/images/products/58.jpg",
-    "active": true,
-    "priceMin": 16000,
-    "priceMax": 17500
-  },
-  {
-    "id": 59,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Switches",
-    "name": "BADA Switch",
-    "variants": [
-      {
-        "label": "1 Gang",
+        "label": "10pcs",
         "price": 10000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "2 Gang",
-        "price": 13500,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "3 Gang",
-        "price": 17500,
-        "note": "(10pcs)"
+        "note": ""
       }
     ],
-    "image": "/images/products/59.jpg",
-    "active": true,
     "priceMin": 10000,
-    "priceMax": 17500
+    "priceMax": 10000,
+    "image": "/images/products/ph152.jpg",
+    "active": true
   },
   {
-    "id": 60,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Sockets & Holders",
-    "name": "BADA Boxes",
+    "id": 163,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 7W",
+    "family": "Kilimanjaro Bulb",
     "variants": [
       {
-        "label": "Metal box single",
-        "price": 13000,
-        "note": "(20pcs) ngumu sana"
-      },
-      {
-        "label": "Metal box double",
-        "price": 13000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Surface box single",
-        "price": 9000,
-        "note": "(20pcs)"
-      },
-      {
-        "label": "Surface box double",
-        "price": 9000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Round junction box 4-way",
-        "price": 8500,
-        "note": "(20pcs, with round cover)"
-      }
-    ],
-    "image": "/images/products/60.jpg",
-    "active": true,
-    "priceMin": 8500,
-    "priceMax": 13000
-  },
-  {
-    "id": 61,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Wires & Cables",
-    "name": "Africab Special Fine Screws",
-    "variants": [
-      {
-        "label": "1 inch",
-        "price": 5000,
-        "note": "(100pcs)"
-      },
-      {
-        "label": "2 inch",
-        "price": 6000,
-        "note": "(100pcs)"
-      }
-    ],
-    "image": "/images/products/61.jpg",
-    "active": true,
-    "priceMin": 5000,
-    "priceMax": 6000
-  },
-  {
-    "id": 62,
-    "category": "Tech & Home",
-    "subcategory": "Tech & Accessories",
-    "name": "HDMI Cable (High Quality)",
-    "variants": [
-      {
-        "label": "1.5m",
-        "price": 3000,
-        "note": ""
-      },
-      {
-        "label": "2m",
-        "price": 3500,
-        "note": ""
-      },
-      {
-        "label": "3m",
-        "price": 4000,
-        "note": ""
-      },
-      {
-        "label": "5m",
-        "price": 6000,
-        "note": ""
-      },
-      {
-        "label": "10m",
-        "price": 10000,
+        "label": "10pcs",
+        "price": 11500,
         "note": ""
       }
     ],
-    "image": "/images/products/62.jpg",
-    "active": true,
-    "priceMin": 3000,
-    "priceMax": 10000
+    "priceMin": 11500,
+    "priceMax": 11500,
+    "image": "/images/products/ph152.jpg",
+    "active": true
   },
   {
-    "id": 63,
-    "category": "Tech & Home",
-    "subcategory": "Tech & Accessories",
-    "name": "4K HDMI Cable",
+    "id": 164,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 9W",
+    "family": "Kilimanjaro Bulb",
     "variants": [
       {
-        "label": "1.5m",
-        "price": 4500,
-        "note": ""
-      },
-      {
-        "label": "3m",
-        "price": 6000,
-        "note": ""
-      },
-      {
-        "label": "5m",
-        "price": 9000,
-        "note": ""
-      },
-      {
-        "label": "10m",
-        "price": 17000,
-        "note": ""
-      },
-      {
-        "label": "15m",
-        "price": 22000,
-        "note": ""
-      },
-      {
-        "label": "20m",
-        "price": 27000,
-        "note": ""
-      },
-      {
-        "label": "30m",
-        "price": 62000,
-        "note": ""
-      },
-      {
-        "label": "50m",
-        "price": 82000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/63.jpg",
-    "active": true,
-    "priceMin": 4500,
-    "priceMax": 82000
-  },
-  {
-    "id": 64,
-    "category": "Tech & Home",
-    "subcategory": "Tech & Accessories",
-    "name": "TV Wall Mount 14–55 inch",
-    "variants": [
-      {
-        "label": "TV Wall Mount (max 50kg)",
-        "price": 14000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/64.jpg",
-    "active": true,
-    "priceMin": 14000,
-    "priceMax": 14000
-  },
-  {
-    "id": 65,
-    "category": "Tech & Home",
-    "subcategory": "Tech & Accessories",
-    "name": "BADA TV Bracket",
-    "variants": [
-      {
-        "label": "TV Bracket",
-        "price": 4000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/65.jpg",
-    "active": true,
-    "priceMin": 4000,
-    "priceMax": 4000
-  },
-  {
-    "id": 66,
-    "category": "Tech & Home",
-    "subcategory": "Home & Appliances",
-    "name": "Kemei Hair Clipper",
-    "variants": [
-      {
-        "label": "Kemei KM8845",
-        "price": 22000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/66.jpg",
-    "active": true,
-    "priceMin": 22000,
-    "priceMax": 22000
-  },
-  {
-    "id": 67,
-    "category": "Tech & Home",
-    "subcategory": "Home & Appliances",
-    "name": "Electric Kettle 2.2L",
-    "variants": [
-      {
-        "label": "Qiudes 2.2L",
-        "price": 20000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/67.jpg",
-    "active": true,
-    "priceMin": 20000,
-    "priceMax": 20000
-  },
-  {
-    "id": 68,
-    "category": "Tech & Home",
-    "subcategory": "Home & Appliances",
-    "name": "Ailyons Blender 2-in-1",
-    "variants": [
-      {
-        "label": "Ailyons Blender",
-        "price": 40000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/68.jpg",
-    "active": true,
-    "priceMin": 40000,
-    "priceMax": 40000
-  },
-  {
-    "id": 69,
-    "category": "Tech & Home",
-    "subcategory": "Home & Appliances",
-    "name": "Kenwood Commercial Blender",
-    "variants": [
-      {
-        "label": "Per piece",
-        "price": 55000,
-        "note": ""
-      },
-      {
-        "label": "Carton",
-        "price": 51000,
-        "note": "(6pcs, price per piece)"
-      }
-    ],
-    "image": "/images/products/69.jpg",
-    "active": true,
-    "priceMin": 51000,
-    "priceMax": 55000
-  },
-  {
-    "id": 70,
-    "category": "Tech & Home",
-    "subcategory": "Special Items",
-    "name": "Border Cattle Jag",
-    "variants": [
-      {
-        "label": "Border Cattle Jag",
-        "price": 12000,
-        "note": ""
-      }
-    ],
-    "image": "/images/products/70.jpg",
-    "active": true,
-    "priceMin": 12000,
-    "priceMax": 12000
-  },
-  {
-    "id": 71,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Switches",
-    "name": "Ailyons Switch & Socket",
-    "variants": [
-      {
-        "label": "Socket Single",
-        "price": 18000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Socket Double",
-        "price": 18000,
-        "note": "(5pcs)"
-      },
-      {
-        "label": "1 Gang 1 Way",
-        "price": 11000,
-        "note": ""
-      },
-      {
-        "label": "1 Gang 2 Way",
-        "price": 12000,
-        "note": ""
-      },
-      {
-        "label": "2 Gang 1 Way",
-        "price": 15000,
-        "note": ""
-      },
-      {
-        "label": "2 Gang 2 Way",
-        "price": 16000,
-        "note": ""
-      },
-      {
-        "label": "3 Gang 1 Way",
+        "label": "10pcs",
         "price": 18000,
         "note": ""
-      },
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 18000,
+    "image": "/images/products/ph152.jpg",
+    "active": true
+  },
+  {
+    "id": 165,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 13W",
+    "family": "Kilimanjaro Bulb",
+    "variants": [
       {
-        "label": "3 Gang 2 Way",
+        "label": "10pcs",
         "price": 19000,
         "note": ""
       }
     ],
-    "priceMin": 11000,
+    "priceMin": 19000,
     "priceMax": 19000,
-    "image": "/images/products/71.jpg",
+    "image": "/images/products/ph152.jpg",
     "active": true
   },
   {
-    "id": 72,
-    "category": "Ulinzi wa Vifaa (Safety)",
-    "subcategory": "Protection & Control",
-    "name": "Circuit Breakers",
+    "id": 166,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 18W",
+    "family": "Kilimanjaro Bulb",
     "variants": [
       {
-        "label": "Sunpower",
-        "price": 10000,
-        "note": ""
-      },
-      {
-        "label": "Euronics",
-        "price": 16000,
-        "note": ""
-      },
-      {
-        "label": "Asakiz (inayotrip)",
-        "price": 20000,
-        "note": ""
-      },
-      {
-        "label": "Africab",
-        "price": 30000,
-        "note": ""
-      },
-      {
-        "label": "Havells",
-        "price": 30000,
-        "note": ""
-      },
-      {
-        "label": "Tronic",
-        "price": 44000,
+        "label": "10pcs",
+        "price": 28000,
         "note": ""
       }
     ],
-    "priceMin": 10000,
-    "priceMax": 44000,
-    "image": "/images/products/72.jpg",
+    "priceMin": 28000,
+    "priceMax": 28000,
+    "image": "/images/products/ph152.jpg",
     "active": true
   },
   {
-    "id": 73,
-    "category": "Power & Extensions",
-    "subcategory": "Power & Plugs",
-    "name": "Africab Main Switch",
+    "id": 167,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 28W",
+    "family": "Kilimanjaro Bulb",
     "variants": [
       {
-        "label": "PVC 2-Way",
-        "price": 25000,
+        "label": "5pcs @4,500",
+        "price": 22500,
         "note": ""
-      },
+      }
+    ],
+    "priceMin": 22500,
+    "priceMax": 22500,
+    "image": "/images/products/ph152.jpg",
+    "active": true
+  },
+  {
+    "id": 168,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 38W",
+    "family": "Kilimanjaro Bulb",
+    "variants": [
       {
-        "label": "PVC 3-Way",
-        "price": 29000,
+        "label": "5pcs @6,000",
+        "price": 30000,
         "note": ""
-      },
+      }
+    ],
+    "priceMin": 30000,
+    "priceMax": 30000,
+    "image": "/images/products/ph152.jpg",
+    "active": true
+  },
+  {
+    "id": 169,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 48W",
+    "family": "Kilimanjaro Bulb",
+    "variants": [
       {
-        "label": "PVC 4-Way",
-        "price": 31000,
+        "label": "5pcs @7,000",
+        "price": 35000,
         "note": ""
-      },
+      }
+    ],
+    "priceMin": 35000,
+    "priceMax": 35000,
+    "image": "/images/products/ph152.jpg",
+    "active": true
+  },
+  {
+    "id": 170,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 3W – bulk",
+    "family": "Kilimanjaro Bulb",
+    "variants": [
       {
-        "label": "Metal 4-Way",
+        "label": "100pcs) BEI MPYA PUNGUZO",
         "price": 65000,
         "note": ""
-      },
-      {
-        "label": "Metal 6-Way",
-        "price": 75000,
-        "note": ""
-      },
-      {
-        "label": "Metal 8-Way",
-        "price": 95000,
-        "note": ""
-      },
-      {
-        "label": "Metal 12-Way",
-        "price": 130000,
-        "note": ""
       }
     ],
-    "priceMin": 25000,
-    "priceMax": 130000,
-    "image": "/images/products/73.jpg",
+    "priceMin": 65000,
+    "priceMax": 65000,
+    "image": "/images/products/ph152.jpg",
     "active": true
   },
   {
-    "id": 74,
-    "category": "Power & Extensions",
-    "subcategory": "Power & Plugs",
-    "name": "Ailyons PVC Main Switch",
+    "id": 171,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 5W – bulk",
+    "family": "Kilimanjaro Bulb",
     "variants": [
       {
-        "label": "2-Way",
-        "price": 22000,
-        "note": ""
-      },
-      {
-        "label": "3-Way",
-        "price": 25000,
-        "note": ""
-      },
-      {
-        "label": "4-Way",
-        "price": 27000,
+        "label": "100pcs) BEI MPYA PUNGUZO",
+        "price": 90000,
         "note": ""
       }
     ],
-    "priceMin": 22000,
-    "priceMax": 27000,
-    "image": "/images/products/74.jpg",
+    "priceMin": 90000,
+    "priceMax": 90000,
+    "image": "/images/products/ph152.jpg",
     "active": true
   },
   {
-    "id": 75,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Sockets & Holders",
-    "name": "Metal Boxes (Euronics, Fibit, Tronic, Africab, Alyons, Eurotrix)",
+    "id": 172,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 7W – bulk",
+    "family": "Kilimanjaro Bulb",
     "variants": [
       {
-        "label": "Fibit single",
-        "price": 5000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Fibit double",
-        "price": 5000,
-        "note": "(5pcs)"
-      },
-      {
-        "label": "Alyons single",
-        "price": 5500,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Alyons double",
-        "price": 5500,
-        "note": "(5pcs)"
-      },
-      {
-        "label": "Euronics single",
-        "price": 12000,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Euronics double",
-        "price": 8500,
-        "note": "(5pcs)"
-      },
-      {
-        "label": "Eurotrix single",
-        "price": 13000,
-        "note": "(10pcs) ngumu kabisa"
-      },
-      {
-        "label": "Eurotrix double",
-        "price": 10500,
-        "note": "(5pcs) ngumu kabisa"
-      },
-      {
-        "label": "Africab single",
-        "price": 13500,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Africab double",
-        "price": 10500,
-        "note": "(5pcs)"
-      },
-      {
-        "label": "Tronic single",
-        "price": 17500,
-        "note": "(10pcs)"
-      },
-      {
-        "label": "Tronic double",
-        "price": 12000,
-        "note": "(5pcs)"
+        "label": "100pcs) BEI MPYA PUNGUZO",
+        "price": 110000,
+        "note": ""
       }
     ],
-    "priceMin": 5000,
-    "priceMax": 17500,
-    "image": "/images/products/75.jpg",
+    "priceMin": 110000,
+    "priceMax": 110000,
+    "image": "/images/products/ph152.jpg",
     "active": true
   },
   {
-    "id": 76,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Sockets & Holders",
-    "name": "Fibit Surface Box",
+    "id": 173,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 9W – bulk",
+    "family": "Kilimanjaro Bulb",
     "variants": [
       {
-        "label": "Surface box single",
-        "price": 8500,
-        "note": "(20pcs)"
-      },
+        "label": "100pcs) BEI MPYA PUNGUZO",
+        "price": 140000,
+        "note": ""
+      }
+    ],
+    "priceMin": 140000,
+    "priceMax": 140000,
+    "image": "/images/products/ph152.jpg",
+    "active": true
+  },
+  {
+    "id": 174,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 12W – bulk",
+    "family": "Kilimanjaro Bulb",
+    "variants": [
       {
-        "label": "Surface box double",
+        "label": "100pcs) BEI MPYA PUNGUZO",
+        "price": 200000,
+        "note": ""
+      }
+    ],
+    "priceMin": 200000,
+    "priceMax": 200000,
+    "image": "/images/products/ph152.jpg",
+    "active": true
+  },
+  {
+    "id": 175,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 13W – bulk",
+    "family": "Kilimanjaro Bulb",
+    "variants": [
+      {
+        "label": "100pcs) BEI MPYA PUNGUZO",
+        "price": 160000,
+        "note": ""
+      }
+    ],
+    "priceMin": 160000,
+    "priceMax": 160000,
+    "image": "/images/products/ph152.jpg",
+    "active": true
+  },
+  {
+    "id": 176,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 15W – bulk",
+    "family": "Kilimanjaro Bulb",
+    "variants": [
+      {
+        "label": "100pcs) BEI MPYA PUNGUZO",
+        "price": 250000,
+        "note": ""
+      }
+    ],
+    "priceMin": 250000,
+    "priceMax": 250000,
+    "image": "/images/products/ph152.jpg",
+    "active": true
+  },
+  {
+    "id": 177,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 18W – bulk",
+    "family": "Kilimanjaro Bulb",
+    "variants": [
+      {
+        "label": "100pcs) BEI MPYA PUNGUZO",
+        "price": 215000,
+        "note": ""
+      }
+    ],
+    "priceMin": 215000,
+    "priceMax": 215000,
+    "image": "/images/products/ph152.jpg",
+    "active": true
+  },
+  {
+    "id": 178,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 28W – bulk",
+    "family": "Kilimanjaro Bulb",
+    "variants": [
+      {
+        "label": "30pcs @4,200) BEI MPYA PUNGUZO",
+        "price": 126000,
+        "note": ""
+      }
+    ],
+    "priceMin": 126000,
+    "priceMax": 126000,
+    "image": "/images/products/ph152.jpg",
+    "active": true
+  },
+  {
+    "id": 179,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 38W – bulk",
+    "family": "Kilimanjaro Bulb",
+    "variants": [
+      {
+        "label": "30pcs @5,600) BEI MPYA PUNGUZO",
+        "price": 168000,
+        "note": ""
+      }
+    ],
+    "priceMin": 168000,
+    "priceMax": 168000,
+    "image": "/images/products/ph152.jpg",
+    "active": true
+  },
+  {
+    "id": 180,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Kilimanjaro Bulb – 48W – bulk",
+    "family": "Kilimanjaro Bulb",
+    "variants": [
+      {
+        "label": "24pcs @6,500) BEI MPYA PUNGUZO",
+        "price": 156000,
+        "note": ""
+      }
+    ],
+    "priceMin": 156000,
+    "priceMax": 156000,
+    "image": "/images/products/ph152.jpg",
+    "active": true
+  },
+  {
+    "id": 181,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Fibit Bulb – 3W",
+    "family": "Fibit Bulb",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 6500,
+        "note": ""
+      }
+    ],
+    "priceMin": 6500,
+    "priceMax": 6500,
+    "image": "/images/products/ph145.jpg",
+    "active": true
+  },
+  {
+    "id": 182,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Fibit Bulb – 5W",
+    "family": "Fibit Bulb",
+    "variants": [
+      {
+        "label": "Kipande 1",
         "price": 8500,
-        "note": "(10pcs)"
+        "note": ""
       }
     ],
     "priceMin": 8500,
     "priceMax": 8500,
-    "image": "/images/products/76.jpg",
+    "image": "/images/products/ph145.jpg",
     "active": true
   },
   {
-    "id": 77,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Wires & Cables",
-    "name": "Insulation Tape",
+    "id": 183,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Fibit Bulb – 7W",
+    "family": "Fibit Bulb",
     "variants": [
       {
-        "label": "Viin Tape (kawaida)",
-        "price": 4500,
-        "note": ""
-      },
-      {
-        "label": "Hippo Tape",
-        "price": 7000,
-        "note": ""
-      },
-      {
-        "label": "Africab Tape",
-        "price": 8000,
-        "note": ""
-      },
-      {
-        "label": "Tronic Tape",
-        "price": 11500,
-        "note": "(10pcs)"
-      }
-    ],
-    "priceMin": 4500,
-    "priceMax": 11500,
-    "image": "/images/products/77.jpg",
-    "active": true
-  },
-  {
-    "id": 78,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Wires & Cables",
-    "name": "Cable Clips",
-    "variants": [
-      {
-        "label": "8mm",
-        "price": 1300,
-        "note": ""
-      },
-      {
-        "label": "9mm",
-        "price": 1400,
-        "note": ""
-      },
-      {
-        "label": "10mm",
-        "price": 1450,
-        "note": ""
-      },
-      {
-        "label": "12mm",
-        "price": 1550,
-        "note": ""
-      },
-      {
-        "label": "22mm",
-        "price": 3000,
+        "label": "Kipande 1",
+        "price": 9500,
         "note": ""
       }
     ],
-    "priceMin": 1300,
-    "priceMax": 3000,
-    "image": "/images/products/78.jpg",
+    "priceMin": 9500,
+    "priceMax": 9500,
+    "image": "/images/products/ph145.jpg",
     "active": true
   },
   {
-    "id": 79,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Wires & Cables",
-    "name": "Tronic Flexible Wire",
+    "id": 184,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Fibit Bulb – 9W",
+    "family": "Fibit Bulb",
     "variants": [
       {
-        "label": "0.5mm 2core / 50m",
-        "price": 48000,
-        "note": ""
-      },
-      {
-        "label": "0.5mm 2core / 100m",
-        "price": 94000,
-        "note": ""
-      },
-      {
-        "label": "0.75mm 2core",
-        "price": 116000,
-        "note": ""
-      },
-      {
-        "label": "1.5mm 3core",
-        "price": 272000,
-        "note": ""
-      },
-      {
-        "label": "1.5mm 4core",
-        "price": 353000,
-        "note": ""
-      },
-      {
-        "label": "2.5mm 3core",
-        "price": 450000,
-        "note": ""
-      },
-      {
-        "label": "2.5mm 4core",
-        "price": 560000,
-        "note": ""
-      },
-      {
-        "label": "4mm 3core",
-        "price": 730000,
-        "note": ""
-      },
-      {
-        "label": "4mm 4core",
-        "price": 980000,
-        "note": ""
-      }
-    ],
-    "priceMin": 48000,
-    "priceMax": 980000,
-    "image": "/images/products/79.jpg",
-    "active": true
-  },
-  {
-    "id": 80,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Wires & Cables",
-    "name": "Master Flexible Wire",
-    "variants": [
-      {
-        "label": "0.5mm 2core",
-        "price": 45000,
-        "note": ""
-      },
-      {
-        "label": "1mm 3core",
-        "price": 200000,
-        "note": ""
-      },
-      {
-        "label": "1.5mm 4core",
-        "price": 350000,
-        "note": ""
-      },
-      {
-        "label": "2.5mm 3core",
-        "price": 410000,
-        "note": ""
-      },
-      {
-        "label": "2.5mm 4core",
-        "price": 550000,
-        "note": ""
-      },
-      {
-        "label": "4mm 3core",
-        "price": 665000,
-        "note": ""
-      },
-      {
-        "label": "4mm 4core",
-        "price": 850000,
-        "note": ""
-      },
-      {
-        "label": "6mm 3core",
-        "price": 950000,
-        "note": ""
-      },
-      {
-        "label": "6mm 4core",
-        "price": 1255000,
-        "note": ""
-      }
-    ],
-    "priceMin": 45000,
-    "priceMax": 1255000,
-    "image": "/images/products/80.jpg",
-    "active": true
-  },
-  {
-    "id": 81,
-    "category": "Vifaa vya Umeme (Electrical)",
-    "subcategory": "Wires & Cables",
-    "name": "Twin Cable (Tronic & Master)",
-    "variants": [
-      {
-        "label": "Tronic 1.5mm",
-        "price": 214000,
-        "note": ""
-      },
-      {
-        "label": "Tronic 2.5mm",
-        "price": 330000,
-        "note": ""
-      },
-      {
-        "label": "Tronic 4mm",
-        "price": 488000,
-        "note": ""
-      },
-      {
-        "label": "Tronic 6mm",
-        "price": 728000,
-        "note": ""
-      },
-      {
-        "label": "Tronic 10mm",
-        "price": 1195000,
-        "note": ""
-      },
-      {
-        "label": "Tronic 16mm",
-        "price": 1890000,
-        "note": ""
-      },
-      {
-        "label": "Master 1.5mm",
-        "price": 202000,
-        "note": ""
-      },
-      {
-        "label": "Master 2.5mm",
-        "price": 312000,
-        "note": ""
-      },
-      {
-        "label": "Master 4mm",
-        "price": 465000,
-        "note": ""
-      },
-      {
-        "label": "Master 6mm",
-        "price": 688000,
-        "note": ""
-      },
-      {
-        "label": "Master 10mm",
-        "price": 1125000,
-        "note": ""
-      },
-      {
-        "label": "Master 16mm",
-        "price": 1780000,
-        "note": ""
-      }
-    ],
-    "priceMin": 202000,
-    "priceMax": 1890000,
-    "image": "/images/products/81.jpg",
-    "active": true
-  },
-  {
-    "id": 82,
-    "category": "Tech & Home",
-    "subcategory": "Locks (Kufuli)",
-    "name": "Padlocks by Dozen / Pack (Kufuli)",
-    "variants": [
-      {
-        "label": "Padlock dozen",
-        "price": 7000,
-        "note": "(12pcs)"
-      },
-      {
-        "label": "Solix Star",
-        "price": 12000,
-        "note": "(dozen 12pcs)"
-      },
-      {
-        "label": "Kai Hong",
-        "price": 13000,
-        "note": "(dozen 12pcs)"
-      },
-      {
-        "label": "Solix VIP",
-        "price": 16000,
-        "note": "(dozen 12pcs)"
-      },
-      {
-        "label": "AUTO",
-        "price": 18000,
-        "note": "(dozen 12pcs)"
-      },
-      {
-        "label": "Solda pack",
-        "price": 20000,
-        "note": "(9pcs)"
-      }
-    ],
-    "priceMin": 7000,
-    "priceMax": 20000,
-    "image": "/images/products/82.jpg",
-    "active": true
-  },
-  {
-    "id": 83,
-    "category": "Tech & Home",
-    "subcategory": "Locks (Kufuli)",
-    "name": "Padlocks Single (Kufuli)",
-    "variants": [
-      {
-        "label": "Solit No. 40",
-        "price": 2500,
-        "note": ""
-      },
-      {
-        "label": "Solit No. 50",
-        "price": 3000,
-        "note": ""
-      },
-      {
-        "label": "Solit No. 60",
-        "price": 3500,
-        "note": ""
-      },
-      {
-        "label": "Solit No. 70",
-        "price": 4000,
-        "note": ""
-      },
-      {
-        "label": "Robson 70mm",
-        "price": 6000,
-        "note": ""
-      },
-      {
-        "label": "Aware 70mm",
-        "price": 6500,
-        "note": ""
-      },
-      {
-        "label": "Mindy 70mm",
-        "price": 7000,
-        "note": ""
-      },
-      {
-        "label": "Aglow 94mm",
+        "label": "Kipande 1",
         "price": 10500,
         "note": ""
-      },
-      {
-        "label": "Buckler H70",
-        "price": 12500,
-        "note": ""
       }
     ],
-    "priceMin": 2500,
-    "priceMax": 12500,
-    "image": "/images/products/83.jpg",
+    "priceMin": 10500,
+    "priceMax": 10500,
+    "image": "/images/products/ph145.jpg",
     "active": true
   },
   {
-    "id": 84,
-    "category": "Tech & Home",
-    "subcategory": "Home & Appliances",
-    "name": "Hair Clippers (Mashine za Kunyolea)",
+    "id": 185,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Fibit Bulb – 12W",
+    "family": "Fibit Bulb",
     "variants": [
       {
-        "label": "Wear",
+        "label": "Kipande 1",
+        "price": 13000,
+        "note": ""
+      }
+    ],
+    "priceMin": 13000,
+    "priceMax": 13000,
+    "image": "/images/products/ph145.jpg",
+    "active": true
+  },
+  {
+    "id": 186,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "Fibit Bulb – 15W",
+    "family": "Fibit Bulb",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 17000,
+        "note": ""
+      }
+    ],
+    "priceMin": 17000,
+    "priceMax": 17000,
+    "image": "/images/products/ph145.jpg",
+    "active": true
+  },
+  {
+    "id": 187,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "LED Bulb PIN / SCR – 3W",
+    "family": "LED Bulb PIN / SCR",
+    "variants": [
+      {
+        "label": "10pcs @1,800",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 18000,
+    "image": "/images/products/47.jpg",
+    "active": true
+  },
+  {
+    "id": 188,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "LED Bulb PIN / SCR – 5W",
+    "family": "LED Bulb PIN / SCR",
+    "variants": [
+      {
+        "label": "10pcs @2,050",
+        "price": 20500,
+        "note": ""
+      }
+    ],
+    "priceMin": 20500,
+    "priceMax": 20500,
+    "image": "/images/products/47.jpg",
+    "active": true
+  },
+  {
+    "id": 189,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "LED Bulb PIN / SCR – 7W",
+    "family": "LED Bulb PIN / SCR",
+    "variants": [
+      {
+        "label": "10pcs @2,300",
+        "price": 23000,
+        "note": ""
+      }
+    ],
+    "priceMin": 23000,
+    "priceMax": 23000,
+    "image": "/images/products/47.jpg",
+    "active": true
+  },
+  {
+    "id": 190,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "LED Bulb PIN / SCR – 10W",
+    "family": "LED Bulb PIN / SCR",
+    "variants": [
+      {
+        "label": "10pcs @2,800",
+        "price": 28000,
+        "note": ""
+      }
+    ],
+    "priceMin": 28000,
+    "priceMax": 28000,
+    "image": "/images/products/47.jpg",
+    "active": true
+  },
+  {
+    "id": 191,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "LED Bulb PIN / SCR – 12W",
+    "family": "LED Bulb PIN / SCR",
+    "variants": [
+      {
+        "label": "10pcs @3,700",
+        "price": 37000,
+        "note": ""
+      }
+    ],
+    "priceMin": 37000,
+    "priceMax": 37000,
+    "image": "/images/products/47.jpg",
+    "active": true
+  },
+  {
+    "id": 192,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "LED Bulb PIN / SCR – 15W",
+    "family": "LED Bulb PIN / SCR",
+    "variants": [
+      {
+        "label": "5pcs @4,700",
+        "price": 23500,
+        "note": ""
+      }
+    ],
+    "priceMin": 23500,
+    "priceMax": 23500,
+    "image": "/images/products/47.jpg",
+    "active": true
+  },
+  {
+    "id": 193,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "LED Bulb PIN / SCR – 25W",
+    "family": "LED Bulb PIN / SCR",
+    "variants": [
+      {
+        "label": "5pcs @8,250",
+        "price": 41250,
+        "note": ""
+      }
+    ],
+    "priceMin": 41250,
+    "priceMax": 41250,
+    "image": "/images/products/47.jpg",
+    "active": true
+  },
+  {
+    "id": 194,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Balbu & Mwanga",
+    "name": "LED Bulb PIN / SCR – 28W",
+    "family": "LED Bulb PIN / SCR",
+    "variants": [
+      {
+        "label": "5pcs @13,000",
+        "price": 65000,
+        "note": ""
+      }
+    ],
+    "priceMin": 65000,
+    "priceMax": 65000,
+    "image": "/images/products/47.jpg",
+    "active": true
+  },
+  {
+    "id": 195,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "Torch & Rechargeable Lights – High power zoom torch (rechargeable)",
+    "family": "Torch & Rechargeable Lights",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 17000,
+        "note": ""
+      }
+    ],
+    "priceMin": 17000,
+    "priceMax": 17000,
+    "image": "/images/products/ph147.jpg",
+    "active": true
+  },
+  {
+    "id": 196,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "Torch & Rechargeable Lights – X-181 battery torch",
+    "family": "Torch & Rechargeable Lights",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 3000,
+        "note": ""
+      }
+    ],
+    "priceMin": 3000,
+    "priceMax": 3000,
+    "image": "/images/products/ph148.jpg",
+    "active": true
+  },
+  {
+    "id": 197,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "Torch & Rechargeable Lights – Rechargeable LED light",
+    "family": "Torch & Rechargeable Lights",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 11000,
+        "note": ""
+      }
+    ],
+    "priceMin": 11000,
+    "priceMax": 11000,
+    "image": "/images/products/ph149.jpg",
+    "active": true
+  },
+  {
+    "id": 198,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "Camping Light + Power Bank – Size kubwa",
+    "family": "Camping Light + Power Bank",
+    "variants": [
+      {
+        "label": "Kipande 1",
         "price": 16000,
-        "note": ""
-      },
-      {
-        "label": "Homecut",
-        "price": 16000,
-        "note": ""
-      },
-      {
-        "label": "Sunder (waya)",
-        "price": 18000,
-        "note": ""
-      },
-      {
-        "label": "Sunder (kuchaji)",
-        "price": 18000,
-        "note": ""
-      },
-      {
-        "label": "Kemei",
-        "price": 18000,
         "note": ""
       }
     ],
     "priceMin": 16000,
+    "priceMax": 16000,
+    "image": "/images/products/ph150.jpg",
+    "active": true
+  },
+  {
+    "id": 199,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "Camping Light + Power Bank – Size ndogo",
+    "family": "Camping Light + Power Bank",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 14000,
+        "note": ""
+      }
+    ],
+    "priceMin": 14000,
+    "priceMax": 14000,
+    "image": "/images/products/ph150.jpg",
+    "active": true
+  },
+  {
+    "id": 200,
+    "category": "MWANGA (Lighting)",
+    "subcategory": "Special Lighting",
+    "name": "Solar LED Light",
+    "family": "Solar LED Light",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 15000,
+        "note": ""
+      }
+    ],
+    "priceMin": 15000,
+    "priceMax": 15000,
+    "image": "/images/products/50.jpg",
+    "active": true
+  },
+  {
+    "id": 201,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "BADA Extension – 4-Way",
+    "family": "BADA Extension",
+    "variants": [
+      {
+        "label": "miezi 6 warranty",
+        "price": 6000,
+        "note": ""
+      }
+    ],
+    "priceMin": 6000,
+    "priceMax": 6000,
+    "image": "/images/products/ph229.jpg",
+    "active": true
+  },
+  {
+    "id": 202,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "BADA Extension – 6-Way",
+    "family": "BADA Extension",
+    "variants": [
+      {
+        "label": "miezi 6 warranty",
+        "price": 7000,
+        "note": ""
+      }
+    ],
+    "priceMin": 7000,
+    "priceMax": 7000,
+    "image": "/images/products/ph229.jpg",
+    "active": true
+  },
+  {
+    "id": 203,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "BADA Extension – 4-Way carton",
+    "family": "BADA Extension",
+    "variants": [
+      {
+        "label": "28pcs",
+        "price": 168000,
+        "note": ""
+      }
+    ],
+    "priceMin": 168000,
+    "priceMax": 168000,
+    "image": "/images/products/ph229.jpg",
+    "active": true
+  },
+  {
+    "id": 204,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "BADA Extension – 6-Way carton",
+    "family": "BADA Extension",
+    "variants": [
+      {
+        "label": "28pcs",
+        "price": 196000,
+        "note": ""
+      }
+    ],
+    "priceMin": 196000,
+    "priceMax": 196000,
+    "image": "/images/products/ph229.jpg",
+    "active": true
+  },
+  {
+    "id": 205,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Tronic Extension 4-Way – Carton",
+    "family": "Tronic Extension 4-Way",
+    "variants": [
+      {
+        "label": "24pcs @20,500",
+        "price": 492000,
+        "note": ""
+      }
+    ],
+    "priceMin": 492000,
+    "priceMax": 492000,
+    "image": "/images/products/ph218.jpg",
+    "active": true
+  },
+  {
+    "id": 206,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Tronic Extension 4-Way – Per piece",
+    "family": "Tronic Extension 4-Way",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 22000,
+        "note": ""
+      }
+    ],
+    "priceMin": 22000,
+    "priceMax": 22000,
+    "image": "/images/products/ph218.jpg",
+    "active": true
+  },
+  {
+    "id": 207,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Tronic Extension Reel – 1.5mm / 25m",
+    "family": "Tronic Extension Reel",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 188000,
+        "note": ""
+      }
+    ],
+    "priceMin": 188000,
+    "priceMax": 188000,
+    "image": "/images/products/ph220.jpg",
+    "active": true
+  },
+  {
+    "id": 208,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Tronic Extension Reel – 2.5mm / 25m",
+    "family": "Tronic Extension Reel",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 240000,
+        "note": ""
+      }
+    ],
+    "priceMin": 240000,
+    "priceMax": 240000,
+    "image": "/images/products/ph220.jpg",
+    "active": true
+  },
+  {
+    "id": 209,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Tronic Extension Reel – 1.5mm / 50m",
+    "family": "Tronic Extension Reel",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 260000,
+        "note": ""
+      }
+    ],
+    "priceMin": 260000,
+    "priceMax": 260000,
+    "image": "/images/products/ph220.jpg",
+    "active": true
+  },
+  {
+    "id": 210,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Tronic Extension Reel – 2.5mm / 50m",
+    "family": "Tronic Extension Reel",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 360000,
+        "note": ""
+      }
+    ],
+    "priceMin": 360000,
+    "priceMax": 360000,
+    "image": "/images/products/ph220.jpg",
+    "active": true
+  },
+  {
+    "id": 211,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Africab Extension Reel – 1.5mm / 25m",
+    "family": "Africab Extension Reel",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 125000,
+        "note": ""
+      }
+    ],
+    "priceMin": 125000,
+    "priceMax": 125000,
+    "image": "/images/products/ph221.jpg",
+    "active": true
+  },
+  {
+    "id": 212,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Africab Extension Reel – 2.5mm / 25m",
+    "family": "Africab Extension Reel",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 205000,
+        "note": ""
+      }
+    ],
+    "priceMin": 205000,
+    "priceMax": 205000,
+    "image": "/images/products/ph221.jpg",
+    "active": true
+  },
+  {
+    "id": 213,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Africab Extension Reel – 1.5mm / 50m",
+    "family": "Africab Extension Reel",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 160000,
+        "note": ""
+      }
+    ],
+    "priceMin": 160000,
+    "priceMax": 160000,
+    "image": "/images/products/ph221.jpg",
+    "active": true
+  },
+  {
+    "id": 214,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Africab Extension Reel – 2.5mm / 50m",
+    "family": "Africab Extension Reel",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 280000,
+        "note": ""
+      }
+    ],
+    "priceMin": 280000,
+    "priceMax": 280000,
+    "image": "/images/products/ph221.jpg",
+    "active": true
+  },
+  {
+    "id": 215,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Torch Extension 5-Way – 5-Way",
+    "family": "Torch Extension 5-Way",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 12000,
+        "note": ""
+      }
+    ],
+    "priceMin": 12000,
+    "priceMax": 12000,
+    "image": "/images/products/ph226.jpg",
+    "active": true
+  },
+  {
+    "id": 216,
+    "category": "Power & Extensions",
+    "subcategory": "Extensions",
+    "name": "Mnara Extension 10-Way – 10-Way",
+    "family": "Mnara Extension 10-Way",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "priceMin": 18000,
     "priceMax": 18000,
-    "image": "/images/products/84.jpg",
+    "image": "/images/products/ph222.jpg",
+    "active": true
+  },
+  {
+    "id": 217,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "BADA Lamp Holders – Straight holders",
+    "family": "BADA Lamp Holders",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 6500,
+        "note": ""
+      }
+    ],
+    "priceMin": 6500,
+    "priceMax": 6500,
+    "image": "/images/products/ph127.jpg",
+    "active": true
+  },
+  {
+    "id": 218,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "BADA Lamp Holders – Angle holders",
+    "family": "BADA Lamp Holders",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 6500,
+        "note": ""
+      }
+    ],
+    "priceMin": 6500,
+    "priceMax": 6500,
+    "image": "/images/products/ph127.jpg",
+    "active": true
+  },
+  {
+    "id": 219,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "BADA Switch Socket – Single with light",
+    "family": "BADA Switch Socket",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 17500,
+        "note": ""
+      }
+    ],
+    "priceMin": 17500,
+    "priceMax": 17500,
+    "image": "/images/products/ph107.jpg",
+    "active": true
+  },
+  {
+    "id": 220,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "BADA Switch Socket – Double with light",
+    "family": "BADA Switch Socket",
+    "variants": [
+      {
+        "label": "5pcs",
+        "price": 16500,
+        "note": ""
+      }
+    ],
+    "priceMin": 16500,
+    "priceMax": 16500,
+    "image": "/images/products/ph107.jpg",
+    "active": true
+  },
+  {
+    "id": 221,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "BADA Switch Socket – Single",
+    "family": "BADA Switch Socket",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 16500,
+        "note": ""
+      }
+    ],
+    "priceMin": 16500,
+    "priceMax": 16500,
+    "image": "/images/products/ph108.jpg",
+    "active": true
+  },
+  {
+    "id": 222,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "BADA Switch Socket – Double",
+    "family": "BADA Switch Socket",
+    "variants": [
+      {
+        "label": "5pcs",
+        "price": 16000,
+        "note": ""
+      }
+    ],
+    "priceMin": 16000,
+    "priceMax": 16000,
+    "image": "/images/products/ph108.jpg",
+    "active": true
+  },
+  {
+    "id": 223,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "BADA Switch – 1 Gang",
+    "family": "BADA Switch",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 10000,
+        "note": ""
+      }
+    ],
+    "priceMin": 10000,
+    "priceMax": 10000,
+    "image": "/images/products/ph109.jpg",
+    "active": true
+  },
+  {
+    "id": 224,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "BADA Switch – 2 Gang",
+    "family": "BADA Switch",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 13500,
+        "note": ""
+      }
+    ],
+    "priceMin": 13500,
+    "priceMax": 13500,
+    "image": "/images/products/ph109.jpg",
+    "active": true
+  },
+  {
+    "id": 225,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "BADA Switch – 3 Gang",
+    "family": "BADA Switch",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 17500,
+        "note": ""
+      }
+    ],
+    "priceMin": 17500,
+    "priceMax": 17500,
+    "image": "/images/products/ph109.jpg",
+    "active": true
+  },
+  {
+    "id": 226,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "BADA Boxes – Metal box single",
+    "family": "BADA Boxes",
+    "variants": [
+      {
+        "label": "20pcs) ngumu sana",
+        "price": 13000,
+        "note": ""
+      }
+    ],
+    "priceMin": 13000,
+    "priceMax": 13000,
+    "image": "/images/products/ph161.jpg",
+    "active": true
+  },
+  {
+    "id": 227,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "BADA Boxes – Metal box double",
+    "family": "BADA Boxes",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 13000,
+        "note": ""
+      }
+    ],
+    "priceMin": 13000,
+    "priceMax": 13000,
+    "image": "/images/products/ph161.jpg",
+    "active": true
+  },
+  {
+    "id": 228,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "BADA Boxes – Surface box single",
+    "family": "BADA Boxes",
+    "variants": [
+      {
+        "label": "20pcs",
+        "price": 9000,
+        "note": ""
+      }
+    ],
+    "priceMin": 9000,
+    "priceMax": 9000,
+    "image": "/images/products/ph169.jpg",
+    "active": true
+  },
+  {
+    "id": 229,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "BADA Boxes – Surface box double",
+    "family": "BADA Boxes",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 9000,
+        "note": ""
+      }
+    ],
+    "priceMin": 9000,
+    "priceMax": 9000,
+    "image": "/images/products/ph169.jpg",
+    "active": true
+  },
+  {
+    "id": 230,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "BADA Boxes – Round junction box 4-way",
+    "family": "BADA Boxes",
+    "variants": [
+      {
+        "label": "20pcs, with round cover",
+        "price": 8500,
+        "note": ""
+      }
+    ],
+    "priceMin": 8500,
+    "priceMax": 8500,
+    "image": "/images/products/ph161.jpg",
+    "active": true
+  },
+  {
+    "id": 231,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Africab Special Fine Screws – 1 inch",
+    "family": "Africab Special Fine Screws",
+    "variants": [
+      {
+        "label": "100pcs",
+        "price": 5000,
+        "note": ""
+      }
+    ],
+    "priceMin": 5000,
+    "priceMax": 5000,
+    "image": "/images/products/ph162.jpg",
+    "active": true
+  },
+  {
+    "id": 232,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Africab Special Fine Screws – 2 inch",
+    "family": "Africab Special Fine Screws",
+    "variants": [
+      {
+        "label": "100pcs",
+        "price": 6000,
+        "note": ""
+      }
+    ],
+    "priceMin": 6000,
+    "priceMax": 6000,
+    "image": "/images/products/ph162.jpg",
+    "active": true
+  },
+  {
+    "id": 233,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "HDMI Cable (High Quality) – 1.5m",
+    "family": "HDMI Cable (High Quality)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 3000,
+        "note": ""
+      }
+    ],
+    "priceMin": 3000,
+    "priceMax": 3000,
+    "image": "/images/products/ph212.jpg",
+    "active": true
+  },
+  {
+    "id": 234,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "HDMI Cable (High Quality) – 2m",
+    "family": "HDMI Cable (High Quality)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 3500,
+        "note": ""
+      }
+    ],
+    "priceMin": 3500,
+    "priceMax": 3500,
+    "image": "/images/products/ph212.jpg",
+    "active": true
+  },
+  {
+    "id": 235,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "HDMI Cable (High Quality) – 3m",
+    "family": "HDMI Cable (High Quality)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 4000,
+        "note": ""
+      }
+    ],
+    "priceMin": 4000,
+    "priceMax": 4000,
+    "image": "/images/products/ph212.jpg",
+    "active": true
+  },
+  {
+    "id": 236,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "HDMI Cable (High Quality) – 5m",
+    "family": "HDMI Cable (High Quality)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 6000,
+        "note": ""
+      }
+    ],
+    "priceMin": 6000,
+    "priceMax": 6000,
+    "image": "/images/products/ph212.jpg",
+    "active": true
+  },
+  {
+    "id": 237,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "HDMI Cable (High Quality) – 10m",
+    "family": "HDMI Cable (High Quality)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 10000,
+        "note": ""
+      }
+    ],
+    "priceMin": 10000,
+    "priceMax": 10000,
+    "image": "/images/products/ph212.jpg",
+    "active": true
+  },
+  {
+    "id": 238,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "4K HDMI Cable – 1.5m",
+    "family": "4K HDMI Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 4500,
+        "note": ""
+      }
+    ],
+    "priceMin": 4500,
+    "priceMax": 4500,
+    "image": "/images/products/ph213.jpg",
+    "active": true
+  },
+  {
+    "id": 239,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "4K HDMI Cable – 3m",
+    "family": "4K HDMI Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 6000,
+        "note": ""
+      }
+    ],
+    "priceMin": 6000,
+    "priceMax": 6000,
+    "image": "/images/products/ph213.jpg",
+    "active": true
+  },
+  {
+    "id": 240,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "4K HDMI Cable – 5m",
+    "family": "4K HDMI Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 9000,
+        "note": ""
+      }
+    ],
+    "priceMin": 9000,
+    "priceMax": 9000,
+    "image": "/images/products/ph213.jpg",
+    "active": true
+  },
+  {
+    "id": 241,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "4K HDMI Cable – 10m",
+    "family": "4K HDMI Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 17000,
+        "note": ""
+      }
+    ],
+    "priceMin": 17000,
+    "priceMax": 17000,
+    "image": "/images/products/ph213.jpg",
+    "active": true
+  },
+  {
+    "id": 242,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "4K HDMI Cable – 15m",
+    "family": "4K HDMI Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 22000,
+        "note": ""
+      }
+    ],
+    "priceMin": 22000,
+    "priceMax": 22000,
+    "image": "/images/products/ph213.jpg",
+    "active": true
+  },
+  {
+    "id": 243,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "4K HDMI Cable – 20m",
+    "family": "4K HDMI Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 27000,
+        "note": ""
+      }
+    ],
+    "priceMin": 27000,
+    "priceMax": 27000,
+    "image": "/images/products/ph213.jpg",
+    "active": true
+  },
+  {
+    "id": 244,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "4K HDMI Cable – 30m",
+    "family": "4K HDMI Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 62000,
+        "note": ""
+      }
+    ],
+    "priceMin": 62000,
+    "priceMax": 62000,
+    "image": "/images/products/ph213.jpg",
+    "active": true
+  },
+  {
+    "id": 245,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "4K HDMI Cable – 50m",
+    "family": "4K HDMI Cable",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 82000,
+        "note": ""
+      }
+    ],
+    "priceMin": 82000,
+    "priceMax": 82000,
+    "image": "/images/products/ph213.jpg",
+    "active": true
+  },
+  {
+    "id": 246,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "TV Wall Mount 14–55 inch – TV Wall Mount (max 50kg)",
+    "family": "TV Wall Mount 14–55 inch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 14000,
+        "note": ""
+      }
+    ],
+    "priceMin": 14000,
+    "priceMax": 14000,
+    "image": "/images/products/ph248.jpg",
+    "active": true
+  },
+  {
+    "id": 247,
+    "category": "Tech & Home",
+    "subcategory": "Tech & Accessories",
+    "name": "BADA TV Bracket – TV Bracket",
+    "family": "BADA TV Bracket",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 4000,
+        "note": ""
+      }
+    ],
+    "priceMin": 4000,
+    "priceMax": 4000,
+    "image": "/images/products/ph245.jpg",
+    "active": true
+  },
+  {
+    "id": 248,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Kemei Hair Clipper – Kemei KM8845",
+    "family": "Kemei Hair Clipper",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 22000,
+        "note": ""
+      }
+    ],
+    "priceMin": 22000,
+    "priceMax": 22000,
+    "image": "/images/products/66.jpg",
+    "active": true
+  },
+  {
+    "id": 249,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Electric Kettle 2.2L – Qiudes 2.2L",
+    "family": "Electric Kettle 2.2L",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 20000,
+        "note": ""
+      }
+    ],
+    "priceMin": 20000,
+    "priceMax": 20000,
+    "image": "/images/products/67.jpg",
+    "active": true
+  },
+  {
+    "id": 250,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Ailyons Blender 2-in-1 – Ailyons Blender",
+    "family": "Ailyons Blender 2-in-1",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 40000,
+        "note": ""
+      }
+    ],
+    "priceMin": 40000,
+    "priceMax": 40000,
+    "image": "/images/products/68.jpg",
+    "active": true
+  },
+  {
+    "id": 251,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Kenwood Commercial Blender – Per piece",
+    "family": "Kenwood Commercial Blender",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 55000,
+        "note": ""
+      }
+    ],
+    "priceMin": 55000,
+    "priceMax": 55000,
+    "image": "/images/products/69.jpg",
+    "active": true
+  },
+  {
+    "id": 252,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Kenwood Commercial Blender – Carton",
+    "family": "Kenwood Commercial Blender",
+    "variants": [
+      {
+        "label": "6pcs, price per piece",
+        "price": 51000,
+        "note": ""
+      }
+    ],
+    "priceMin": 51000,
+    "priceMax": 51000,
+    "image": "/images/products/69.jpg",
+    "active": true
+  },
+  {
+    "id": 253,
+    "category": "Tech & Home",
+    "subcategory": "Special Items",
+    "name": "Border Cattle Jag",
+    "family": "Border Cattle Jag",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 12000,
+        "note": ""
+      }
+    ],
+    "priceMin": 12000,
+    "priceMax": 12000,
+    "image": "/images/products/70.jpg",
+    "active": true
+  },
+  {
+    "id": 254,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Ailyons Switch & Socket – Socket Single",
+    "family": "Ailyons Switch & Socket",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 18000,
+    "image": "/images/products/ph105.jpg",
+    "active": true
+  },
+  {
+    "id": 255,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Ailyons Switch & Socket – Socket Double",
+    "family": "Ailyons Switch & Socket",
+    "variants": [
+      {
+        "label": "5pcs",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 18000,
+    "image": "/images/products/ph105.jpg",
+    "active": true
+  },
+  {
+    "id": 256,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Ailyons Switch & Socket – 1 Gang 1 Way",
+    "family": "Ailyons Switch & Socket",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 11000,
+        "note": ""
+      }
+    ],
+    "priceMin": 11000,
+    "priceMax": 11000,
+    "image": "/images/products/ph106.jpg",
+    "active": true
+  },
+  {
+    "id": 257,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Ailyons Switch & Socket – 1 Gang 2 Way",
+    "family": "Ailyons Switch & Socket",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 12000,
+        "note": ""
+      }
+    ],
+    "priceMin": 12000,
+    "priceMax": 12000,
+    "image": "/images/products/ph106.jpg",
+    "active": true
+  },
+  {
+    "id": 258,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Ailyons Switch & Socket – 2 Gang 1 Way",
+    "family": "Ailyons Switch & Socket",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 15000,
+        "note": ""
+      }
+    ],
+    "priceMin": 15000,
+    "priceMax": 15000,
+    "image": "/images/products/ph106.jpg",
+    "active": true
+  },
+  {
+    "id": 259,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Ailyons Switch & Socket – 2 Gang 2 Way",
+    "family": "Ailyons Switch & Socket",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 16000,
+        "note": ""
+      }
+    ],
+    "priceMin": 16000,
+    "priceMax": 16000,
+    "image": "/images/products/ph106.jpg",
+    "active": true
+  },
+  {
+    "id": 260,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Ailyons Switch & Socket – 3 Gang 1 Way",
+    "family": "Ailyons Switch & Socket",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 18000,
+    "image": "/images/products/ph106.jpg",
+    "active": true
+  },
+  {
+    "id": 261,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Switches",
+    "name": "Ailyons Switch & Socket – 3 Gang 2 Way",
+    "family": "Ailyons Switch & Socket",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 19000,
+        "note": ""
+      }
+    ],
+    "priceMin": 19000,
+    "priceMax": 19000,
+    "image": "/images/products/ph106.jpg",
+    "active": true
+  },
+  {
+    "id": 262,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Sunpower Circuit Breaker",
+    "family": "Circuit Breakers",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 10000,
+        "note": ""
+      }
+    ],
+    "priceMin": 10000,
+    "priceMax": 10000,
+    "image": "/images/products/ph112.jpg",
+    "active": true
+  },
+  {
+    "id": 263,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Euronics Circuit Breaker",
+    "family": "Circuit Breakers",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 16000,
+        "note": ""
+      }
+    ],
+    "priceMin": 16000,
+    "priceMax": 16000,
+    "image": "/images/products/ph113.jpg",
+    "active": true
+  },
+  {
+    "id": 264,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Asakiz (inayotrip) Circuit Breaker",
+    "family": "Circuit Breakers",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 20000,
+        "note": ""
+      }
+    ],
+    "priceMin": 20000,
+    "priceMax": 20000,
+    "image": "/images/products/ph115.jpg",
+    "active": true
+  },
+  {
+    "id": 265,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Africab Circuit Breaker",
+    "family": "Circuit Breakers",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 30000,
+        "note": ""
+      }
+    ],
+    "priceMin": 30000,
+    "priceMax": 30000,
+    "image": "/images/products/ph110.jpg",
+    "active": true
+  },
+  {
+    "id": 266,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Havells Circuit Breaker",
+    "family": "Circuit Breakers",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 30000,
+        "note": ""
+      }
+    ],
+    "priceMin": 30000,
+    "priceMax": 30000,
+    "image": "/images/products/ph114.jpg",
+    "active": true
+  },
+  {
+    "id": 267,
+    "category": "Ulinzi wa Vifaa (Safety)",
+    "subcategory": "Protection & Control",
+    "name": "Tronic Circuit Breaker",
+    "family": "Circuit Breakers",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 44000,
+        "note": ""
+      }
+    ],
+    "priceMin": 44000,
+    "priceMax": 44000,
+    "image": "/images/products/ph111.jpg",
+    "active": true
+  },
+  {
+    "id": 268,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Africab Main Switch – PVC 2-Way",
+    "family": "Africab Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 25000,
+        "note": ""
+      }
+    ],
+    "priceMin": 25000,
+    "priceMax": 25000,
+    "image": "/images/products/ph119.jpg",
+    "active": true
+  },
+  {
+    "id": 269,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Africab Main Switch – PVC 3-Way",
+    "family": "Africab Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 29000,
+        "note": ""
+      }
+    ],
+    "priceMin": 29000,
+    "priceMax": 29000,
+    "image": "/images/products/ph119.jpg",
+    "active": true
+  },
+  {
+    "id": 270,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Africab Main Switch – PVC 4-Way",
+    "family": "Africab Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 31000,
+        "note": ""
+      }
+    ],
+    "priceMin": 31000,
+    "priceMax": 31000,
+    "image": "/images/products/ph119.jpg",
+    "active": true
+  },
+  {
+    "id": 271,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Africab Main Switch – Metal 4-Way",
+    "family": "Africab Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 65000,
+        "note": ""
+      }
+    ],
+    "priceMin": 65000,
+    "priceMax": 65000,
+    "image": "/images/products/ph118.jpg",
+    "active": true
+  },
+  {
+    "id": 272,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Africab Main Switch – Metal 6-Way",
+    "family": "Africab Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 75000,
+        "note": ""
+      }
+    ],
+    "priceMin": 75000,
+    "priceMax": 75000,
+    "image": "/images/products/ph118.jpg",
+    "active": true
+  },
+  {
+    "id": 273,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Africab Main Switch – Metal 8-Way",
+    "family": "Africab Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 95000,
+        "note": ""
+      }
+    ],
+    "priceMin": 95000,
+    "priceMax": 95000,
+    "image": "/images/products/ph118.jpg",
+    "active": true
+  },
+  {
+    "id": 274,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Africab Main Switch – Metal 12-Way",
+    "family": "Africab Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 130000,
+        "note": ""
+      }
+    ],
+    "priceMin": 130000,
+    "priceMax": 130000,
+    "image": "/images/products/ph118.jpg",
+    "active": true
+  },
+  {
+    "id": 275,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Ailyons PVC Main Switch – 2-Way",
+    "family": "Ailyons PVC Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 22000,
+        "note": ""
+      }
+    ],
+    "priceMin": 22000,
+    "priceMax": 22000,
+    "image": "/images/products/ph120.jpg",
+    "active": true
+  },
+  {
+    "id": 276,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Ailyons PVC Main Switch – 3-Way",
+    "family": "Ailyons PVC Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 25000,
+        "note": ""
+      }
+    ],
+    "priceMin": 25000,
+    "priceMax": 25000,
+    "image": "/images/products/ph120.jpg",
+    "active": true
+  },
+  {
+    "id": 277,
+    "category": "Power & Extensions",
+    "subcategory": "Power & Plugs",
+    "name": "Ailyons PVC Main Switch – 4-Way",
+    "family": "Ailyons PVC Main Switch",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 27000,
+        "note": ""
+      }
+    ],
+    "priceMin": 27000,
+    "priceMax": 27000,
+    "image": "/images/products/ph120.jpg",
+    "active": true
+  },
+  {
+    "id": 278,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Fibit Single Metal Box",
+    "family": "Metal Boxes (Euronics, Fibit, Tronic, Africab, Alyons, Eurotrix)",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 5000,
+        "note": ""
+      }
+    ],
+    "priceMin": 5000,
+    "priceMax": 5000,
+    "image": "/images/products/ph156.jpg",
+    "active": true
+  },
+  {
+    "id": 279,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Fibit Double Metal Box",
+    "family": "Metal Boxes (Euronics, Fibit, Tronic, Africab, Alyons, Eurotrix)",
+    "variants": [
+      {
+        "label": "5pcs",
+        "price": 5000,
+        "note": ""
+      }
+    ],
+    "priceMin": 5000,
+    "priceMax": 5000,
+    "image": "/images/products/ph156.jpg",
+    "active": true
+  },
+  {
+    "id": 280,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Alyons Single Metal Box",
+    "family": "Metal Boxes (Euronics, Fibit, Tronic, Africab, Alyons, Eurotrix)",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 5500,
+        "note": ""
+      }
+    ],
+    "priceMin": 5500,
+    "priceMax": 5500,
+    "image": "/images/products/ph159.jpg",
+    "active": true
+  },
+  {
+    "id": 281,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Alyons Double Metal Box",
+    "family": "Metal Boxes (Euronics, Fibit, Tronic, Africab, Alyons, Eurotrix)",
+    "variants": [
+      {
+        "label": "5pcs",
+        "price": 5500,
+        "note": ""
+      }
+    ],
+    "priceMin": 5500,
+    "priceMax": 5500,
+    "image": "/images/products/ph159.jpg",
+    "active": true
+  },
+  {
+    "id": 282,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Euronics Single Metal Box",
+    "family": "Metal Boxes (Euronics, Fibit, Tronic, Africab, Alyons, Eurotrix)",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 12000,
+        "note": ""
+      }
+    ],
+    "priceMin": 12000,
+    "priceMax": 12000,
+    "image": "/images/products/ph155.jpg",
+    "active": true
+  },
+  {
+    "id": 283,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Euronics Double Metal Box",
+    "family": "Metal Boxes (Euronics, Fibit, Tronic, Africab, Alyons, Eurotrix)",
+    "variants": [
+      {
+        "label": "5pcs",
+        "price": 8500,
+        "note": ""
+      }
+    ],
+    "priceMin": 8500,
+    "priceMax": 8500,
+    "image": "/images/products/ph155.jpg",
+    "active": true
+  },
+  {
+    "id": 284,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Eurotrix Single Metal Box",
+    "family": "Metal Boxes (Euronics, Fibit, Tronic, Africab, Alyons, Eurotrix)",
+    "variants": [
+      {
+        "label": "10pcs) ngumu kabisa",
+        "price": 13000,
+        "note": ""
+      }
+    ],
+    "priceMin": 13000,
+    "priceMax": 13000,
+    "image": "/images/products/ph160.jpg",
+    "active": true
+  },
+  {
+    "id": 285,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Eurotrix Double Metal Box",
+    "family": "Metal Boxes (Euronics, Fibit, Tronic, Africab, Alyons, Eurotrix)",
+    "variants": [
+      {
+        "label": "5pcs) ngumu kabisa",
+        "price": 10500,
+        "note": ""
+      }
+    ],
+    "priceMin": 10500,
+    "priceMax": 10500,
+    "image": "/images/products/ph160.jpg",
+    "active": true
+  },
+  {
+    "id": 286,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Africab Single Metal Box",
+    "family": "Metal Boxes (Euronics, Fibit, Tronic, Africab, Alyons, Eurotrix)",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 13500,
+        "note": ""
+      }
+    ],
+    "priceMin": 13500,
+    "priceMax": 13500,
+    "image": "/images/products/ph158.jpg",
+    "active": true
+  },
+  {
+    "id": 287,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Africab Double Metal Box",
+    "family": "Metal Boxes (Euronics, Fibit, Tronic, Africab, Alyons, Eurotrix)",
+    "variants": [
+      {
+        "label": "5pcs",
+        "price": 10500,
+        "note": ""
+      }
+    ],
+    "priceMin": 10500,
+    "priceMax": 10500,
+    "image": "/images/products/ph158.jpg",
+    "active": true
+  },
+  {
+    "id": 288,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Tronic Single Metal Box",
+    "family": "Metal Boxes (Euronics, Fibit, Tronic, Africab, Alyons, Eurotrix)",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 17500,
+        "note": ""
+      }
+    ],
+    "priceMin": 17500,
+    "priceMax": 17500,
+    "image": "/images/products/ph157.jpg",
+    "active": true
+  },
+  {
+    "id": 289,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Tronic Double Metal Box",
+    "family": "Metal Boxes (Euronics, Fibit, Tronic, Africab, Alyons, Eurotrix)",
+    "variants": [
+      {
+        "label": "5pcs",
+        "price": 12000,
+        "note": ""
+      }
+    ],
+    "priceMin": 12000,
+    "priceMax": 12000,
+    "image": "/images/products/ph157.jpg",
+    "active": true
+  },
+  {
+    "id": 290,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Fibit Surface box single",
+    "family": "Fibit Surface Box",
+    "variants": [
+      {
+        "label": "20pcs",
+        "price": 8500,
+        "note": ""
+      }
+    ],
+    "priceMin": 8500,
+    "priceMax": 8500,
+    "image": "/images/products/ph168.jpg",
+    "active": true
+  },
+  {
+    "id": 291,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Sockets & Holders",
+    "name": "Fibit Surface box double",
+    "family": "Fibit Surface Box",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 8500,
+        "note": ""
+      }
+    ],
+    "priceMin": 8500,
+    "priceMax": 8500,
+    "image": "/images/products/ph168.jpg",
+    "active": true
+  },
+  {
+    "id": 292,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Viin Tape (kawaida)",
+    "family": "Insulation Tape",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 4500,
+        "note": ""
+      }
+    ],
+    "priceMin": 4500,
+    "priceMax": 4500,
+    "image": "/images/products/ph165.jpg",
+    "active": true
+  },
+  {
+    "id": 293,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Hippo Tape",
+    "family": "Insulation Tape",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 7000,
+        "note": ""
+      }
+    ],
+    "priceMin": 7000,
+    "priceMax": 7000,
+    "image": "/images/products/ph166.jpg",
+    "active": true
+  },
+  {
+    "id": 294,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Africab Tape",
+    "family": "Insulation Tape",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 8000,
+        "note": ""
+      }
+    ],
+    "priceMin": 8000,
+    "priceMax": 8000,
+    "image": "/images/products/ph164.jpg",
+    "active": true
+  },
+  {
+    "id": 295,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Tape",
+    "family": "Insulation Tape",
+    "variants": [
+      {
+        "label": "10pcs",
+        "price": 11500,
+        "note": ""
+      }
+    ],
+    "priceMin": 11500,
+    "priceMax": 11500,
+    "image": "/images/products/ph163.jpg",
+    "active": true
+  },
+  {
+    "id": 296,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Cable Clip 8mm",
+    "family": "Cable Clips",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 1300,
+        "note": ""
+      }
+    ],
+    "priceMin": 1300,
+    "priceMax": 1300,
+    "image": "/images/products/ph167.jpg",
+    "active": true
+  },
+  {
+    "id": 297,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Cable Clip 9mm",
+    "family": "Cable Clips",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 1400,
+        "note": ""
+      }
+    ],
+    "priceMin": 1400,
+    "priceMax": 1400,
+    "image": "/images/products/ph167.jpg",
+    "active": true
+  },
+  {
+    "id": 298,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Cable Clip 10mm",
+    "family": "Cable Clips",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 1450,
+        "note": ""
+      }
+    ],
+    "priceMin": 1450,
+    "priceMax": 1450,
+    "image": "/images/products/ph167.jpg",
+    "active": true
+  },
+  {
+    "id": 299,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Cable Clip 12mm",
+    "family": "Cable Clips",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 1550,
+        "note": ""
+      }
+    ],
+    "priceMin": 1550,
+    "priceMax": 1550,
+    "image": "/images/products/ph167.jpg",
+    "active": true
+  },
+  {
+    "id": 300,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Cable Clip 22mm",
+    "family": "Cable Clips",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 3000,
+        "note": ""
+      }
+    ],
+    "priceMin": 3000,
+    "priceMax": 3000,
+    "image": "/images/products/ph167.jpg",
+    "active": true
+  },
+  {
+    "id": 301,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Flexible Wire – 0.5mm 2core / 50m",
+    "family": "Tronic Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 48000,
+        "note": ""
+      }
+    ],
+    "priceMin": 48000,
+    "priceMax": 48000,
+    "image": "/images/products/ph199.jpg",
+    "active": true
+  },
+  {
+    "id": 302,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Flexible Wire – 0.5mm 2core / 100m",
+    "family": "Tronic Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 94000,
+        "note": ""
+      }
+    ],
+    "priceMin": 94000,
+    "priceMax": 94000,
+    "image": "/images/products/ph199.jpg",
+    "active": true
+  },
+  {
+    "id": 303,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Flexible Wire – 0.75mm 2core",
+    "family": "Tronic Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 116000,
+        "note": ""
+      }
+    ],
+    "priceMin": 116000,
+    "priceMax": 116000,
+    "image": "/images/products/ph199.jpg",
+    "active": true
+  },
+  {
+    "id": 304,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Flexible Wire – 1.5mm 3core",
+    "family": "Tronic Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 272000,
+        "note": ""
+      }
+    ],
+    "priceMin": 272000,
+    "priceMax": 272000,
+    "image": "/images/products/ph199.jpg",
+    "active": true
+  },
+  {
+    "id": 305,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Flexible Wire – 1.5mm 4core",
+    "family": "Tronic Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 353000,
+        "note": ""
+      }
+    ],
+    "priceMin": 353000,
+    "priceMax": 353000,
+    "image": "/images/products/ph199.jpg",
+    "active": true
+  },
+  {
+    "id": 306,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Flexible Wire – 2.5mm 3core",
+    "family": "Tronic Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 450000,
+        "note": ""
+      }
+    ],
+    "priceMin": 450000,
+    "priceMax": 450000,
+    "image": "/images/products/ph199.jpg",
+    "active": true
+  },
+  {
+    "id": 307,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Flexible Wire – 2.5mm 4core",
+    "family": "Tronic Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 560000,
+        "note": ""
+      }
+    ],
+    "priceMin": 560000,
+    "priceMax": 560000,
+    "image": "/images/products/ph199.jpg",
+    "active": true
+  },
+  {
+    "id": 308,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Flexible Wire – 4mm 3core",
+    "family": "Tronic Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 730000,
+        "note": ""
+      }
+    ],
+    "priceMin": 730000,
+    "priceMax": 730000,
+    "image": "/images/products/ph199.jpg",
+    "active": true
+  },
+  {
+    "id": 309,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic Flexible Wire – 4mm 4core",
+    "family": "Tronic Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 980000,
+        "note": ""
+      }
+    ],
+    "priceMin": 980000,
+    "priceMax": 980000,
+    "image": "/images/products/ph199.jpg",
+    "active": true
+  },
+  {
+    "id": 310,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Flexible Wire – 0.5mm 2core",
+    "family": "Master Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 45000,
+        "note": ""
+      }
+    ],
+    "priceMin": 45000,
+    "priceMax": 45000,
+    "image": "/images/products/ph200.jpg",
+    "active": true
+  },
+  {
+    "id": 311,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Flexible Wire – 1mm 3core",
+    "family": "Master Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 200000,
+        "note": ""
+      }
+    ],
+    "priceMin": 200000,
+    "priceMax": 200000,
+    "image": "/images/products/ph200.jpg",
+    "active": true
+  },
+  {
+    "id": 312,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Flexible Wire – 1.5mm 4core",
+    "family": "Master Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 350000,
+        "note": ""
+      }
+    ],
+    "priceMin": 350000,
+    "priceMax": 350000,
+    "image": "/images/products/ph200.jpg",
+    "active": true
+  },
+  {
+    "id": 313,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Flexible Wire – 2.5mm 3core",
+    "family": "Master Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 410000,
+        "note": ""
+      }
+    ],
+    "priceMin": 410000,
+    "priceMax": 410000,
+    "image": "/images/products/ph200.jpg",
+    "active": true
+  },
+  {
+    "id": 314,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Flexible Wire – 2.5mm 4core",
+    "family": "Master Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 550000,
+        "note": ""
+      }
+    ],
+    "priceMin": 550000,
+    "priceMax": 550000,
+    "image": "/images/products/ph200.jpg",
+    "active": true
+  },
+  {
+    "id": 315,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Flexible Wire – 4mm 3core",
+    "family": "Master Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 665000,
+        "note": ""
+      }
+    ],
+    "priceMin": 665000,
+    "priceMax": 665000,
+    "image": "/images/products/ph200.jpg",
+    "active": true
+  },
+  {
+    "id": 316,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Flexible Wire – 4mm 4core",
+    "family": "Master Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 850000,
+        "note": ""
+      }
+    ],
+    "priceMin": 850000,
+    "priceMax": 850000,
+    "image": "/images/products/ph200.jpg",
+    "active": true
+  },
+  {
+    "id": 317,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Flexible Wire – 6mm 3core",
+    "family": "Master Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 950000,
+        "note": ""
+      }
+    ],
+    "priceMin": 950000,
+    "priceMax": 950000,
+    "image": "/images/products/ph200.jpg",
+    "active": true
+  },
+  {
+    "id": 318,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master Flexible Wire – 6mm 4core",
+    "family": "Master Flexible Wire",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 1255000,
+        "note": ""
+      }
+    ],
+    "priceMin": 1255000,
+    "priceMax": 1255000,
+    "image": "/images/products/ph200.jpg",
+    "active": true
+  },
+  {
+    "id": 319,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic 1.5mm Twin Cable",
+    "family": "Twin Cable (Tronic & Master)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 214000,
+        "note": ""
+      }
+    ],
+    "priceMin": 214000,
+    "priceMax": 214000,
+    "image": "/images/products/ph203.jpg",
+    "active": true
+  },
+  {
+    "id": 320,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic 2.5mm Twin Cable",
+    "family": "Twin Cable (Tronic & Master)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 330000,
+        "note": ""
+      }
+    ],
+    "priceMin": 330000,
+    "priceMax": 330000,
+    "image": "/images/products/ph203.jpg",
+    "active": true
+  },
+  {
+    "id": 321,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic 4mm Twin Cable",
+    "family": "Twin Cable (Tronic & Master)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 488000,
+        "note": ""
+      }
+    ],
+    "priceMin": 488000,
+    "priceMax": 488000,
+    "image": "/images/products/ph203.jpg",
+    "active": true
+  },
+  {
+    "id": 322,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic 6mm Twin Cable",
+    "family": "Twin Cable (Tronic & Master)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 728000,
+        "note": ""
+      }
+    ],
+    "priceMin": 728000,
+    "priceMax": 728000,
+    "image": "/images/products/ph203.jpg",
+    "active": true
+  },
+  {
+    "id": 323,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic 10mm Twin Cable",
+    "family": "Twin Cable (Tronic & Master)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 1195000,
+        "note": ""
+      }
+    ],
+    "priceMin": 1195000,
+    "priceMax": 1195000,
+    "image": "/images/products/ph203.jpg",
+    "active": true
+  },
+  {
+    "id": 324,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Tronic 16mm Twin Cable",
+    "family": "Twin Cable (Tronic & Master)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 1890000,
+        "note": ""
+      }
+    ],
+    "priceMin": 1890000,
+    "priceMax": 1890000,
+    "image": "/images/products/ph203.jpg",
+    "active": true
+  },
+  {
+    "id": 325,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master 1.5mm Twin Cable",
+    "family": "Twin Cable (Tronic & Master)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 202000,
+        "note": ""
+      }
+    ],
+    "priceMin": 202000,
+    "priceMax": 202000,
+    "image": "/images/products/ph204.jpg",
+    "active": true
+  },
+  {
+    "id": 326,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master 2.5mm Twin Cable",
+    "family": "Twin Cable (Tronic & Master)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 312000,
+        "note": ""
+      }
+    ],
+    "priceMin": 312000,
+    "priceMax": 312000,
+    "image": "/images/products/ph204.jpg",
+    "active": true
+  },
+  {
+    "id": 327,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master 4mm Twin Cable",
+    "family": "Twin Cable (Tronic & Master)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 465000,
+        "note": ""
+      }
+    ],
+    "priceMin": 465000,
+    "priceMax": 465000,
+    "image": "/images/products/ph204.jpg",
+    "active": true
+  },
+  {
+    "id": 328,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master 6mm Twin Cable",
+    "family": "Twin Cable (Tronic & Master)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 688000,
+        "note": ""
+      }
+    ],
+    "priceMin": 688000,
+    "priceMax": 688000,
+    "image": "/images/products/ph204.jpg",
+    "active": true
+  },
+  {
+    "id": 329,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master 10mm Twin Cable",
+    "family": "Twin Cable (Tronic & Master)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 1125000,
+        "note": ""
+      }
+    ],
+    "priceMin": 1125000,
+    "priceMax": 1125000,
+    "image": "/images/products/ph204.jpg",
+    "active": true
+  },
+  {
+    "id": 330,
+    "category": "Vifaa vya Umeme (Electrical)",
+    "subcategory": "Wires & Cables",
+    "name": "Master 16mm Twin Cable",
+    "family": "Twin Cable (Tronic & Master)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 1780000,
+        "note": ""
+      }
+    ],
+    "priceMin": 1780000,
+    "priceMax": 1780000,
+    "image": "/images/products/ph204.jpg",
+    "active": true
+  },
+  {
+    "id": 331,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Padlock (dozen)",
+    "family": "Padlocks by Dozen / Pack (Kufuli)",
+    "variants": [
+      {
+        "label": "12pcs",
+        "price": 7000,
+        "note": ""
+      }
+    ],
+    "priceMin": 7000,
+    "priceMax": 7000,
+    "image": "/images/products/ph181.jpg",
+    "active": true
+  },
+  {
+    "id": 332,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Solix Star Padlock (dozen/pack)",
+    "family": "Padlocks by Dozen / Pack (Kufuli)",
+    "variants": [
+      {
+        "label": "dozen 12pcs",
+        "price": 12000,
+        "note": ""
+      }
+    ],
+    "priceMin": 12000,
+    "priceMax": 12000,
+    "image": "/images/products/ph180.jpg",
+    "active": true
+  },
+  {
+    "id": 333,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Kai Hong Padlock (dozen/pack)",
+    "family": "Padlocks by Dozen / Pack (Kufuli)",
+    "variants": [
+      {
+        "label": "dozen 12pcs",
+        "price": 13000,
+        "note": ""
+      }
+    ],
+    "priceMin": 13000,
+    "priceMax": 13000,
+    "image": "/images/products/ph177.jpg",
+    "active": true
+  },
+  {
+    "id": 334,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Solix VIP Padlock (dozen/pack)",
+    "family": "Padlocks by Dozen / Pack (Kufuli)",
+    "variants": [
+      {
+        "label": "dozen 12pcs",
+        "price": 16000,
+        "note": ""
+      }
+    ],
+    "priceMin": 16000,
+    "priceMax": 16000,
+    "image": "/images/products/ph179.jpg",
+    "active": true
+  },
+  {
+    "id": 335,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "AUTO Padlock (dozen/pack)",
+    "family": "Padlocks by Dozen / Pack (Kufuli)",
+    "variants": [
+      {
+        "label": "dozen 12pcs",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 18000,
+    "image": "/images/products/ph178.jpg",
+    "active": true
+  },
+  {
+    "id": 336,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Solda pack Padlock (dozen/pack)",
+    "family": "Padlocks by Dozen / Pack (Kufuli)",
+    "variants": [
+      {
+        "label": "9pcs",
+        "price": 20000,
+        "note": ""
+      }
+    ],
+    "priceMin": 20000,
+    "priceMax": 20000,
+    "image": "/images/products/ph176.jpg",
+    "active": true
+  },
+  {
+    "id": 337,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Solit No. 40 Padlock",
+    "family": "Padlocks Single (Kufuli)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 2500,
+        "note": ""
+      }
+    ],
+    "priceMin": 2500,
+    "priceMax": 2500,
+    "image": "/images/products/ph186.jpg",
+    "active": true
+  },
+  {
+    "id": 338,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Solit No. 50 Padlock",
+    "family": "Padlocks Single (Kufuli)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 3000,
+        "note": ""
+      }
+    ],
+    "priceMin": 3000,
+    "priceMax": 3000,
+    "image": "/images/products/ph186.jpg",
+    "active": true
+  },
+  {
+    "id": 339,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Solit No. 60 Padlock",
+    "family": "Padlocks Single (Kufuli)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 3500,
+        "note": ""
+      }
+    ],
+    "priceMin": 3500,
+    "priceMax": 3500,
+    "image": "/images/products/ph186.jpg",
+    "active": true
+  },
+  {
+    "id": 340,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Solit No. 70 Padlock",
+    "family": "Padlocks Single (Kufuli)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 4000,
+        "note": ""
+      }
+    ],
+    "priceMin": 4000,
+    "priceMax": 4000,
+    "image": "/images/products/ph186.jpg",
+    "active": true
+  },
+  {
+    "id": 341,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Robson 70mm Padlock",
+    "family": "Padlocks Single (Kufuli)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 6000,
+        "note": ""
+      }
+    ],
+    "priceMin": 6000,
+    "priceMax": 6000,
+    "image": "/images/products/ph182.jpg",
+    "active": true
+  },
+  {
+    "id": 342,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Aware 70mm Padlock",
+    "family": "Padlocks Single (Kufuli)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 6500,
+        "note": ""
+      }
+    ],
+    "priceMin": 6500,
+    "priceMax": 6500,
+    "image": "/images/products/ph183.jpg",
+    "active": true
+  },
+  {
+    "id": 343,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Mindy 70mm Padlock",
+    "family": "Padlocks Single (Kufuli)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 7000,
+        "note": ""
+      }
+    ],
+    "priceMin": 7000,
+    "priceMax": 7000,
+    "image": "/images/products/ph184.jpg",
+    "active": true
+  },
+  {
+    "id": 344,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Aglow 94mm Padlock",
+    "family": "Padlocks Single (Kufuli)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 10500,
+        "note": ""
+      }
+    ],
+    "priceMin": 10500,
+    "priceMax": 10500,
+    "image": "/images/products/ph185.jpg",
+    "active": true
+  },
+  {
+    "id": 345,
+    "category": "Tech & Home",
+    "subcategory": "Locks (Kufuli)",
+    "name": "Buckler H70 Padlock",
+    "family": "Padlocks Single (Kufuli)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 12500,
+        "note": ""
+      }
+    ],
+    "priceMin": 12500,
+    "priceMax": 12500,
+    "image": "/images/products/ph187.jpg",
+    "active": true
+  },
+  {
+    "id": 346,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Wear Hair Clipper",
+    "family": "Hair Clippers (Mashine za Kunyolea)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 16000,
+        "note": ""
+      }
+    ],
+    "priceMin": 16000,
+    "priceMax": 16000,
+    "image": "/images/products/ph188.jpg",
+    "active": true
+  },
+  {
+    "id": 347,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Homecut Hair Clipper",
+    "family": "Hair Clippers (Mashine za Kunyolea)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 16000,
+        "note": ""
+      }
+    ],
+    "priceMin": 16000,
+    "priceMax": 16000,
+    "image": "/images/products/ph191.jpg",
+    "active": true
+  },
+  {
+    "id": 348,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Sunder (waya) Hair Clipper",
+    "family": "Hair Clippers (Mashine za Kunyolea)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 18000,
+    "image": "/images/products/ph190.jpg",
+    "active": true
+  },
+  {
+    "id": 349,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Sunder (kuchaji) Hair Clipper",
+    "family": "Hair Clippers (Mashine za Kunyolea)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 18000,
+    "image": "/images/products/ph189.jpg",
+    "active": true
+  },
+  {
+    "id": 350,
+    "category": "Tech & Home",
+    "subcategory": "Home & Appliances",
+    "name": "Kemei Hair Clipper",
+    "family": "Hair Clippers (Mashine za Kunyolea)",
+    "variants": [
+      {
+        "label": "Kipande 1",
+        "price": 18000,
+        "note": ""
+      }
+    ],
+    "priceMin": 18000,
+    "priceMax": 18000,
+    "image": "/images/products/ph192.jpg",
     "active": true
   }
 ]
